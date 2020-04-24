@@ -1,0 +1,1001 @@
+DateTime_Intake,Found Location,Intake Type,Intake Condition,Animal Type_Intake,Sex upon Intake,Age upon Intake,Breed_Intake,Sex upon Outcome,Age upon Outcome,binary_outcome,index,intake_am_pm,intake_time,percent,domesticIndex,season,time_spend_shelter
+11/05/2016 12:12:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,5,Domestic Shorthair Mix,Neutered Male,5,0.0,0,PM,2016-11-05,0.38461538461538464,0.9,Quarter 3,0.14665752664688245
+09/28/2016 11:55:00 AM,Austin (TX),Public Assist,Normal,Dog,Intact Male,60,Pit Bull,Intact Male,60,0.0,1,AM,2016-09-28,14.285714285714285,0.48,Quarter 3,0.08401443045828888
+06/05/2015 05:18:00 PM,Travis (TX),Stray,Nursing,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,2,PM,2015-06-05,0.38461538461538464,0.43200000000000005,Quarter 2,-2.1674347732390005
+05/29/2015 11:45:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,3,PM,2015-05-29,6.666666666666667,0.0,Quarter 2,-1.766474353505891
+12/29/2015 12:58:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,2,0.0,4,PM,2015-12-29,2.0,0.54,Quarter 3,-0.7656178919012654
+06/10/2014 06:47:00 PM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,36,Bruss Griffon Mix,Spayed Female,36,0.0,5,PM,2014-06-10,50.0,0.8,Quarter 2,-0.39415578161629067
+07/12/2016 11:55:00 AM,Austin (TX),Owner Surrender,Injured,Dog,Spayed Female,120,Pit Bull Mix,Spayed Female,120,1.0,6,AM,2016-07-12,1.5384615384615385,0.2,Quarter 2,1.6958456078271338
+07/07/2017 08:55:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Miniature Poodle Mix,Spayed Female,1,0.0,7,AM,2017-07-07,7.6923076923076925,0.54,Quarter 2,-1.0621450925875584
+01/13/2018 11:07:00 AM,Del Valle (TX),Stray,Normal,Dog,Intact Female,1,Border Terrier Mix,Spayed Female,2,0.0,8,AM,2018-01-13,50.0,0.54,Quarter 1,0.8477754118549593
+06/13/2015 04:13:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,9,PM,2015-06-13,0.38461538461538464,0.54,Quarter 2,-1.4625814988071666
+02/17/2016 05:04:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,24,Australian Kelpie Mix,Spayed Female,24,0.0,10,PM,2016-02-17,50.0,0.9,Quarter 1,-1.2863096437699466
+09/22/2014 05:25:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,11,Chihuahua Shorthair Mix,Neutered Male,11,0.0,11,PM,2014-09-22,1.694915254237288,0.6,Quarter 3,0.7527002131010265
+08/31/2016 10:11:00 PM,Austin (TX),Public Assist,Normal,Cat,Spayed Female,24,Domestic Medium Hair Mix,Spayed Female,24,0.0,12,PM,2016-08-31,2.857142857142857,0.8,Quarter 2,0.5834046881398844
+10/16/2013 10:45:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,13,AM,2013-10-16,2.857142857142857,0.43200000000000005,Quarter 3,0.29171044299266996
+05/14/2015 06:53:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,2,Pit Bull Mix,Neutered Male,2,0.0,14,PM,2015-05-14,1.5384615384615385,0.9,Quarter 2,0.48931738718876183
+04/13/2015 11:40:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,9,German Shepherd,Spayed Female,9,0.0,15,AM,2015-04-13,20.0,0.9,Quarter 1,-0.8808759763405584
+09/21/2016 09:40:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,8,German Shepherd Mix,Spayed Female,8,0.0,16,AM,2016-09-21,4.166666666666666,0.6,Quarter 3,0.9137666855851084
+12/29/2016 01:14:00 PM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,1,Pit Bull Mix,Spayed Female,10,0.0,17,PM,2016-12-29,1.5384615384615385,0.8,Quarter 3,0.3857127704988832
+02/15/2017 12:18:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,18,PM,2017-02-15,0.21691973969631237,0.54,Quarter 1,1.0681758858698338
+01/04/2014 03:36:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,2,others,Neutered Male,2,0.0,19,PM,2014-01-04,0.21691973969631237,0.54,Quarter 1,1.300935318206234
+12/19/2015 11:53:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,9,0.0,20,AM,2015-12-19,0.38461538461538464,0.54,Quarter 3,-0.6504444752366397
+09/11/2015 07:36:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,9,others,Neutered Male,10,0.0,21,PM,2015-09-11,0.21691973969631237,0.54,Quarter 3,0.5652131045616651
+11/14/2019 12:03:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Female,24,others,Intact Female,24,0.0,22,PM,2019-11-14,0.21691973969631237,0.48,Quarter 3,0.19375303520250062
+12/16/2016 03:53:00 PM,Austin (TX),Owner Surrender,Nursing,Dog,Intact Female,1,Chihuahua Shorthair Mix,Intact Female,1,0.0,23,PM,2016-12-16,1.694915254237288,0.48,Quarter 3,-1.035753029324534
+07/31/2019 04:58:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,2,0.0,24,PM,2019-07-31,0.21691973969631237,0.54,Quarter 2,-0.9416403257535357
+10/02/2013 05:32:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Border Terrier Mix,Spayed Female,1,0.0,25,PM,2013-10-02,50.0,0.54,Quarter 3,0.21626723537046336
+03/15/2015 11:10:00 AM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,84,others,Spayed Female,84,0.0,26,AM,2015-03-15,0.21691973969631237,0.8,Quarter 1,-0.6159291100513334
+12/28/2019 11:37:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,60,others,Intact Female,60,0.0,27,AM,2019-12-28,0.21691973969631237,0.54,Quarter 3,-0.2089804417057601
+07/09/2014 12:58:00 PM,Pflugerville (TX),Public Assist,Normal,Cat,Intact Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,28,PM,2014-07-09,0.38461538461538464,0.48,Quarter 2,-0.20061102739165246
+08/14/2017 03:53:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,29,PM,2017-08-14,0.21691973969631237,0.9,Quarter 2,0.5288522233433591
+04/13/2014 11:35:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,5,others,Spayed Female,6,0.0,30,AM,2014-04-13,0.21691973969631237,0.54,Quarter 1,-0.7177380807269189
+02/25/2016 04:05:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,5,others,Neutered Male,5,0.0,31,PM,2016-02-25,0.21691973969631237,0.54,Quarter 1,-0.8031260517758424
+12/30/2018 04:18:00 PM,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,72,Pit Bull Mix,Spayed Female,72,0.0,32,PM,2018-12-30,1.5384615384615385,1.0,Quarter 3,-1.1525344590463702
+05/01/2019 02:34:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,2,0.0,33,PM,2019-05-01,2.857142857142857,0.54,Quarter 2,1.8547110290062223
+03/30/2019 12:21:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,34,PM,2019-03-30,0.21691973969631237,0.54,Quarter 1,0.6065365767172097
+01/17/2016 03:15:00 PM,Travis (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,35,PM,2016-01-17,0.38461538461538464,0.54,Quarter 1,0.39551413461846685
+01/31/2014 03:17:00 PM,Sunset Valley (TX),Stray,Normal,Dog,Spayed Female,72,Pit Bull Mix,Spayed Female,72,0.0,36,PM,2014-01-31,1.5384615384615385,0.9,Quarter 1,0.6205652785350945
+02/08/2014 12:37:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,24,Domestic Shorthair Mix,Intact Male,24,0.0,37,PM,2014-02-08,0.38461538461538464,0.54,Quarter 1,-0.3714914269626427
+03/26/2014 11:15:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Female,0,Domestic Shorthair Mix,Intact Female,0,0.0,38,AM,2014-03-26,0.38461538461538464,0.43200000000000005,Quarter 1,-0.37708621928405167
+07/28/2015 11:19:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,5,others,Neutered Male,7,0.0,39,AM,2015-07-28,0.21691973969631237,0.54,Quarter 2,1.193801842298296
+01/07/2014 04:05:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,36,Chihuahua Shorthair Mix,Intact Male,36,0.0,40,PM,2014-01-07,1.694915254237288,0.6,Quarter 1,-0.7904491270894479
+06/25/2016 04:21:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,84,Domestic Shorthair Mix,Spayed Female,84,0.0,41,PM,2016-06-25,0.38461538461538464,1.0,Quarter 2,0.43315177561883944
+09/09/2016 04:16:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,1,0.0,42,PM,2016-09-09,1.694915254237288,0.54,Quarter 3,-1.0212359580690036
+08/20/2015 12:45:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,24,others,Unknown,24,1.0,43,PM,2015-08-20,0.21691973969631237,0.0,Quarter 2,0.11667697995996335
+07/01/2019 10:52:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,3,0.0,44,AM,2019-07-01,0.21691973969631237,0.54,Quarter 2,1.7304169751518477
+03/02/2017 01:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Intact Female,3,0.0,45,PM,2017-03-02,0.21691973969631237,0.54,Quarter 1,0.48391715958785647
+02/01/2017 12:35:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,6,Domestic Shorthair Mix,Intact Male,6,0.0,46,PM,2017-02-01,0.38461538461538464,0.54,Quarter 1,0.11385600585796969
+07/29/2015 11:40:00 AM,Travis (TX),Stray,Nursing,Dog,Intact Female,1,Pit Bull Mix,Intact Female,1,0.0,47,AM,2015-07-29,1.5384615384615385,0.43200000000000005,Quarter 2,0.30214244725917744
+06/10/2019 01:48:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Spayed Female,2,0.0,48,PM,2019-06-10,0.21691973969631237,0.54,Quarter 2,1.990200637384866
+02/25/2016 02:23:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,49,PM,2016-02-25,0.21691973969631237,0.9,Quarter 1,-2.210197201170027
+01/24/2015 11:24:00 AM,Austin (TX),Stray,Normal,Other,Unknown,24,others,Unknown,24,1.0,50,AM,2015-01-24,0.21691973969631237,0.10800000000000001,Quarter 1,0.6829615610772348
+01/06/2018 04:27:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,51,PM,2018-01-06,0.21691973969631237,0.54,Quarter 1,0.7901697349465698
+02/08/2018 04:15:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,60,others,Spayed Female,60,0.0,52,PM,2018-02-08,0.21691973969631237,0.9,Quarter 1,-1.996132264219029
+12/09/2018 01:58:00 PM,Pflugerville (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,53,PM,2018-12-09,0.21691973969631237,1.0,Quarter 3,-0.7918585346817855
+01/20/2019 05:28:00 PM,Pflugerville (TX),Stray,Normal,Dog,Spayed Female,48,others,Spayed Female,48,0.0,54,PM,2019-01-20,0.21691973969631237,0.9,Quarter 1,0.8143666034541011
+01/05/2016 02:55:00 PM,Pflugerville (TX),Owner Surrender,Normal,Dog,Spayed Female,120,German Shepherd Mix,Spayed Female,120,0.0,55,PM,2016-01-05,4.166666666666666,1.0,Quarter 1,0.33036168178693043
+08/05/2014 01:47:00 PM,Austin (TX),Stray,Injured,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,3,0.0,56,PM,2014-08-05,0.38461538461538464,0.10800000000000001,Quarter 2,-0.268451996194271
+08/03/2014 11:26:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,3,others,Unknown,3,0.0,57,AM,2014-08-03,0.21691973969631237,0.36000000000000004,Quarter 2,0.757002031909566
+09/01/2017 03:18:00 PM,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,58,PM,2017-09-01,2.0,0.48,Quarter 3,0.7898270987613308
+09/18/2019 04:57:00 PM,Austin (TX),Owner Surrender,Nursing,Cat,Intact Female,1,others,Intact Female,1,0.0,59,PM,2019-09-18,0.21691973969631237,0.48,Quarter 3,-0.7601511596601208
+08/02/2016 01:36:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,60,PM,2016-08-02,0.21691973969631237,0.54,Quarter 2,0.9744594730054543
+11/08/2014 01:39:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,61,PM,2014-11-08,0.21691973969631237,0.54,Quarter 3,0.555107865122939
+03/06/2018 05:52:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,0,others,Spayed Female,1,0.0,62,PM,2018-03-06,0.21691973969631237,0.54,Quarter 1,0.06704037447810735
+09/28/2017 05:16:00 PM,Austin (TX),Stray,Injured,Dog,Spayed Female,156,Chihuahua Shorthair Mix,Spayed Female,156,0.0,63,PM,2017-09-28,1.694915254237288,0.18000000000000002,Quarter 3,0.16056406547664853
+04/24/2015 11:30:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,96,Labrador Retriever Mix,Neutered Male,96,0.0,64,AM,2015-04-24,2.0,0.54,Quarter 1,0.4296491458010596
+05/19/2016 08:10:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,65,AM,2016-05-19,0.38461538461538464,0.43200000000000005,Quarter 2,0.25806039033147793
+11/18/2016 01:25:00 PM,Del Valle (TX),Stray,Normal,Dog,Intact Female,6,others,Spayed Female,6,0.0,66,PM,2016-11-18,0.21691973969631237,0.54,Quarter 3,-0.3933523217414088
+12/19/2016 06:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Pit Bull Mix,Intact Male,1,0.0,67,PM,2016-12-19,1.5384615384615385,0.54,Quarter 3,1.9724549554637327
+01/18/2015 03:37:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,84,Pit Bull Mix,Spayed Female,84,0.0,68,PM,2015-01-18,1.5384615384615385,1.0,Quarter 1,0.6280600751690972
+02/01/2019 01:13:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,24,Domestic Shorthair Mix,Neutered Male,24,0.0,69,PM,2019-02-01,0.38461538461538464,0.54,Quarter 1,2.0814004277901117
+07/12/2018 10:29:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,70,AM,2018-07-12,0.21691973969631237,0.54,Quarter 2,1.045831600671765
+02/08/2019 03:57:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,71,PM,2019-02-08,0.21691973969631237,0.54,Quarter 1,1.456850325415571
+05/15/2014 12:10:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,24,others,Intact Female,24,0.0,72,PM,2014-05-15,0.21691973969631237,0.6,Quarter 2,2.2782051462257895
+07/05/2014 01:50:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,1,0.0,73,PM,2014-07-05,1.694915254237288,0.54,Quarter 2,-0.2721824535961591
+07/22/2015 11:44:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,9,Australian Kelpie Mix,Neutered Male,1,0.0,74,AM,2015-07-22,50.0,0.54,Quarter 2,-0.6697126780563825
+02/24/2015 12:26:00 PM,Lakeway (TX),Owner Surrender,Normal,Cat,Intact Female,36,Domestic Shorthair Mix,Spayed Female,36,0.0,75,PM,2015-02-24,0.38461538461538464,0.6,Quarter 1,0.0514811611396623
+09/17/2018 01:29:00 PM,Pflugerville (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,76,PM,2018-09-17,0.21691973969631237,0.54,Quarter 3,1.2966454513374501
+12/31/2018 03:47:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,24,Pit Bull Mix,Spayed Female,24,0.0,77,PM,2018-12-31,1.5384615384615385,1.0,Quarter 3,0.35071692875027227
+04/08/2014 11:33:00 AM,Travis (TX),Stray,Injured,Dog,Neutered Male,96,Pit Bull,Neutered Male,96,0.0,78,AM,2014-04-08,14.285714285714285,0.18000000000000002,Quarter 1,-0.1555871465126294
+08/13/2014 11:37:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,5,Labrador Retriever Mix,Spayed Female,5,0.0,79,AM,2014-08-13,2.0,0.54,Quarter 2,0.7220127032706346
+02/24/2015 12:54:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,96,Domestic Shorthair Mix,Spayed Female,96,0.0,80,PM,2015-02-24,0.38461538461538464,1.0,Quarter 1,-0.13033366638983984
+12/18/2016 09:11:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0,others,Intact Male,0,0.0,81,AM,2016-12-18,0.21691973969631237,0.6,Quarter 3,0.32738533215160315
+10/06/2018 11:45:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,36,Domestic Shorthair Mix,Neutered Male,36,0.0,82,AM,2018-10-06,0.38461538461538464,1.0,Quarter 3,0.6293687585400095
+12/09/2019 10:44:00 AM,Austin (TX),Stray,Nursing,Dog,Intact Male,1,Pit Bull Mix,Intact Male,1,0.0,83,AM,2019-12-09,1.5384615384615385,0.43200000000000005,Quarter 3,0.7805356467136834
+07/19/2019 12:38:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,2,others,Spayed Female,4,0.0,84,PM,2019-07-19,0.21691973969631237,0.54,Quarter 2,1.5479950866114265
+04/30/2018 06:20:00 PM,Austin (TX),Stray,Sick,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,85,PM,2018-04-30,0.38461538461538464,0.10800000000000001,Quarter 1,0.18853196008361206
+03/20/2017 03:54:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,36,others,Intact Male,36,0.0,86,PM,2017-03-20,0.21691973969631237,0.54,Quarter 1,0.5546866550391696
+12/03/2018 06:54:00 AM,Austin (TX),Stray,Injured,Dog,Intact Male,24,Pit Bull Mix,Neutered Male,24,0.0,87,AM,2018-12-03,1.5384615384615385,0.10800000000000001,Quarter 3,-1.218836646148572
+06/21/2016 03:28:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,60,Pit Bull Mix,Neutered Male,60,0.0,88,PM,2016-06-21,1.5384615384615385,0.54,Quarter 2,0.9046389213645543
+03/20/2014 11:47:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,4,Domestic Shorthair Mix,Intact Female,4,0.0,89,AM,2014-03-20,0.38461538461538464,0.54,Quarter 1,-1.1544246503801106
+06/20/2014 11:39:00 AM,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,1,Labrador Retriever Mix,Intact Female,1,0.0,90,AM,2014-06-20,2.0,0.12,Quarter 2,-1.116366165049749
+12/11/2016 11:37:00 AM,Travis (TX),Stray,Nursing,Dog,Intact Male,0,Chihuahua Shorthair Mix,Intact Male,0,0.0,91,AM,2016-12-11,1.694915254237288,0.43200000000000005,Quarter 3,-1.3270957477472367
+06/03/2015 03:02:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,92,PM,2015-06-03,0.38461538461538464,0.54,Quarter 2,-1.866155645232882
+10/14/2013 11:46:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,9,others,Intact Male,10,0.0,93,AM,2013-10-14,0.21691973969631237,0.54,Quarter 3,0.8793037426919359
+03/28/2015 02:46:00 AM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,94,AM,2015-03-28,6.666666666666667,0.0,Quarter 1,-0.013064228823015984
+05/18/2018 12:04:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,95,PM,2018-05-18,0.38461538461538464,0.36000000000000004,Quarter 2,0.841376783850712
+08/13/2014 04:45:00 PM,Travis (TX),Owner Surrender,Injured,Other,Intact Female,24,others,Intact Female,24,0.0,96,PM,2014-08-13,0.21691973969631237,0.036,Quarter 2,1.155255719717537
+02/25/2014 09:24:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Female,0,Domestic Shorthair Mix,Spayed Female,5,0.0,97,AM,2014-02-25,0.38461538461538464,0.43200000000000005,Quarter 1,0.27018822536817405
+07/15/2019 11:05:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,98,AM,2019-07-15,0.38461538461538464,0.54,Quarter 2,0.9614511105970258
+10/25/2014 01:49:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,99,PM,2014-10-25,0.21691973969631237,0.6,Quarter 3,0.6161348208862714
+08/31/2017 03:51:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,100,PM,2017-08-31,0.21691973969631237,0.54,Quarter 2,1.3565705125115728
+01/16/2019 03:19:00 PM,Austin (TX),Owner Surrender,Other,Dog,Neutered Male,72,others,Neutered Male,72,0.0,101,PM,2019-01-16,0.21691973969631237,0.4,Quarter 1,-1.669683396969705
+05/02/2019 08:21:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,102,AM,2019-05-02,0.38461538461538464,0.43200000000000005,Quarter 2,1.698520880104602
+11/01/2017 02:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Labrador Retriever Mix,Spayed Female,1,0.0,103,PM,2017-11-01,2.0,0.54,Quarter 3,0.24155468703426553
+01/22/2018 11:55:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,36,Domestic Medium Hair Mix,Spayed Female,36,0.0,104,AM,2018-01-22,2.857142857142857,0.6,Quarter 1,-0.3197798958407539
+11/13/2017 04:57:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,2,Domestic Shorthair Mix,Spayed Female,3,0.0,105,PM,2017-11-13,0.38461538461538464,1.0,Quarter 3,-1.522513876261765
+05/13/2014 12:47:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,106,PM,2014-05-13,0.38461538461538464,0.36000000000000004,Quarter 2,-0.2703184459940516
+10/25/2015 01:18:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,107,PM,2015-10-25,0.21691973969631237,0.6,Quarter 3,-1.6536637805623045
+05/07/2016 08:24:00 AM,Austin (TX),Stray,Sick,Cat,Spayed Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,108,AM,2016-05-07,0.38461538461538464,0.18000000000000002,Quarter 2,-0.09781323852516817
+06/20/2018 12:35:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,84,Domestic Shorthair Mix,Neutered Male,84,0.0,109,PM,2018-06-20,0.38461538461538464,1.0,Quarter 2,-0.3524750952124865
+09/19/2016 12:11:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,110,PM,2016-09-19,0.21691973969631237,0.54,Quarter 3,-0.3680336327325126
+09/21/2014 12:01:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,111,PM,2014-09-21,0.38461538461538464,0.54,Quarter 3,0.7577901787644977
+05/17/2017 06:38:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,6,others,Neutered Male,7,0.0,112,PM,2017-05-17,0.21691973969631237,0.54,Quarter 2,0.8278739875167841
+10/03/2014 05:18:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,72,others,Spayed Female,72,0.0,113,PM,2014-10-03,0.21691973969631237,1.0,Quarter 3,-0.22960647395296485
+06/22/2019 12:03:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,114,PM,2019-06-22,0.21691973969631237,0.54,Quarter 2,-0.8986474518510958
+09/15/2019 01:21:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,others,Intact Male,1,0.0,115,PM,2019-09-15,0.21691973969631237,0.6,Quarter 3,-0.39906397825130085
+02/17/2015 03:15:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,6,others,Neutered Male,6,0.0,116,PM,2015-02-17,0.21691973969631237,0.54,Quarter 1,-0.4732582902797563
+02/03/2019 01:09:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,117,PM,2019-02-03,0.21691973969631237,0.54,Quarter 1,-0.7804860123939392
+02/19/2014 01:51:00 PM,Travis (TX),Public Assist,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,118,PM,2014-02-19,0.21691973969631237,0.48,Quarter 1,1.066566412596452
+09/01/2018 04:39:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,119,PM,2018-09-01,0.21691973969631237,0.54,Quarter 3,1.0922444253989716
+08/04/2017 11:01:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,4,Domestic Shorthair Mix,Intact Female,4,0.0,120,AM,2017-08-04,0.38461538461538464,0.54,Quarter 2,-0.3253467142906109
+04/11/2014 05:59:00 PM,Austin (TX),Stray,Injured,Dog,Intact Female,36,Chihuahua Shorthair Mix,Spayed Female,36,0.0,121,PM,2014-04-11,1.694915254237288,0.10800000000000001,Quarter 1,-1.2162074452579856
+09/04/2018 01:02:00 PM,Manor (TX),Public Assist,Normal,Bird,Intact Female,1,others,Intact Female,1,0.0,122,PM,2018-09-04,0.21691973969631237,0.24,Quarter 3,-0.3202646687361767
+07/23/2016 02:47:00 AM,Travis (TX),Stray,Injured,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,123,AM,2016-07-23,0.38461538461538464,0.10800000000000001,Quarter 2,2.785484980949843
+01/17/2020 12:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,124,PM,2020-01-17,0.21691973969631237,0.54,Quarter 1,-1.3914319189844089
+10/01/2013 04:19:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,1,0.0,125,PM,2013-10-01,1.694915254237288,0.54,Quarter 3,0.8133537119785872
+12/13/2019 04:06:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,5,others,Intact Female,5,0.0,126,PM,2019-12-13,0.21691973969631237,0.54,Quarter 3,1.2391815106338486
+09/30/2018 11:09:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,127,AM,2018-09-30,0.38461538461538464,0.6,Quarter 3,1.151206512955615
+10/14/2018 01:51:00 PM,Pflugerville (TX),Stray,Normal,Dog,Neutered Male,24,Pit Bull Mix,Neutered Male,24,0.0,128,PM,2018-10-14,1.5384615384615385,0.9,Quarter 3,-0.6079068337176216
+04/12/2017 04:04:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,60,Miniature Poodle Mix,Neutered Male,60,0.0,129,PM,2017-04-12,7.6923076923076925,0.9,Quarter 1,1.7598120601477771
+10/04/2014 11:29:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,130,AM,2014-10-04,0.38461538461538464,0.54,Quarter 3,0.1433244797007355
+11/29/2014 01:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,36,German Shepherd Mix,Neutered Male,36,0.0,131,PM,2014-11-29,4.166666666666666,0.54,Quarter 3,-0.003890234189988618
+02/02/2019 12:27:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Female,48,others,Spayed Female,48,0.0,132,PM,2019-02-02,0.21691973969631237,0.48,Quarter 1,3.2329352014099286
+05/17/2014 07:49:00 AM,Austin (TX),Stray,Nursing,Dog,Intact Male,1,others,Neutered Male,1,0.0,133,AM,2014-05-17,0.21691973969631237,0.43200000000000005,Quarter 2,-0.12204791835320634
+08/09/2016 01:58:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,134,PM,2016-08-09,0.38461538461538464,1.0,Quarter 2,0.688829406586454
+08/16/2014 04:43:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,135,PM,2014-08-16,0.38461538461538464,1.0,Quarter 2,-0.3004521609226717
+11/11/2016 01:41:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,136,PM,2016-11-11,0.38461538461538464,0.54,Quarter 3,-0.25043206165067394
+10/26/2019 11:07:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Intact Female,1,0.0,137,AM,2019-10-26,0.21691973969631237,0.54,Quarter 3,-0.7701145089140654
+08/11/2019 12:25:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,Pit Bull,Intact Male,36,0.0,138,PM,2019-08-11,14.285714285714285,0.48,Quarter 2,0.3153282381892471
+10/07/2019 12:52:00 PM,Travis (TX),Owner Surrender,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,139,PM,2019-10-07,0.21691973969631237,0.6,Quarter 3,1.2710642161477452
+08/04/2017 11:01:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,10,Domestic Shorthair Mix,Intact Female,11,0.0,140,AM,2017-08-04,0.38461538461538464,0.54,Quarter 2,1.2975269991757183
+05/14/2016 11:22:00 AM,Austin (TX),Stray,Sick,Dog,Intact Male,7,others,Intact Male,7,0.0,141,AM,2016-05-14,0.21691973969631237,0.10800000000000001,Quarter 2,-1.2541045732215308
+12/24/2013 01:22:00 PM,Del Valle (TX),Public Assist,Normal,Dog,Intact Female,1,others,Intact Female,1,1.0,142,PM,2013-12-24,0.21691973969631237,0.48,Quarter 3,0.7236323021548938
+05/21/2014 01:50:00 PM,Travis (TX),Stray,Normal,Dog,Spayed Female,24,Pit Bull Mix,Spayed Female,36,0.0,143,PM,2014-05-21,1.5384615384615385,0.9,Quarter 2,0.33072829082051597
+05/11/2014 05:23:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,144,PM,2014-05-11,0.38461538461538464,0.54,Quarter 2,0.7968202112705908
+04/04/2018 12:51:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,145,PM,2018-04-04,0.21691973969631237,0.0,Quarter 1,-0.07020225889970375
+02/09/2017 11:03:00 AM,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,1,Labrador Retriever Mix,Neutered Male,1,0.0,146,AM,2017-02-09,2.0,1.0,Quarter 1,0.6877698195266118
+05/19/2018 05:14:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,24,Bat,Unknown,24,1.0,147,PM,2018-05-19,6.666666666666667,0.0,Quarter 2,0.027738381149584337
+06/24/2017 02:58:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,148,PM,2017-06-24,0.38461538461538464,0.9,Quarter 2,0.5573065546119764
+11/21/2013 06:17:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,2,0.0,149,PM,2013-11-21,0.21691973969631237,0.54,Quarter 3,-0.16997930243620352
+01/23/2015 04:27:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,150,PM,2015-01-23,0.21691973969631237,0.54,Quarter 1,0.997349843824554
+04/07/2019 02:31:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,151,PM,2019-04-07,0.21691973969631237,0.54,Quarter 1,-0.3889113325900288
+03/15/2018 07:45:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Pit Bull Mix,Intact Male,24,0.0,152,PM,2018-03-15,1.5384615384615385,0.54,Quarter 1,-0.21393210606084576
+07/02/2015 06:25:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,36,Miniature Poodle Mix,Neutered Male,36,0.0,153,PM,2015-07-02,7.6923076923076925,1.0,Quarter 2,-2.2091551681969817
+06/07/2019 01:52:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Neutered Male,3,0.0,154,PM,2019-06-07,0.21691973969631237,0.54,Quarter 2,1.779710843672836
+10/19/2019 11:51:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,3,others,Neutered Male,4,0.0,155,AM,2019-10-19,0.21691973969631237,0.6,Quarter 3,-0.047736195919821964
+11/14/2014 04:18:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,156,PM,2014-11-14,0.21691973969631237,0.9,Quarter 3,-0.7927529495832578
+11/21/2018 06:00:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,157,AM,2018-11-21,0.21691973969631237,0.54,Quarter 3,0.7248052541070796
+04/22/2015 11:29:00 AM,Austin (TX),Stray,Normal,Bird,Unknown,1,others,Unknown,1,0.0,158,AM,2015-04-22,0.21691973969631237,0.18000000000000002,Quarter 1,-0.42046072064491175
+04/29/2018 10:30:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,159,AM,2018-04-29,0.21691973969631237,0.54,Quarter 1,0.020089761806310585
+01/29/2014 02:47:00 PM,Austin (TX),Stray,Injured,Dog,Spayed Female,156,others,Spayed Female,156,1.0,160,PM,2014-01-29,0.21691973969631237,0.18000000000000002,Quarter 1,0.8443648046472377
+11/17/2014 03:13:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,36,others,Intact Male,36,1.0,161,PM,2014-11-17,0.21691973969631237,0.10800000000000001,Quarter 3,-0.8389910629292103
+09/12/2015 01:42:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,162,PM,2015-09-12,0.38461538461538464,0.36000000000000004,Quarter 3,0.3998322958562736
+11/20/2017 04:09:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,163,PM,2017-11-20,0.21691973969631237,1.0,Quarter 3,-0.4718064706211731
+10/27/2015 03:10:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,164,PM,2015-10-27,0.21691973969631237,0.54,Quarter 3,-0.2568838365636747
+12/16/2017 12:59:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,165,PM,2017-12-16,0.38461538461538464,0.54,Quarter 3,0.9492352578023363
+05/24/2015 05:41:00 PM,Lago Vista (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,166,PM,2015-05-24,0.21691973969631237,0.54,Quarter 2,1.9317436507634056
+07/13/2019 04:00:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Cat,Spayed Female,120,Domestic Shorthair Mix,Spayed Female,120,0.0,167,PM,2019-07-13,0.38461538461538464,1.0,Quarter 2,-0.6776853702221156
+07/29/2014 04:48:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,168,PM,2014-07-29,0.38461538461538464,0.54,Quarter 2,1.1650478360904084
+11/16/2016 12:08:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,5,Labrador Retriever Mix,Spayed Female,5,0.0,169,PM,2016-11-16,2.0,0.54,Quarter 3,-0.6459689274561542
+02/09/2014 05:54:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,German Shepherd,Neutered Male,24,0.0,170,PM,2014-02-09,20.0,0.54,Quarter 1,0.2915488290781338
+07/13/2014 02:14:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,132,Domestic Shorthair Mix,Spayed Female,132,1.0,171,PM,2014-07-13,0.38461538461538464,0.9,Quarter 2,1.1624230582948318
+09/21/2014 12:17:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,172,PM,2014-09-21,0.21691973969631237,0.54,Quarter 3,1.1036414914683932
+09/15/2019 04:58:00 PM,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,6,others,Intact Female,7,0.0,173,PM,2019-09-15,0.21691973969631237,0.6,Quarter 3,-0.4787064358206728
+04/11/2014 10:23:00 AM,Austin (TX),Wildlife,Sick,Other,Unknown,24,others,Unknown,24,1.0,174,AM,2014-04-11,0.21691973969631237,0.0,Quarter 1,2.3212805734047506
+12/20/2014 10:50:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,175,AM,2014-12-20,0.21691973969631237,0.9,Quarter 3,1.2445098121273666
+07/24/2014 12:33:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,3,Domestic Shorthair Mix,Neutered Male,4,0.0,176,PM,2014-07-24,0.38461538461538464,0.54,Quarter 2,0.07784645403021695
+12/13/2014 05:50:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,177,PM,2014-12-13,0.21691973969631237,0.8,Quarter 3,-0.34372105514774004
+06/04/2017 04:07:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,178,PM,2017-06-04,0.21691973969631237,0.48,Quarter 2,1.2744088200539425
+07/09/2014 12:58:00 PM,Pflugerville (TX),Public Assist,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,179,PM,2014-07-09,0.38461538461538464,0.48,Quarter 2,0.34301898543854586
+10/20/2013 12:01:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,96,others,Spayed Female,96,0.0,180,PM,2013-10-20,0.21691973969631237,0.9,Quarter 3,0.7548020610507681
+06/30/2015 04:13:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,5,Pit Bull Mix,Intact Male,5,0.0,181,PM,2015-06-30,1.5384615384615385,0.54,Quarter 2,-0.5808323258611877
+12/17/2015 01:02:00 PM,Jonestown (TX),Stray,Normal,Cat,Spayed Female,96,Domestic Medium Hair Mix,Spayed Female,96,1.0,182,PM,2015-12-17,2.857142857142857,0.9,Quarter 3,-0.877399958280901
+05/17/2015 08:54:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,2,0.0,183,PM,2015-05-17,1.694915254237288,0.48,Quarter 2,-0.8704813701867532
+06/02/2017 06:21:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,6,others,Neutered Male,6,0.0,184,PM,2017-06-02,0.21691973969631237,1.0,Quarter 2,-0.006740068206139743
+01/10/2017 03:20:00 PM,Bee Cave (TX),Stray,Normal,Dog,Intact Male,36,others,Intact Male,36,0.0,185,PM,2017-01-10,0.21691973969631237,0.54,Quarter 1,1.1449061366508009
+01/08/2015 11:35:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,1,0.0,186,AM,2015-01-08,1.694915254237288,0.54,Quarter 1,-0.6506044826418883
+05/07/2018 03:38:00 PM,Austin (TX),Stray,Injured,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,1.0,187,PM,2018-05-07,0.38461538461538464,0.10800000000000001,Quarter 2,0.30713652669306174
+07/20/2018 01:34:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,German Shepherd Mix,Spayed Female,1,0.0,188,PM,2018-07-20,4.166666666666666,0.54,Quarter 2,0.3477664173437869
+12/21/2013 09:12:00 AM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,189,AM,2013-12-21,0.21691973969631237,0.8,Quarter 3,1.257401893576123
+09/13/2017 07:39:00 AM,Del Valle (TX),Stray,Nursing,Dog,Intact Male,0,Labrador Retriever Mix,Neutered Male,1,0.0,190,AM,2017-09-13,2.0,0.43200000000000005,Quarter 3,0.5957734234000439
+07/25/2015 06:45:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Spayed Female,3,0.0,191,PM,2015-07-25,0.38461538461538464,0.54,Quarter 2,0.3468974704518374
+05/15/2017 06:24:00 PM,Travis (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,192,PM,2017-05-15,0.38461538461538464,0.36000000000000004,Quarter 2,0.9413999725067531
+08/10/2014 02:45:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,4,others,Neutered Male,4,0.0,193,PM,2014-08-10,0.21691973969631237,0.6,Quarter 2,-0.7252363013771422
+06/26/2014 11:46:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,96,others,Intact Female,96,0.0,194,AM,2014-06-26,0.21691973969631237,0.54,Quarter 2,-2.453534649283994
+12/05/2017 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,195,PM,2017-12-05,0.21691973969631237,0.6,Quarter 3,-1.109507849463174
+05/10/2015 03:43:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,1.0,196,PM,2015-05-10,0.38461538461538464,0.54,Quarter 2,-2.2400993001388003
+11/13/2017 08:46:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Chihuahua Shorthair Mix,Neutered Male,24,0.0,197,AM,2017-11-13,1.694915254237288,0.54,Quarter 3,-1.2731136532758067
+05/16/2016 06:18:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Neutered Male,1,0.0,198,PM,2016-05-16,1.694915254237288,0.54,Quarter 2,-2.0554197724042598
+04/11/2019 12:27:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,120,others,Neutered Male,120,0.0,199,PM,2019-04-11,0.21691973969631237,1.0,Quarter 1,0.20097083361533608
+11/12/2013 01:28:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,2,0.0,200,PM,2013-11-12,0.38461538461538464,0.54,Quarter 3,0.23909723703713992
+01/28/2014 06:25:00 PM,Del Valle (TX),Stray,Normal,Dog,Neutered Male,24,Miniature Poodle Mix,Neutered Male,24,0.0,201,PM,2014-01-28,7.6923076923076925,0.9,Quarter 1,1.4658408724269463
+05/30/2015 03:19:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,24,others,Neutered Male,24,0.0,202,PM,2015-05-30,0.21691973969631237,0.10800000000000001,Quarter 2,0.07327356750517884
+10/01/2013 01:36:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,84,German Shepherd Mix,Spayed Female,84,0.0,203,PM,2013-10-01,4.166666666666666,0.9,Quarter 3,0.016394363945257756
+10/02/2014 05:18:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,60,Labrador Retriever Mix,Spayed Female,60,0.0,204,PM,2014-10-02,2.0,1.0,Quarter 3,0.3364381226335505
+06/09/2019 04:29:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Intact Male,1,0.0,205,PM,2019-06-09,0.21691973969631237,0.54,Quarter 2,0.5583302153691438
+06/23/2018 10:18:00 AM,Travis (TX),Stray,Injured,Dog,Intact Female,24,Pit Bull Mix,Intact Female,24,0.0,206,AM,2018-06-23,1.5384615384615385,0.10800000000000001,Quarter 2,1.823479705637623
+08/20/2018 02:10:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,3,Domestic Shorthair Mix,Spayed Female,3,0.0,207,PM,2018-08-20,0.38461538461538464,0.6,Quarter 2,0.06272774957375044
+11/21/2016 07:38:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,132,others,Neutered Male,132,0.0,208,AM,2016-11-21,0.21691973969631237,0.9,Quarter 3,-0.3219368045352813
+12/18/2015 05:36:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,209,PM,2015-12-18,0.21691973969631237,0.54,Quarter 3,-0.37211603392467535
+11/12/2013 02:16:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,0.0,210,PM,2013-11-12,0.38461538461538464,0.54,Quarter 3,0.3031725265697948
+03/07/2017 01:08:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,1,0.0,211,PM,2017-03-07,1.694915254237288,0.54,Quarter 1,-0.20906992988770245
+08/15/2014 06:48:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,212,PM,2014-08-15,0.21691973969631237,0.0,Quarter 2,0.725666719689086
+10/16/2013 05:56:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,213,PM,2013-10-16,2.0,0.54,Quarter 3,-0.9357866276829744
+09/02/2015 01:55:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,214,PM,2015-09-02,0.21691973969631237,0.54,Quarter 3,0.03590609957105805
+02/20/2018 04:33:00 PM,Leander (TX),Owner Surrender,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,215,PM,2018-02-20,0.21691973969631237,0.6,Quarter 1,-0.4309455818386171
+06/24/2016 03:21:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,216,PM,2016-06-24,0.38461538461538464,0.43200000000000005,Quarter 2,-0.2350302756063635
+05/19/2014 06:45:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,96,others,Neutered Male,96,0.0,217,AM,2014-05-19,0.21691973969631237,0.9,Quarter 2,0.20529145352720082
+03/01/2017 07:45:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,24,others,Intact Male,24,0.0,218,PM,2017-03-01,0.21691973969631237,0.10800000000000001,Quarter 1,-1.2638393930993153
+09/17/2014 05:09:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,0,others,Neutered Male,1,0.0,219,PM,2014-09-17,0.21691973969631237,0.54,Quarter 3,-1.086186779103371
+10/18/2013 02:48:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,60,others,Neutered Male,60,0.0,220,PM,2013-10-18,0.21691973969631237,0.9,Quarter 3,0.24709068948535995
+06/12/2015 10:50:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,221,AM,2015-06-12,0.21691973969631237,0.54,Quarter 2,2.434012923289567
+05/12/2016 02:30:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,222,PM,2016-05-12,0.21691973969631237,0.6,Quarter 2,-2.3460561033454357
+07/27/2017 06:33:00 PM,Travis (TX),Stray,Normal,Cat,Unknown,0,Domestic Shorthair Mix,Unknown,0,0.0,223,PM,2017-07-27,0.38461538461538464,0.36000000000000004,Quarter 2,-0.42199507585392027
+08/17/2018 09:14:00 AM,Travis (TX),Stray,Normal,Dog,Intact Female,1,German Shepherd Mix,Intact Female,1,0.0,224,AM,2018-08-17,4.166666666666666,0.54,Quarter 2,0.19647354238301667
+04/27/2019 12:17:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Neutered Male,1,0.0,225,PM,2019-04-27,1.694915254237288,0.54,Quarter 1,0.2787611814101623
+01/13/2016 12:47:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,84,others,Intact Male,84,0.0,226,PM,2016-01-13,0.21691973969631237,0.54,Quarter 1,0.6011321543394245
+09/03/2019 08:54:00 AM,Austin (TX),Wildlife,Sick,Other,Unknown,1,Bat,Unknown,0,1.0,227,AM,2019-09-03,6.666666666666667,0.0,Quarter 3,-0.15987230702467783
+08/04/2017 02:52:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,228,PM,2017-08-04,0.38461538461538464,0.36000000000000004,Quarter 2,0.08685602046371667
+12/05/2015 02:06:00 PM,Pflugerville (TX),Owner Surrender,Normal,Dog,Spayed Female,48,Chihuahua Shorthair Mix,Spayed Female,48,0.0,229,PM,2015-12-05,1.694915254237288,1.0,Quarter 3,-0.2785766794469362
+11/17/2018 05:59:00 PM,Travis (TX),Stray,Normal,Dog,Spayed Female,132,Chihuahua Shorthair Mix,Spayed Female,132,0.0,230,PM,2018-11-17,1.694915254237288,0.9,Quarter 3,0.3599557513405332
+08/25/2015 01:06:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,24,0.0,231,PM,2015-08-25,0.21691973969631237,0.54,Quarter 2,0.4340198622490063
+03/16/2017 09:11:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,84,others,Neutered Male,84,0.0,232,AM,2017-03-16,0.21691973969631237,1.0,Quarter 1,2.1239654776674115
+05/31/2014 01:09:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,7,0.0,233,PM,2014-05-31,0.38461538461538464,0.54,Quarter 2,0.7867847749023835
+03/28/2017 03:41:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,24,Labrador Retriever Mix,Spayed Female,24,0.0,234,PM,2017-03-28,2.0,0.54,Quarter 1,2.639421731706358
+05/12/2018 02:07:00 PM,Del Valle (TX),Stray,Sick,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,235,PM,2018-05-12,0.38461538461538464,0.10800000000000001,Quarter 2,-0.2860992212886732
+01/18/2014 11:02:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,24,Chihuahua Shorthair Mix,Spayed Female,24,0.0,236,AM,2014-01-18,1.694915254237288,0.54,Quarter 1,-0.17455341640241298
+10/19/2019 03:08:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,24,others,Spayed Female,24,0.0,237,PM,2019-10-19,0.21691973969631237,0.9,Quarter 3,-0.2658623601340397
+08/23/2016 04:35:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,238,PM,2016-08-23,0.38461538461538464,0.54,Quarter 2,0.2093062426471824
+08/26/2015 11:00:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,96,others,Spayed Female,96,0.0,239,AM,2015-08-26,0.21691973969631237,1.0,Quarter 2,0.28248869759046996
+03/16/2017 04:53:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,132,Labrador Retriever Mix,Spayed Female,132,0.0,240,PM,2017-03-16,2.0,0.9,Quarter 1,-0.40266843549043985
+07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2,others,Intact Male,3,0.0,241,PM,2019-07-29,0.21691973969631237,0.18,Quarter 2,0.03509117205922009
+06/28/2015 02:08:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,1,0.0,242,PM,2015-06-28,0.21691973969631237,0.54,Quarter 2,0.024445431296650156
+02/06/2019 03:51:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,243,PM,2019-02-06,0.21691973969631237,1.0,Quarter 1,2.1009699197048417
+05/28/2018 06:16:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,96,others,Neutered Male,96,0.0,244,PM,2018-05-28,0.21691973969631237,0.54,Quarter 2,0.31030464726823875
+07/09/2019 05:18:00 PM,Austin (TX),Stray,Normal,Other,Unknown,1,others,Unknown,1,0.0,245,PM,2019-07-09,0.21691973969631237,0.10800000000000001,Quarter 2,-0.2069685585839997
+03/16/2018 11:59:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,3,Domestic Shorthair Mix,Neutered Male,4,0.0,246,AM,2018-03-16,0.38461538461538464,0.54,Quarter 1,0.44260170542291055
+03/09/2018 08:56:00 AM,Austin (TX),Stray,Injured,Dog,Intact Female,5,Pit Bull Mix,Intact Female,5,0.0,247,AM,2018-03-09,1.5384615384615385,0.10800000000000001,Quarter 1,0.17344371870253192
+03/15/2016 02:25:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,9,others,Neutered Male,9,0.0,248,PM,2016-03-15,0.21691973969631237,0.9,Quarter 1,0.49410381115287744
+12/29/2014 01:02:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,84,others,Intact Male,84,0.0,249,PM,2014-12-29,0.21691973969631237,0.54,Quarter 3,0.06674092200265201
+11/05/2018 12:19:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,48,others,Intact Female,48,0.0,250,PM,2018-11-05,0.21691973969631237,0.54,Quarter 3,-1.3444891221896302
+07/04/2018 12:51:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,251,PM,2018-07-04,0.21691973969631237,0.0,Quarter 2,-0.2876883042684079
+07/06/2014 02:49:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,2,0.0,252,PM,2014-07-06,0.21691973969631237,0.54,Quarter 2,1.8827132812326355
+04/11/2017 03:26:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,253,PM,2017-04-11,0.21691973969631237,0.54,Quarter 1,-0.21010308920874304
+02/03/2015 01:20:00 PM,Austin (TX),Stray,Injured,Cat,Intact Male,60,others,Intact Male,60,1.0,254,PM,2015-02-03,0.21691973969631237,0.10800000000000001,Quarter 1,1.1377294210010969
+08/20/2018 04:30:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,72,others,Neutered Male,72,0.0,255,PM,2018-08-20,0.21691973969631237,0.8,Quarter 2,0.6009812678592712
+11/26/2013 12:43:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,24,Pit Bull Mix,Neutered Male,24,0.0,256,PM,2013-11-26,1.5384615384615385,0.8,Quarter 3,-1.649570777047702
+02/20/2019 02:38:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,1,0.0,257,PM,2019-02-20,0.21691973969631237,0.54,Quarter 1,0.7785197469556397
+05/17/2016 05:00:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,258,PM,2016-05-17,0.38461538461538464,0.54,Quarter 2,-0.04093752794141372
+03/21/2017 04:21:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,60,Domestic Medium Hair Mix,Intact Female,60,0.0,259,PM,2017-03-21,2.857142857142857,0.54,Quarter 1,-1.6584757934530006
+11/03/2019 02:43:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,36,others,Neutered Male,36,0.0,260,PM,2019-11-03,0.21691973969631237,0.9,Quarter 3,-1.0281452220187386
+05/30/2017 01:57:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,36,Chihuahua Shorthair Mix,Neutered Male,36,0.0,261,PM,2017-05-30,1.694915254237288,0.9,Quarter 2,-0.33719910629275573
+10/04/2017 10:27:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,24,others,Intact Female,24,0.0,262,AM,2017-10-04,0.21691973969631237,0.54,Quarter 3,-0.3428070722750299
+03/16/2019 02:11:00 AM,Austin (TX),Wildlife,Injured,Other,Unknown,1,Bat,Unknown,1,1.0,263,AM,2019-03-16,6.666666666666667,0.0,Quarter 1,-0.6445941365931325
+01/11/2014 11:18:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,6,Domestic Medium Hair Mix,Unknown,6,0.0,264,AM,2014-01-11,2.857142857142857,0.36000000000000004,Quarter 1,0.08706073074263017
+08/31/2014 11:38:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,84,Labrador Retriever Mix,Intact Male,84,0.0,265,AM,2014-08-31,2.0,0.54,Quarter 2,0.2399334593281127
+09/16/2019 11:40:00 AM,Travis (TX),Stray,Normal,Cat,Intact Female,3,others,Intact Female,3,0.0,266,AM,2019-09-16,0.21691973969631237,0.54,Quarter 3,1.054545814959183
+02/26/2015 10:33:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,267,AM,2015-02-26,0.21691973969631237,0.54,Quarter 1,1.2433978831574721
+05/21/2017 11:05:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Neutered Male,2,0.0,268,AM,2017-05-21,2.857142857142857,0.54,Quarter 2,-0.5456772174920248
+11/15/2018 01:04:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,4,0.0,269,PM,2018-11-15,0.38461538461538464,0.54,Quarter 3,1.370596182923078
+04/20/2019 12:10:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,0.0,270,PM,2019-04-20,0.38461538461538464,0.54,Quarter 1,1.2755875461552406
+06/08/2019 04:53:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,271,PM,2019-06-08,0.21691973969631237,0.54,Quarter 2,0.977540592288712
+06/24/2019 11:33:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,272,AM,2019-06-24,0.38461538461538464,0.54,Quarter 2,-1.2738121110192864
+03/18/2014 03:34:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,273,PM,2014-03-18,0.21691973969631237,1.0,Quarter 1,0.8955443399909172
+06/20/2016 11:01:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,274,AM,2016-06-20,0.38461538461538464,0.54,Quarter 2,1.1787716306880556
+06/19/2019 04:32:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,4,others,Neutered Male,5,0.0,275,PM,2019-06-19,0.21691973969631237,0.54,Quarter 2,1.0979395821886297
+08/17/2017 06:02:00 PM,Manor (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,276,PM,2017-08-17,2.857142857142857,0.54,Quarter 2,0.6462615399283687
+01/22/2020 12:46:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,120,others,Intact Male,120,0.0,277,PM,2020-01-22,0.21691973969631237,0.48,Quarter 1,-0.5170219662638719
+07/30/2015 01:55:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,36,Chihuahua Shorthair Mix,Spayed Female,36,0.0,278,PM,2015-07-30,1.694915254237288,0.6,Quarter 2,-1.0979692768792015
+07/03/2018 07:37:00 AM,Austin (TX),Stray,Injured,Cat,Neutered Male,48,others,Neutered Male,48,0.0,279,AM,2018-07-03,0.21691973969631237,0.18000000000000002,Quarter 2,-1.4255337097910872
+02/23/2015 05:38:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,6,others,Unknown,6,1.0,280,PM,2015-02-23,0.21691973969631237,0.0,Quarter 1,-0.06288840644899907
+02/09/2014 03:32:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,60,others,Neutered Male,60,0.0,281,PM,2014-02-09,0.21691973969631237,0.54,Quarter 1,1.2750293123302754
+05/06/2015 11:53:00 AM,Austin (TX),Stray,Injured,Cat,Neutered Male,48,Domestic Medium Hair Mix,Neutered Male,48,1.0,282,AM,2015-05-06,2.857142857142857,0.18000000000000002,Quarter 2,0.6210030266989897
+10/27/2018 11:03:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,283,AM,2018-10-27,0.21691973969631237,0.54,Quarter 3,-0.46599157021832677
+01/30/2019 02:39:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,3,0.0,284,PM,2019-01-30,0.21691973969631237,0.54,Quarter 1,0.2824728376312295
+04/22/2018 03:28:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Male,0,Domestic Shorthair Mix,Neutered Male,2,0.0,285,PM,2018-04-22,0.38461538461538464,0.43200000000000005,Quarter 1,-0.8629783171848299
+03/17/2018 11:39:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Miniature Poodle Mix,Neutered Male,24,0.0,286,AM,2018-03-17,7.6923076923076925,0.54,Quarter 1,0.2215954741064675
+11/29/2018 11:15:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,5,0.0,287,AM,2018-11-29,0.21691973969631237,0.54,Quarter 3,1.5256086846737114
+08/06/2017 09:16:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Labrador Retriever Mix,Intact Female,1,0.0,288,AM,2017-08-06,2.0,0.54,Quarter 2,0.22436213005839298
+07/09/2018 04:29:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,84,others,Neutered Male,84,0.0,289,PM,2018-07-09,0.21691973969631237,0.9,Quarter 2,-0.9335409361818777
+02/22/2014 05:50:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,6,Domestic Shorthair Mix,Spayed Female,6,0.0,290,PM,2014-02-22,0.38461538461538464,0.9,Quarter 1,-1.1005888135522492
+11/08/2014 03:28:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,6,Domestic Shorthair Mix,Spayed Female,6,0.0,291,PM,2014-11-08,0.38461538461538464,0.54,Quarter 3,0.13922727296174872
+06/22/2015 11:02:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,292,AM,2015-06-22,0.38461538461538464,0.43200000000000005,Quarter 2,-1.8225203919277448
+09/07/2017 01:20:00 PM,Outside Jurisdiction,Public Assist,Normal,Dog,Unknown,2,Labrador Retriever Mix,Unknown,3,0.0,293,PM,2017-09-07,2.0,0.32000000000000006,Quarter 3,0.9054326274230373
+10/11/2019 12:28:00 PM,Travis (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,3,0.0,294,PM,2019-10-11,0.38461538461538464,0.54,Quarter 3,1.3851063860895887
+07/04/2015 11:45:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Intact Male,3,0.0,295,AM,2015-07-04,0.38461538461538464,0.54,Quarter 2,-0.6243683930202952
+05/02/2016 08:13:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,296,PM,2016-05-02,0.21691973969631237,0.0,Quarter 2,-0.02168997568337784
+10/30/2015 01:41:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,1,0.0,297,PM,2015-10-30,1.694915254237288,0.10800000000000001,Quarter 3,-0.6187149099021546
+05/03/2019 11:13:00 AM,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,144,Chihuahua Shorthair Mix,Intact Female,144,1.0,298,AM,2019-05-03,1.694915254237288,0.12,Quarter 2,-0.8887537401199292
+10/14/2014 04:42:00 PM,Travis (TX),Stray,Normal,Dog,Spayed Female,6,others,Spayed Female,6,0.0,299,PM,2014-10-14,0.21691973969631237,0.9,Quarter 3,-0.09872490704630571
+02/22/2018 10:44:00 AM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,300,AM,2018-02-22,0.21691973969631237,0.0,Quarter 1,0.5111061165751506
+10/22/2018 12:12:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,301,PM,2018-10-22,0.38461538461538464,0.54,Quarter 3,1.3498489545168588
+03/31/2014 01:37:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,302,PM,2014-03-31,0.21691973969631237,1.0,Quarter 1,-0.5325105594200213
+10/29/2019 11:03:00 AM,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,303,AM,2019-10-29,0.21691973969631237,1.0,Quarter 3,-0.9938100260928228
+06/13/2018 01:13:00 PM,Lago Vista (TX),Stray,Normal,Cat,Intact Male,6,Domestic Shorthair Mix,Neutered Male,8,0.0,304,PM,2018-06-13,0.38461538461538464,0.54,Quarter 2,1.8522955893790682
+11/30/2016 11:23:00 AM,Austin (TX),Stray,Normal,Cat,Spayed Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,305,AM,2016-11-30,0.38461538461538464,0.9,Quarter 3,1.1521937901338508
+08/12/2015 07:32:00 AM,Austin (TX),Stray,Sick,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,306,AM,2015-08-12,2.0,0.10800000000000001,Quarter 2,-0.9979494764596694
+02/25/2015 01:08:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,307,PM,2015-02-25,0.21691973969631237,0.54,Quarter 1,-0.359712716199415
+12/27/2019 01:34:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,308,PM,2019-12-27,0.21691973969631237,1.0,Quarter 3,-1.0723786311074592
+01/23/2018 04:13:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,309,PM,2018-01-23,0.38461538461538464,1.0,Quarter 1,-1.6096043491884413
+05/30/2018 12:00:00 AM,Austin (TX),Stray,Aged,Dog,Neutered Male,120,others,Neutered Male,120,0.0,310,AM,2018-05-30,0.21691973969631237,0.63,Quarter 2,0.4054667914660696
+03/18/2019 12:53:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,1,0.0,311,PM,2019-03-18,1.694915254237288,0.54,Quarter 1,0.43571063357740714
+12/02/2014 04:15:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,36,others,Unknown,36,1.0,312,PM,2014-12-02,0.21691973969631237,0.0,Quarter 3,1.6112018542401716
+05/31/2014 11:02:00 AM,Del Valle (TX),Owner Surrender,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,313,AM,2014-05-31,0.38461538461538464,0.6,Quarter 2,0.7562494688074357
+12/01/2017 03:33:00 PM,Travis (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,314,PM,2017-12-01,0.38461538461538464,0.54,Quarter 3,-0.8077222406194521
+06/27/2014 12:06:00 PM,Austin (TX),Stray,Normal,Other,Unknown,5,others,Unknown,5,0.0,315,PM,2014-06-27,0.21691973969631237,0.10800000000000001,Quarter 2,-1.3109629644667449
+04/21/2016 01:39:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,Pit Bull Mix,Neutered Male,1,0.0,316,PM,2016-04-21,1.5384615384615385,1.0,Quarter 1,-0.509629833809763
+10/03/2016 01:56:00 PM,Austin (TX),Public Assist,Normal,Cat,Neutered Male,36,Domestic Shorthair Mix,Neutered Male,36,0.0,317,PM,2016-10-03,0.38461538461538464,0.8,Quarter 3,2.3824607851598523
+03/14/2016 05:34:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,318,PM,2016-03-14,0.21691973969631237,0.48,Quarter 1,0.5093818638369012
+12/14/2019 10:40:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Pit Bull Mix,Neutered Male,24,0.0,319,AM,2019-12-14,1.5384615384615385,0.54,Quarter 3,-0.5378076739285396
+12/28/2014 06:26:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,320,PM,2014-12-28,2.857142857142857,0.54,Quarter 3,-0.34463381785555164
+04/06/2016 04:14:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,321,PM,2016-04-06,6.666666666666667,0.0,Quarter 1,0.11702559732821399
+08/04/2016 09:52:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,322,AM,2016-08-04,0.21691973969631237,0.54,Quarter 2,0.16851556684096725
+02/16/2018 01:01:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,323,PM,2018-02-16,0.21691973969631237,0.54,Quarter 1,2.1097938230011866
+06/22/2015 04:27:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Spayed Female,2,0.0,324,PM,2015-06-22,2.857142857142857,0.54,Quarter 2,0.5235850077622656
+09/23/2018 10:21:00 AM,Austin (TX),Stray,Sick,Dog,Intact Female,4,Chihuahua Shorthair Mix,Intact Female,4,1.0,325,AM,2018-09-23,1.694915254237288,0.10800000000000001,Quarter 3,-1.074042568456091
+03/18/2017 02:01:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,5,Labrador Retriever Mix,Neutered Male,6,0.0,326,PM,2017-03-18,2.0,0.54,Quarter 1,-1.1730408030765405
+08/15/2019 06:33:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Spayed Female,3,0.0,327,PM,2019-08-15,0.21691973969631237,0.54,Quarter 2,-0.6887413424227087
+11/19/2013 03:17:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Spayed Female,2,0.0,328,PM,2013-11-19,0.21691973969631237,0.54,Quarter 3,0.0019503883000891234
+12/31/2016 11:33:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,108,others,Neutered Male,108,0.0,329,AM,2016-12-31,0.21691973969631237,1.0,Quarter 3,-0.2492645648291459
+07/23/2016 12:20:00 PM,Austin (TX),Stray,Nursing,Dog,Intact Female,0,others,Intact Female,1,0.0,330,PM,2016-07-23,0.21691973969631237,0.43200000000000005,Quarter 2,-1.1300244678103142
+03/13/2014 11:02:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,331,AM,2014-03-13,0.21691973969631237,0.54,Quarter 1,1.2943721435030662
+09/24/2016 02:00:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,24,German Shepherd Mix,Spayed Female,24,0.0,332,PM,2016-09-24,4.166666666666666,0.9,Quarter 3,-0.6721657970336422
+11/10/2018 04:33:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,6,Domestic Shorthair Mix,Spayed Female,6,0.0,333,PM,2018-11-10,0.38461538461538464,0.54,Quarter 3,-2.2305758258490087
+08/27/2019 03:32:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,4,others,Spayed Female,4,0.0,334,PM,2019-08-27,0.21691973969631237,0.6,Quarter 2,0.594807022174647
+11/07/2015 11:59:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,335,AM,2015-11-07,0.21691973969631237,0.54,Quarter 3,0.7310032987667421
+06/17/2016 02:48:00 AM,Austin (TX),Public Assist,Normal,Cat,Neutered Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,336,AM,2016-06-17,0.38461538461538464,0.8,Quarter 2,0.8787002151050439
+08/05/2014 05:16:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Pit Bull Mix,Spayed Female,2,0.0,337,PM,2014-08-05,1.5384615384615385,0.54,Quarter 2,0.6068878918078022
+12/22/2017 02:34:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,3,Domestic Shorthair Mix,Neutered Male,3,0.0,338,PM,2017-12-22,0.38461538461538464,0.6,Quarter 3,-0.29334202362956835
+07/20/2018 05:11:00 PM,Austin (TX),Public Assist,Normal,Cat,Spayed Female,48,others,Spayed Female,48,0.0,339,PM,2018-07-20,0.21691973969631237,0.8,Quarter 2,-1.396392269939013
+12/23/2019 02:19:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,1,others,Neutered Male,1,0.0,340,PM,2019-12-23,0.21691973969631237,0.162,Quarter 3,1.2507471793304854
+12/16/2014 12:46:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,11,others,Spayed Female,11,0.0,341,PM,2014-12-16,0.21691973969631237,0.6,Quarter 3,-0.6997213832673282
+01/02/2016 01:50:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,72,others,Spayed Female,72,0.0,342,PM,2016-01-02,0.21691973969631237,1.0,Quarter 1,-0.04200451792395717
+08/14/2017 03:51:00 PM,Jonestown (TX),Public Assist,Normal,Dog,Unknown,60,others,Unknown,60,0.0,343,PM,2017-08-14,0.21691973969631237,0.32000000000000006,Quarter 2,-1.5126241488623524
+06/26/2014 04:53:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,36,Pit Bull Mix,Spayed Female,36,0.0,344,PM,2014-06-26,1.5384615384615385,0.9,Quarter 2,-0.5981020200634847
+03/27/2017 11:36:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,345,AM,2017-03-27,0.38461538461538464,0.43200000000000005,Quarter 1,-0.14070512421326223
+06/14/2015 06:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,72,others,Neutered Male,72,0.0,346,PM,2015-06-14,0.21691973969631237,0.54,Quarter 2,0.6539080608514249
+05/27/2015 11:36:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,96,others,Spayed Female,96,0.0,347,AM,2015-05-27,0.21691973969631237,0.9,Quarter 2,0.3548838764529003
+11/04/2018 11:33:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,120,others,Intact Female,120,0.0,348,AM,2018-11-04,0.21691973969631237,0.54,Quarter 3,1.2165332932758006
+07/16/2018 01:16:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Labrador Retriever Mix,Neutered Male,24,0.0,349,PM,2018-07-16,2.0,0.54,Quarter 2,0.49992480585678967
+03/10/2016 11:45:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,350,AM,2016-03-10,0.38461538461538464,1.0,Quarter 1,0.3712664154229037
+06/26/2014 05:56:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,351,PM,2014-06-26,0.21691973969631237,0.8,Quarter 2,1.65244763307218
+02/22/2015 04:33:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Neutered Male,2,0.0,352,PM,2015-02-22,1.694915254237288,0.54,Quarter 1,-0.17846783973157382
+06/29/2016 02:15:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,24,Pit Bull Mix,Intact Female,24,1.0,353,PM,2016-06-29,1.5384615384615385,0.6,Quarter 2,1.1729695897037153
+09/30/2019 11:22:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Neutered Male,2,0.0,354,AM,2019-09-30,0.21691973969631237,0.54,Quarter 3,-0.15290652433658833
+12/14/2017 01:09:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,5,German Shepherd Mix,Spayed Female,5,0.0,355,PM,2017-12-14,4.166666666666666,0.54,Quarter 3,-0.8346648742048701
+04/10/2015 01:44:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,108,others,Intact Female,120,0.0,356,PM,2015-04-10,0.21691973969631237,0.54,Quarter 1,0.3272108964201304
+06/08/2015 11:40:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,others,Unknown,1,0.0,357,AM,2015-06-08,0.21691973969631237,0.36000000000000004,Quarter 2,0.1255926861957788
+07/10/2014 06:36:00 PM,Austin (TX),Stray,Injured,Dog,Neutered Male,48,others,Neutered Male,48,0.0,358,PM,2014-07-10,0.21691973969631237,0.18000000000000002,Quarter 2,0.6816173434113241
+07/07/2019 03:28:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,359,PM,2019-07-07,0.21691973969631237,0.54,Quarter 2,1.0670704622431202
+10/11/2015 02:08:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,108,Domestic Shorthair Mix,Spayed Female,108,0.0,360,PM,2015-10-11,0.38461538461538464,0.9,Quarter 3,0.48905835955152915
+02/04/2016 12:25:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Pit Bull Mix,Neutered Male,1,0.0,361,PM,2016-02-04,1.5384615384615385,0.54,Quarter 1,-0.420216830663157
+11/26/2016 02:04:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,362,PM,2016-11-26,0.21691973969631237,1.0,Quarter 3,-0.006891990988964246
+02/10/2014 12:12:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,144,others,Spayed Female,144,0.0,363,PM,2014-02-10,0.21691973969631237,0.9,Quarter 1,1.433207526973506
+06/17/2019 03:51:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,3,German Shepherd Mix,Neutered Male,4,0.0,364,PM,2019-06-17,4.166666666666666,0.54,Quarter 2,0.524601841791198
+11/21/2014 01:00:00 PM,Manor (TX),Stray,Normal,Cat,Spayed Female,24,Domestic Medium Hair Mix,Spayed Female,24,0.0,365,PM,2014-11-21,2.857142857142857,0.9,Quarter 3,1.7443550957353724
+11/11/2019 12:15:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,366,PM,2019-11-11,0.21691973969631237,0.54,Quarter 3,-0.06038517966422109
+09/24/2018 01:31:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,367,PM,2018-09-24,0.21691973969631237,0.54,Quarter 3,-0.661507184748195
+01/04/2014 02:05:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,24,others,Spayed Female,24,0.0,368,PM,2014-01-04,0.21691973969631237,0.9,Quarter 1,0.21419138636118776
+04/21/2017 01:02:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,11,others,Intact Male,1,0.0,369,PM,2017-04-21,0.21691973969631237,0.54,Quarter 1,0.006661152227652694
+12/16/2013 05:23:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,2,0.0,370,PM,2013-12-16,0.21691973969631237,0.54,Quarter 3,0.47910106304371086
+02/10/2017 01:29:00 PM,Pflugerville (TX),Stray,Normal,Dog,Neutered Male,72,others,Neutered Male,72,0.0,371,PM,2017-02-10,0.21691973969631237,0.9,Quarter 1,-0.37765868301016337
+11/14/2016 03:30:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,10,others,Neutered Male,10,0.0,372,PM,2016-11-14,0.21691973969631237,0.8,Quarter 3,0.31602594374433945
+06/27/2017 04:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,373,PM,2017-06-27,0.38461538461538464,0.54,Quarter 2,-0.7585739312851428
+04/07/2016 03:39:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,374,PM,2016-04-07,0.38461538461538464,0.54,Quarter 1,1.097617014252184
+08/21/2014 11:04:00 AM,Austin (TX),Owner Surrender,Injured,Cat,Spayed Female,84,Domestic Shorthair Mix,Spayed Female,84,1.0,375,AM,2014-08-21,0.38461538461538464,0.2,Quarter 2,-0.5122319578239751
+06/28/2015 04:13:00 PM,Austin (TX),Stray,Injured,Dog,Neutered Male,24,Chihuahua Shorthair Mix,Neutered Male,24,1.0,376,PM,2015-06-28,1.694915254237288,0.18000000000000002,Quarter 2,0.5409883060511093
+10/01/2013 01:32:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,377,PM,2013-10-01,0.21691973969631237,0.54,Quarter 3,0.4689434099304482
+08/15/2017 07:00:00 PM,Manor (TX),Stray,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Intact Female,1,0.0,378,PM,2017-08-15,2.857142857142857,0.54,Quarter 2,1.9468110638496983
+08/01/2016 01:06:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,379,PM,2016-08-01,0.38461538461538464,0.54,Quarter 2,1.4682966997431035
+07/19/2018 06:38:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,380,PM,2018-07-19,0.38461538461538464,0.54,Quarter 2,-0.9804297926151891
+12/06/2013 08:38:00 PM,Travis (TX),Public Assist,Normal,Dog,Intact Male,8,Labrador Retriever Mix,Neutered Male,8,1.0,381,PM,2013-12-06,2.0,0.48,Quarter 3,1.2068796777631832
+04/01/2014 06:29:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Female,0,Domestic Shorthair Mix,Intact Female,0,0.0,382,PM,2014-04-01,0.38461538461538464,0.43200000000000005,Quarter 1,-1.8977839836005654
+05/23/2017 04:02:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,383,PM,2017-05-23,0.38461538461538464,0.54,Quarter 2,-0.36802658857607884
+05/14/2014 03:44:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,384,PM,2014-05-14,0.21691973969631237,0.54,Quarter 2,-0.8336860539025295
+05/10/2017 04:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,385,PM,2017-05-10,0.38461538461538464,0.54,Quarter 2,-1.5171737232310665
+10/23/2013 03:54:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,0.0,386,PM,2013-10-23,0.38461538461538464,0.54,Quarter 3,0.3364615559847687
+12/15/2014 04:36:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,387,PM,2014-12-15,0.21691973969631237,0.54,Quarter 3,-0.4812653017418742
+11/25/2014 01:55:00 PM,Del Valle (TX),Stray,Normal,Dog,Intact Male,5,Labrador Retriever Mix,Neutered Male,5,0.0,388,PM,2014-11-25,2.0,0.54,Quarter 3,0.5268797714528677
+06/11/2014 12:59:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,24,Pit Bull Mix,Neutered Male,24,0.0,389,PM,2014-06-11,1.5384615384615385,0.9,Quarter 2,-1.080578486380284
+06/23/2017 02:09:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,24,others,Unknown,24,1.0,390,PM,2017-06-23,0.21691973969631237,0.0,Quarter 2,0.117355121050355
+04/18/2015 03:26:00 PM,Manor (TX),Stray,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Intact Female,1,0.0,391,PM,2015-04-18,2.857142857142857,0.54,Quarter 1,1.6398638149629419
+03/24/2018 03:04:00 PM,Del Valle (TX),Stray,Normal,Dog,Intact Female,1,German Shepherd Mix,Spayed Female,1,0.0,392,PM,2018-03-24,4.166666666666666,0.54,Quarter 1,-0.950947444750904
+06/23/2016 02:33:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,others,Intact Male,36,0.0,393,PM,2016-06-23,0.21691973969631237,0.48,Quarter 2,0.8027528126978858
+04/19/2014 11:01:00 AM,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,60,Chihuahua Shorthair Mix,Intact Female,60,0.0,394,AM,2014-04-19,1.694915254237288,0.12,Quarter 1,0.9410217852724817
+09/06/2014 02:37:00 PM,Austin (TX),Stray,Aged,Dog,Neutered Male,156,others,Neutered Male,156,0.0,395,PM,2014-09-06,0.21691973969631237,0.63,Quarter 3,0.9265337882499539
+11/30/2013 06:55:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,5,others,Spayed Female,5,0.0,396,PM,2013-11-30,0.21691973969631237,0.54,Quarter 3,-0.5659148299537567
+06/13/2016 04:13:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,German Shepherd Mix,Neutered Male,24,0.0,397,PM,2016-06-13,4.166666666666666,0.54,Quarter 2,-0.12428622842214257
+04/05/2019 11:19:00 AM,Austin (TX),Wildlife,Normal,Other,Unknown,24,others,Unknown,24,1.0,398,AM,2019-04-05,0.21691973969631237,0.0,Quarter 1,-0.39437034552911143
+06/29/2016 12:20:00 PM,Bastrop (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,399,PM,2016-06-29,0.21691973969631237,0.54,Quarter 2,-1.1860101747057032
+06/23/2017 01:13:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,others,Intact Male,1,0.0,400,PM,2017-06-23,0.21691973969631237,0.6,Quarter 2,1.7594814723742709
+10/02/2015 12:41:00 PM,Manor (TX),Stray,Normal,Dog,Spayed Female,1,Labrador Retriever Mix,Spayed Female,1,0.0,401,PM,2015-10-02,2.0,0.9,Quarter 3,-0.7472140833559926
+05/22/2015 02:36:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,402,PM,2015-05-22,0.38461538461538464,0.43200000000000005,Quarter 2,0.3302337352168915
+07/15/2018 12:57:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,96,others,Neutered Male,96,0.0,403,PM,2018-07-15,0.21691973969631237,0.8,Quarter 2,0.25432675298810875
+03/15/2018 11:20:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,404,AM,2018-03-15,0.38461538461538464,0.54,Quarter 1,-0.7568503508743635
+08/03/2017 11:57:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,405,PM,2017-08-03,0.38461538461538464,0.36000000000000004,Quarter 2,-1.8178944449809815
+08/27/2015 11:03:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Spayed Female,3,0.0,406,AM,2015-08-27,0.21691973969631237,0.54,Quarter 2,1.004072674238271
+11/06/2017 04:58:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,24,others,Unknown,24,1.0,407,PM,2017-11-06,0.21691973969631237,0.0,Quarter 3,-0.503586833915478
+02/23/2019 11:22:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,408,AM,2019-02-23,0.38461538461538464,0.54,Quarter 1,-0.7457070754324602
+04/09/2016 07:58:00 AM,Austin (TX),Stray,Normal,Cat,Spayed Female,1,others,Spayed Female,1,0.0,409,AM,2016-04-09,0.21691973969631237,0.9,Quarter 1,-0.719809680732925
+06/28/2016 11:52:00 AM,Travis (TX),Stray,Normal,Dog,Intact Male,2,Labrador Retriever Mix,Intact Male,3,0.0,410,AM,2016-06-28,2.0,0.54,Quarter 2,1.4889758183727333
+05/25/2019 04:04:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,411,PM,2019-05-25,0.38461538461538464,0.54,Quarter 2,-0.04921025697832979
+11/14/2014 03:11:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,412,PM,2014-11-14,0.38461538461538464,0.9,Quarter 3,0.34034841043148784
+11/03/2019 01:11:00 PM,Manor (TX),Owner Surrender,Normal,Dog,Intact Female,2,others,Spayed Female,2,0.0,413,PM,2019-11-03,0.21691973969631237,0.6,Quarter 3,-0.9414399667237167
+11/08/2013 06:02:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Intact Female,1,0.0,414,PM,2013-11-08,1.694915254237288,0.54,Quarter 3,0.8653803480614237
+09/30/2017 01:38:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,415,PM,2017-09-30,0.21691973969631237,0.54,Quarter 3,1.2510616096584706
+01/23/2015 01:43:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Chihuahua Shorthair Mix,Neutered Male,24,0.0,416,PM,2015-01-23,1.694915254237288,0.54,Quarter 1,1.5128381867564806
+07/19/2014 05:22:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,417,PM,2014-07-19,0.38461538461538464,0.54,Quarter 2,-1.9191342518215717
+04/13/2019 11:10:00 AM,Travis (TX),Stray,Normal,Dog,Spayed Female,120,Pit Bull Mix,Spayed Female,120,0.0,418,AM,2019-04-13,1.5384615384615385,0.9,Quarter 1,0.8047795461557984
+02/24/2016 12:53:00 PM,Austin (TX),Wildlife,Injured,Other,Unknown,1,others,Unknown,1,1.0,419,PM,2016-02-24,0.21691973969631237,0.0,Quarter 1,1.818784514077765
+04/01/2018 02:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,7,Labrador Retriever Mix,Neutered Male,8,0.0,420,PM,2018-04-01,2.0,0.54,Quarter 1,-0.5138528672673669
+07/01/2019 03:43:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,7,others,Intact Female,8,0.0,421,PM,2019-07-01,0.21691973969631237,0.54,Quarter 2,1.9833361608463687
+09/10/2018 01:52:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,6,Domestic Shorthair Mix,Spayed Female,6,0.0,422,PM,2018-09-10,0.38461538461538464,0.9,Quarter 3,-0.27869812946867695
+08/03/2019 03:59:00 PM,Austin (TX),Stray,Nursing,Dog,Intact Female,0,Chihuahua Shorthair Mix,Spayed Female,2,0.0,423,PM,2019-08-03,1.694915254237288,0.43200000000000005,Quarter 2,0.7040725556975054
+09/22/2018 03:40:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,3,0.0,424,PM,2018-09-22,0.38461538461538464,0.54,Quarter 3,-0.7137391108762788
+10/31/2015 12:33:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,425,PM,2015-10-31,0.21691973969631237,0.9,Quarter 3,1.5145006879354657
+08/18/2016 03:34:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,3,0.0,426,PM,2016-08-18,0.38461538461538464,0.54,Quarter 2,-0.36372604843695905
+12/13/2017 01:41:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,0.0,427,PM,2017-12-13,0.38461538461538464,0.54,Quarter 3,0.02730812481815242
+03/25/2015 01:15:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,428,PM,2015-03-25,0.38461538461538464,0.36000000000000004,Quarter 1,2.027392965768427
+11/13/2016 03:25:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,429,PM,2016-11-13,0.21691973969631237,1.0,Quarter 3,0.2639981498495156
+08/31/2018 12:24:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,60,others,Intact Male,60,0.0,430,PM,2018-08-31,0.21691973969631237,0.54,Quarter 2,-0.14450561326099562
+12/31/2019 03:22:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,431,PM,2019-12-31,0.21691973969631237,0.54,Quarter 3,-0.1484671698011654
+06/23/2017 03:33:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,432,PM,2017-06-23,0.38461538461538464,0.54,Quarter 2,-0.4396701783308223
+11/18/2019 11:45:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,3,others,Intact Female,3,0.0,433,AM,2019-11-18,0.21691973969631237,0.54,Quarter 3,1.6293547701086624
+08/02/2017 01:12:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,434,PM,2017-08-02,0.38461538461538464,0.36000000000000004,Quarter 2,-0.0814888400332531
+08/12/2018 03:03:00 PM,Del Valle (TX),Public Assist,Sick,Dog,Intact Male,4,Pit Bull Mix,Intact Male,4,0.0,435,PM,2018-08-12,1.5384615384615385,0.096,Quarter 2,0.1797425419069156
+04/02/2015 11:59:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,36,Chihuahua Shorthair Mix,Neutered Male,36,0.0,436,AM,2015-04-02,1.694915254237288,0.54,Quarter 1,0.45697759332806065
+08/28/2017 01:57:00 PM,Travis (TX),Stray,Normal,Dog,Neutered Male,96,Labrador Retriever Mix,Neutered Male,96,0.0,437,PM,2017-08-28,2.0,0.9,Quarter 2,-0.8607463103797302
+01/23/2018 06:04:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,3,Domestic Shorthair Mix,Unknown,3,0.0,438,PM,2018-01-23,0.38461538461538464,0.36000000000000004,Quarter 1,0.3210151625348037
+09/10/2015 12:41:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2,others,Neutered Male,2,0.0,439,PM,2015-09-10,0.21691973969631237,0.6,Quarter 3,0.12715915659432095
+08/15/2017 03:23:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,440,PM,2017-08-15,0.38461538461538464,0.36000000000000004,Quarter 2,0.3802992481469909
+09/01/2017 11:17:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,4,0.0,441,AM,2017-09-01,0.38461538461538464,0.54,Quarter 3,-0.35031620669725244
+10/07/2016 12:12:00 PM,Manor (TX),Public Assist,Normal,Dog,Intact Female,6,others,Intact Female,6,0.0,442,PM,2016-10-07,0.21691973969631237,0.48,Quarter 3,0.4329232725020275
+06/08/2017 05:37:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,3,0.0,443,PM,2017-06-08,0.38461538461538464,0.54,Quarter 2,1.1627997991330528
+10/26/2013 09:35:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,8,others,Neutered Male,9,0.0,444,PM,2013-10-26,0.21691973969631237,0.54,Quarter 3,0.5722832411623081
+07/22/2019 02:53:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,1,Pit Bull Mix,Intact Male,1,0.0,445,PM,2019-07-22,1.5384615384615385,0.48,Quarter 2,-0.13943517734576372
+12/02/2014 01:25:00 PM,Austin (TX),Stray,Sick,Cat,Intact Male,1,others,Intact Male,1,1.0,446,PM,2014-12-02,0.21691973969631237,0.10800000000000001,Quarter 3,0.958286129522859
+06/18/2014 03:19:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,2,0.0,447,PM,2014-06-18,0.21691973969631237,0.54,Quarter 2,-1.8551707546070146
+12/16/2013 04:24:00 PM,Pflugerville (TX),Owner Surrender,Normal,Dog,Intact Female,1,Labrador Retriever Mix,Intact Female,2,0.0,448,PM,2013-12-16,2.0,0.6,Quarter 3,0.42530061266171626
+06/17/2014 11:23:00 PM,Austin (TX),Public Assist,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Intact Female,24,0.0,449,PM,2014-06-17,2.857142857142857,0.48,Quarter 2,1.8926885473008908
+10/27/2018 11:03:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,450,AM,2018-10-27,0.21691973969631237,0.54,Quarter 3,0.8047636317610601
+03/28/2018 03:42:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,48,Chihuahua Shorthair Mix,Intact Male,48,0.0,451,PM,2018-03-28,1.694915254237288,0.54,Quarter 1,-0.26331479813758035
+12/02/2019 01:23:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,452,PM,2019-12-02,0.21691973969631237,0.54,Quarter 3,0.4690098944676655
+08/03/2016 05:21:00 PM,Outside Jurisdiction,Owner Surrender,Sick,Dog,Neutered Male,3,others,Neutered Male,3,0.0,453,PM,2016-08-03,0.21691973969631237,0.2,Quarter 2,0.5714343377763115
+06/04/2018 01:54:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,9,others,Spayed Female,10,0.0,454,PM,2018-06-04,0.21691973969631237,0.54,Quarter 2,-0.7872141508875302
+12/07/2015 04:02:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,84,Pit Bull Mix,Intact Male,84,0.0,455,PM,2015-12-07,1.5384615384615385,0.48,Quarter 3,-0.3261281770256173
+06/20/2018 06:27:00 PM,Austin (TX),Stray,Sick,Cat,Intact Male,1,others,Intact Male,2,0.0,456,PM,2018-06-20,0.21691973969631237,0.10800000000000001,Quarter 2,0.03095912373080975
+07/13/2019 10:50:00 AM,Travis (TX),Stray,Normal,Dog,Intact Male,4,others,Intact Male,5,0.0,457,AM,2019-07-13,0.21691973969631237,0.54,Quarter 2,0.4772965501794209
+05/10/2019 07:42:00 AM,Austin (TX),Stray,Sick,Cat,Intact Male,1,others,Neutered Male,3,0.0,458,AM,2019-05-10,0.21691973969631237,0.10800000000000001,Quarter 2,-0.3385472540458954
+09/22/2015 12:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,459,PM,2015-09-22,0.38461538461538464,0.54,Quarter 3,-1.9942227289548453
+06/24/2018 07:37:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,460,PM,2018-06-24,0.38461538461538464,1.0,Quarter 2,-1.7711311615166017
+01/03/2017 09:52:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,461,AM,2017-01-03,0.38461538461538464,0.6,Quarter 1,-0.6891820081085971
+01/08/2014 11:10:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,10,others,Intact Male,10,0.0,462,AM,2014-01-08,0.21691973969631237,0.18,Quarter 1,-1.0444848473016806
+06/09/2015 01:22:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,3,0.0,463,PM,2015-06-09,0.38461538461538464,0.54,Quarter 2,0.7207908709288627
+10/02/2014 07:20:00 AM,Travis (TX),Stray,Feral,Cat,Intact Male,2,others,Neutered Male,2,0.0,464,AM,2014-10-02,0.21691973969631237,0.162,Quarter 3,0.43735350268513246
+10/05/2019 12:34:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,others,Neutered Male,36,0.0,465,PM,2019-10-05,0.21691973969631237,0.48,Quarter 3,-1.645573781378155
+05/10/2017 02:59:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,144,Chihuahua Shorthair Mix,Neutered Male,144,0.0,466,PM,2017-05-10,1.694915254237288,0.9,Quarter 2,0.6564862097806935
+03/06/2014 10:54:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,1,0.0,467,AM,2014-03-06,1.694915254237288,0.54,Quarter 1,0.8531624028456932
+08/11/2018 10:51:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,36,others,Neutered Male,36,0.0,468,AM,2018-08-11,0.21691973969631237,0.9,Quarter 2,0.1720429330225122
+09/24/2018 11:26:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,120,others,Neutered Male,120,0.0,469,AM,2018-09-24,0.21691973969631237,0.9,Quarter 3,0.23948168421203067
+05/21/2018 03:55:00 PM,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,108,others,Neutered Male,108,0.0,470,PM,2018-05-21,0.21691973969631237,0.2,Quarter 2,-2.0573315848852007
+09/02/2014 12:12:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,120,others,Spayed Female,120,0.0,471,PM,2014-09-02,0.21691973969631237,1.0,Quarter 3,0.2523347085076614
+12/18/2016 09:40:00 AM,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,1,others,Spayed Female,2,0.0,472,AM,2016-12-18,0.21691973969631237,1.0,Quarter 3,0.09182596533785431
+07/27/2015 01:54:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,3,0.0,473,PM,2015-07-27,0.38461538461538464,0.54,Quarter 2,-0.845879633710091
+07/21/2015 06:58:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,474,PM,2015-07-21,0.38461538461538464,0.54,Quarter 2,-0.9112666650967448
+01/09/2020 02:57:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,72,others,Neutered Male,72,0.0,475,PM,2020-01-09,0.21691973969631237,1.0,Quarter 1,0.8778971619747626
+02/28/2016 03:30:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,72,Chihuahua Shorthair Mix,Neutered Male,72,0.0,476,PM,2016-02-28,1.694915254237288,1.0,Quarter 1,0.5159147914805082
+12/02/2019 10:30:00 AM,Austin (TX),Stray,Nursing,Dog,Intact Male,0,German Shepherd Mix,Neutered Male,1,0.0,477,AM,2019-12-02,4.166666666666666,0.43200000000000005,Quarter 3,-1.5008315321568713
+06/19/2015 11:59:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,478,AM,2015-06-19,0.38461538461538464,0.6,Quarter 2,-1.2507038274429334
+10/26/2017 12:09:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,4,others,Intact Male,4,0.0,479,PM,2017-10-26,0.21691973969631237,0.54,Quarter 3,-1.1374195926951334
+07/30/2019 12:15:00 PM,Pflugerville (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,480,PM,2019-07-30,0.38461538461538464,0.54,Quarter 2,0.4811481445895104
+08/26/2014 07:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,481,PM,2014-08-26,0.21691973969631237,0.54,Quarter 2,-0.16678403974000774
+12/16/2014 03:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,482,PM,2014-12-16,0.21691973969631237,0.54,Quarter 3,1.380116896234973
+11/09/2019 01:28:00 PM,Pflugerville (TX),Owner Surrender,Normal,Cat,Neutered Male,24,Domestic Shorthair Mix,Neutered Male,24,0.0,483,PM,2019-11-09,0.38461538461538464,1.0,Quarter 3,0.4178356410863791
+05/10/2017 04:35:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,484,PM,2017-05-10,0.38461538461538464,0.54,Quarter 2,-1.1066521499933641
+07/03/2018 12:18:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,485,PM,2018-07-03,0.21691973969631237,0.54,Quarter 2,1.651248606676289
+04/03/2019 03:24:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,7,others,Spayed Female,8,0.0,486,PM,2019-04-03,0.21691973969631237,0.54,Quarter 1,0.8835217277337744
+05/14/2019 05:57:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,487,PM,2019-05-14,0.21691973969631237,0.54,Quarter 2,0.4917121669785534
+10/11/2015 02:26:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,488,PM,2015-10-11,0.21691973969631237,0.54,Quarter 3,-0.7247112193421532
+10/04/2015 02:22:00 PM,Jonestown (TX),Euthanasia Request,Sick,Dog,Neutered Male,192,German Shepherd Mix,Neutered Male,192,1.0,489,PM,2015-10-04,4.166666666666666,0.0,Quarter 3,-0.2549587800999383
+07/30/2018 11:38:00 AM,Manor (TX),Stray,Normal,Cat,Intact Female,2,Domestic Medium Hair Mix,Spayed Female,3,0.0,490,AM,2018-07-30,2.857142857142857,0.54,Quarter 2,-0.04343446786849896
+10/12/2019 11:57:00 AM,Manor (TX),Stray,Normal,Cat,Unknown,5,Domestic Medium Hair Mix,Unknown,5,0.0,491,AM,2019-10-12,2.857142857142857,0.36000000000000004,Quarter 3,-1.8483781091053466
+01/17/2015 03:32:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,492,PM,2015-01-17,0.38461538461538464,0.54,Quarter 1,0.38667240269425784
+11/17/2016 10:03:00 AM,Travis (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,493,AM,2016-11-17,0.38461538461538464,0.36000000000000004,Quarter 3,2.6310928425730165
+08/28/2014 04:59:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,0,Domestic Shorthair Mix,Intact Male,0,0.0,494,PM,2014-08-28,0.38461538461538464,0.54,Quarter 2,-0.5833919319418619
+11/16/2014 12:39:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,Pit Bull Mix,Neutered Male,1,0.0,495,PM,2014-11-16,1.5384615384615385,1.0,Quarter 3,-1.3994572972869672
+05/18/2015 04:44:00 PM,Del Valle (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,496,PM,2015-05-18,0.38461538461538464,0.36000000000000004,Quarter 2,-0.610968392317852
+10/15/2015 06:27:00 PM,Pflugerville (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,497,PM,2015-10-15,0.21691973969631237,0.54,Quarter 3,0.5572067617030116
+03/05/2018 05:15:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,10,Labrador Retriever Mix,Neutered Male,11,0.0,498,PM,2018-03-05,2.0,0.6,Quarter 1,-0.43214997127472804
+12/31/2019 11:17:00 PM,Austin (TX),Stray,Normal,Other,Unknown,1,others,Unknown,1,0.0,499,PM,2019-12-31,0.21691973969631237,0.10800000000000001,Quarter 3,0.719183121629984
+10/27/2014 04:37:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,36,others,Unknown,36,1.0,500,PM,2014-10-27,0.21691973969631237,0.0,Quarter 3,0.8532438029768303
+11/27/2017 01:42:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,others,Intact Male,36,0.0,501,PM,2017-11-27,0.21691973969631237,0.48,Quarter 3,0.024629759089054896
+10/05/2015 05:34:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,502,PM,2015-10-05,0.38461538461538464,0.54,Quarter 3,1.3533812151332312
+09/12/2014 02:39:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,503,PM,2014-09-12,0.21691973969631237,0.54,Quarter 3,-0.36237768190878705
+10/02/2016 01:55:00 PM,Austin (TX),Stray,Injured,Other,Unknown,1,others,Unknown,1,1.0,504,PM,2016-10-02,0.21691973969631237,0.021600000000000005,Quarter 3,0.08247174169395556
+10/25/2015 06:40:00 PM,Austin (TX),Euthanasia Request,Aged,Dog,Neutered Male,132,Pit Bull Mix,Neutered Male,132,1.0,505,PM,2015-10-25,1.5384615384615385,0.0,Quarter 3,0.8693257393314944
+07/09/2014 12:51:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,48,Chihuahua Shorthair Mix,Spayed Female,48,0.0,506,PM,2014-07-09,1.694915254237288,0.54,Quarter 2,-0.14429052840127332
+12/02/2017 01:48:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Medium Hair Mix,Intact Female,24,0.0,507,PM,2017-12-02,2.857142857142857,0.54,Quarter 3,-0.11051818598198583
+05/20/2018 04:06:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,508,PM,2018-05-20,0.38461538461538464,0.43200000000000005,Quarter 2,1.2888336199145314
+09/29/2015 11:48:00 AM,Manor (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,509,AM,2015-09-29,0.38461538461538464,0.36000000000000004,Quarter 3,-0.6632514919355743
+10/02/2019 06:23:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,2,others,Intact Female,2,0.0,510,PM,2019-10-02,0.21691973969631237,0.54,Quarter 3,0.8075923895066789
+01/22/2020 12:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,36,others,Neutered Male,36,0.0,511,PM,2020-01-22,0.21691973969631237,0.54,Quarter 1,2.2743821256414156
+01/16/2020 10:25:00 AM,Austin (TX),Public Assist,Normal,Dog,Intact Male,1,German Shepherd,Intact Male,2,0.0,512,AM,2020-01-16,20.0,0.48,Quarter 1,-0.10161943881757077
+06/05/2017 11:36:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,96,Pit Bull Mix,Spayed Female,96,0.0,513,AM,2017-06-05,1.5384615384615385,0.9,Quarter 2,0.11573766573949859
+04/29/2015 09:40:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,1,0.0,514,PM,2015-04-29,1.694915254237288,0.48,Quarter 1,-0.7650606622462051
+06/09/2017 03:26:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,3,Domestic Shorthair Mix,Intact Female,3,0.0,515,PM,2017-06-09,0.38461538461538464,0.54,Quarter 2,-2.5262156790519286
+09/29/2017 04:54:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,48,others,Spayed Female,48,0.0,516,PM,2017-09-29,0.21691973969631237,0.9,Quarter 3,0.584369787427686
+06/17/2019 04:52:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,517,PM,2019-06-17,0.21691973969631237,0.54,Quarter 2,0.18323615862726036
+01/08/2014 06:55:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,4,others,Spayed Female,5,0.0,518,PM,2014-01-08,0.21691973969631237,0.54,Quarter 1,-1.867999190714121
+12/16/2016 11:04:00 AM,Austin (TX),Wildlife,Sick,Other,Unknown,24,others,Unknown,24,1.0,519,AM,2016-12-16,0.21691973969631237,0.0,Quarter 3,0.22949299169827822
+08/29/2019 07:10:00 PM,Travis (TX),Stray,Normal,Cat,Spayed Female,5,Domestic Shorthair Mix,Spayed Female,6,0.0,520,PM,2019-08-29,0.38461538461538464,0.9,Quarter 2,-0.07889849610329634
+05/09/2019 04:37:00 PM,Travis (TX),Wildlife,Normal,Other,Unknown,24,Bat,Unknown,24,1.0,521,PM,2019-05-09,6.666666666666667,0.0,Quarter 2,1.4788109941999479
+10/03/2019 02:13:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,522,PM,2019-10-03,0.21691973969631237,0.54,Quarter 3,0.1783383597418746
+11/26/2014 06:59:00 AM,Austin (TX),Stray,Injured,Dog,Spayed Female,36,Chihuahua Shorthair Mix,Spayed Female,36,0.0,523,AM,2014-11-26,1.694915254237288,0.18000000000000002,Quarter 3,1.3721183535935537
+09/24/2018 01:31:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,524,PM,2018-09-24,0.21691973969631237,0.54,Quarter 3,-0.018762908498384738
+09/28/2018 11:08:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,4,Domestic Shorthair Mix,Neutered Male,4,0.0,525,AM,2018-09-28,0.38461538461538464,0.54,Quarter 3,-1.6668847661785595
+05/02/2017 11:30:00 AM,Austin (TX),Stray,Other,Cat,Spayed Female,36,Domestic Shorthair Mix,Spayed Female,36,0.0,526,AM,2017-05-02,0.38461538461538464,0.36000000000000004,Quarter 2,-1.5480868298325823
+07/12/2019 12:34:00 AM,Travis (TX),Stray,Normal,Dog,Intact Female,36,others,Intact Female,36,0.0,527,AM,2019-07-12,0.21691973969631237,0.54,Quarter 2,0.6095902078743081
+03/02/2017 02:37:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,528,PM,2017-03-02,0.38461538461538464,0.54,Quarter 1,0.7511504333428303
+10/24/2018 03:42:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,529,PM,2018-10-24,0.21691973969631237,0.54,Quarter 3,-1.6571755999780178
+04/02/2018 11:02:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1,Pit Bull Mix,Spayed Female,1,0.0,530,AM,2018-04-02,1.5384615384615385,1.0,Quarter 1,-0.22033254631108218
+09/24/2017 01:27:00 PM,Travis (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,531,PM,2017-09-24,0.38461538461538464,0.54,Quarter 3,0.9628514481084186
+08/06/2017 01:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,5,0.0,532,PM,2017-08-06,0.38461538461538464,0.54,Quarter 2,0.057333078947890546
+06/06/2017 12:10:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Neutered Male,3,0.0,533,PM,2017-06-06,2.857142857142857,0.54,Quarter 2,0.38840477737834594
+03/03/2017 04:04:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,534,PM,2017-03-03,0.21691973969631237,0.0,Quarter 1,-0.5568538101663838
+11/21/2017 12:07:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,84,Domestic Shorthair Mix,Spayed Female,84,0.0,535,PM,2017-11-21,0.38461538461538464,0.9,Quarter 3,0.37674578643596784
+06/07/2019 02:10:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,536,PM,2019-06-07,0.21691973969631237,0.6,Quarter 2,1.0421382355795754
+09/03/2014 11:58:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,60,Pit Bull Mix,Spayed Female,60,0.0,537,AM,2014-09-03,1.5384615384615385,0.9,Quarter 3,-0.061324267137285754
+12/21/2013 02:40:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,36,others,Neutered Male,36,0.0,538,PM,2013-12-21,0.21691973969631237,0.9,Quarter 3,0.1118298037226048
+10/16/2019 04:46:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,60,others,Neutered Male,60,0.0,539,PM,2019-10-16,0.21691973969631237,1.0,Quarter 3,0.7961289518919129
+08/03/2017 03:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,540,PM,2017-08-03,0.38461538461538464,0.54,Quarter 2,1.053468935436956
+03/11/2015 04:27:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,48,Miniature Poodle Mix,Neutered Male,60,0.0,541,PM,2015-03-11,7.6923076923076925,0.9,Quarter 1,2.2914767735209556
+02/26/2016 08:34:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,German Shepherd,Intact Male,36,0.0,542,PM,2016-02-26,20.0,0.48,Quarter 1,0.30285319823407947
+12/29/2013 12:58:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,96,others,Neutered Male,96,0.0,543,PM,2013-12-29,0.21691973969631237,0.9,Quarter 3,-0.21577750036728405
+02/11/2017 10:37:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,60,others,Neutered Male,60,0.0,544,AM,2017-02-11,0.21691973969631237,1.0,Quarter 1,-0.28421125008392023
+02/29/2016 10:47:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Pit Bull Mix,Intact Male,1,0.0,545,AM,2016-02-29,1.5384615384615385,0.54,Quarter 1,-0.16781721500838798
+06/25/2019 06:47:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,546,PM,2019-06-25,0.38461538461538464,0.54,Quarter 2,-0.8012781008502528
+10/14/2013 02:38:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,4,German Shepherd Mix,Intact Female,4,0.0,547,PM,2013-10-14,4.166666666666666,0.54,Quarter 3,-0.2755903968163642
+10/15/2016 01:32:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,96,others,Neutered Male,96,0.0,548,PM,2016-10-15,0.21691973969631237,0.9,Quarter 3,-0.6425827114482964
+09/05/2016 11:26:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,549,AM,2016-09-05,0.38461538461538464,0.54,Quarter 3,0.30612544790839297
+09/30/2017 03:01:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,9,Domestic Shorthair Mix,Neutered Male,11,0.0,550,PM,2017-09-30,0.38461538461538464,0.54,Quarter 3,0.10349867804795082
+06/04/2019 04:23:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,1,0.0,551,PM,2019-06-04,0.21691973969631237,0.54,Quarter 2,-1.2384063933867318
+12/04/2018 10:51:00 AM,Travis (TX),Stray,Injured,Cat,Intact Female,8,Domestic Shorthair Mix,Spayed Female,1,0.0,552,AM,2018-12-04,0.38461538461538464,0.10800000000000001,Quarter 3,-0.6251940217628519
+11/06/2013 08:44:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,24,others,Spayed Female,24,0.0,553,AM,2013-11-06,0.21691973969631237,1.0,Quarter 3,0.14325171238684375
+11/05/2014 02:19:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,5,others,Spayed Female,5,0.0,554,PM,2014-11-05,0.21691973969631237,0.54,Quarter 3,0.12265632783624204
+04/16/2019 11:20:00 PM,Austin (TX),Public Assist,Normal,Other,Unknown,1,others,Unknown,1,1.0,555,PM,2019-04-16,0.21691973969631237,0.09600000000000002,Quarter 1,0.5328381209364987
+01/18/2014 06:10:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,1,others,Unknown,1,1.0,556,PM,2014-01-18,0.21691973969631237,0.0,Quarter 1,0.02406426352943363
+06/03/2019 12:39:00 PM,Austin (TX),Stray,Sick,Cat,Intact Male,1,others,Intact Male,1,0.0,557,PM,2019-06-03,0.21691973969631237,0.10800000000000001,Quarter 2,-1.4935270927094138
+12/30/2014 03:41:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,0,Domestic Shorthair Mix,Intact Male,1,0.0,558,PM,2014-12-30,0.38461538461538464,0.54,Quarter 3,0.4616389231913546
+04/28/2016 12:24:00 PM,Del Valle (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,559,PM,2016-04-28,0.38461538461538464,0.54,Quarter 1,-1.538015052148332
+11/07/2017 12:39:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,60,Domestic Shorthair Mix,Intact Female,60,0.0,560,PM,2017-11-07,0.38461538461538464,0.54,Quarter 3,-0.17517074357452087
+04/12/2019 12:37:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,36,others,Intact Female,36,0.0,561,PM,2019-04-12,0.21691973969631237,0.54,Quarter 1,-0.3901570868675803
+05/06/2018 11:54:00 AM,Austin (TX),Stray,Normal,Other,Unknown,1,others,Unknown,1,0.0,562,AM,2018-05-06,0.21691973969631237,0.10800000000000001,Quarter 2,-0.5739595127145838
+05/04/2014 09:00:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,563,AM,2014-05-04,0.38461538461538464,0.43200000000000005,Quarter 2,1.4564209138248154
+12/01/2019 12:22:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,Pit Bull,Neutered Male,1,0.0,564,PM,2019-12-01,14.285714285714285,1.0,Quarter 3,-1.3543671830313666
+02/11/2016 11:18:00 AM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,120,others,Neutered Male,120,0.0,565,AM,2016-02-11,0.21691973969631237,0.8,Quarter 1,1.5469748837420212
+10/17/2016 03:34:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,24,Bat,Unknown,24,1.0,566,PM,2016-10-17,6.666666666666667,0.0,Quarter 3,-1.221894333234726
+05/05/2018 11:02:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,567,AM,2018-05-05,0.38461538461538464,0.36000000000000004,Quarter 2,0.48565808756848966
+02/11/2014 12:50:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,48,Domestic Shorthair Mix,Intact Female,48,0.0,568,PM,2014-02-11,0.38461538461538464,0.54,Quarter 1,2.0532366801278905
+05/21/2016 04:30:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,569,PM,2016-05-21,0.38461538461538464,0.54,Quarter 2,0.9311640698345515
+04/28/2017 06:23:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,36,others,Intact Male,36,0.0,570,PM,2017-04-28,0.21691973969631237,0.48,Quarter 1,1.453201644985727
+12/12/2013 12:51:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,24,others,Unknown,24,1.0,571,PM,2013-12-12,0.21691973969631237,0.0,Quarter 3,0.7447432639272428
+01/26/2017 02:44:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,572,PM,2017-01-26,0.38461538461538464,0.54,Quarter 1,-0.6457013257404695
+03/26/2019 01:37:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,7,others,Spayed Female,8,0.0,573,PM,2019-03-26,0.21691973969631237,0.54,Quarter 1,-0.8394221307962663
+07/05/2015 12:48:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,6,Chihuahua Shorthair Mix,Spayed Female,6,0.0,574,PM,2015-07-05,1.694915254237288,0.54,Quarter 2,1.1104873706347897
+07/06/2015 11:14:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,24,Labrador Retriever Mix,Spayed Female,24,0.0,575,AM,2015-07-06,2.0,0.54,Quarter 2,-1.8473862616814627
+05/25/2018 03:54:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,576,PM,2018-05-25,0.21691973969631237,1.0,Quarter 2,1.634162362050265
+03/02/2014 02:59:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,60,others,Neutered Male,60,0.0,577,PM,2014-03-02,0.21691973969631237,0.9,Quarter 1,0.28832794172075676
+04/29/2014 11:56:00 AM,Del Valle (TX),Stray,Normal,Cat,Intact Male,0,Domestic Shorthair Mix,Intact Male,0,0.0,578,AM,2014-04-29,0.38461538461538464,0.54,Quarter 1,-1.187371818478185
+03/18/2016 08:09:00 AM,Pflugerville (TX),Stray,Nursing,Cat,Unknown,0,Domestic Shorthair Mix,Unknown,0,0.0,579,AM,2016-03-18,0.38461538461538464,0.28800000000000003,Quarter 1,-0.5352975937772687
+10/14/2014 04:26:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Intact Female,3,0.0,580,PM,2014-10-14,0.21691973969631237,0.54,Quarter 3,1.3324912069261552
+05/05/2016 02:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Pit Bull Mix,Neutered Male,1,0.0,581,PM,2016-05-05,1.5384615384615385,0.54,Quarter 2,0.7027833962407805
+03/30/2015 12:31:00 PM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,132,others,Spayed Female,132,0.0,582,PM,2015-03-30,0.21691973969631237,0.8,Quarter 1,0.06448730018014603
+08/10/2018 01:40:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,583,PM,2018-08-10,6.666666666666667,0.0,Quarter 2,-1.0839178253845743
+05/15/2017 08:29:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,7,Pit Bull Mix,Intact Male,7,0.0,584,AM,2017-05-15,1.5384615384615385,0.54,Quarter 2,-0.5613107068137643
+06/29/2014 11:34:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,24,Domestic Shorthair Mix,Unknown,24,0.0,585,AM,2014-06-29,0.38461538461538464,0.36000000000000004,Quarter 2,0.03434792061495279
+02/16/2018 04:45:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,156,Labrador Retriever Mix,Spayed Female,156,0.0,586,PM,2018-02-16,2.0,1.0,Quarter 1,0.35846399847515287
+06/17/2017 10:12:00 AM,Austin (TX),Stray,Injured,Cat,Unknown,3,Domestic Shorthair Mix,Unknown,3,1.0,587,AM,2017-06-17,0.38461538461538464,0.07200000000000001,Quarter 2,1.3781341350641274
+05/18/2017 11:56:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,588,AM,2017-05-18,0.21691973969631237,0.9,Quarter 2,-1.6283485462808844
+04/22/2019 02:44:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,24,Domestic Shorthair Mix,Unknown,24,0.0,589,PM,2019-04-22,0.38461538461538464,0.36000000000000004,Quarter 1,-1.656093973235677
+05/09/2018 01:13:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,144,Domestic Shorthair Mix,Neutered Male,156,0.0,590,PM,2018-05-09,0.38461538461538464,1.0,Quarter 2,0.45086765135294615
+09/15/2017 04:56:00 PM,Austin (TX),Stray,Sick,Dog,Intact Male,6,others,Intact Male,6,1.0,591,PM,2017-09-15,0.21691973969631237,0.10800000000000001,Quarter 3,0.3830766082963779
+10/10/2016 06:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,592,PM,2016-10-10,0.21691973969631237,0.54,Quarter 3,1.033755077505678
+02/11/2019 12:32:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,593,PM,2019-02-11,0.21691973969631237,1.0,Quarter 1,-0.1622526529507248
+05/13/2014 02:38:00 PM,Leander (TX),Stray,Normal,Cat,Intact Female,1,others,Intact Female,1,0.0,594,PM,2014-05-13,0.21691973969631237,0.54,Quarter 2,0.8518784278442909
+07/01/2015 04:32:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,204,others,Spayed Female,204,0.0,595,PM,2015-07-01,0.21691973969631237,0.9,Quarter 2,0.4979689349818222
+04/11/2019 10:55:00 AM,Austin (TX),Stray,Nursing,Cat,Intact Female,0,Domestic Shorthair Mix,Spayed Female,1,0.0,596,AM,2019-04-11,0.38461538461538464,0.43200000000000005,Quarter 1,-0.9612673011139339
+07/16/2019 11:54:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Spayed Female,3,0.0,597,AM,2019-07-16,0.38461538461538464,0.54,Quarter 2,0.7974135537012481
+03/12/2017 09:50:00 AM,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,48,Labrador Retriever Mix,Spayed Female,48,0.0,598,AM,2017-03-12,2.0,1.0,Quarter 1,-0.6111991514052635
+11/28/2015 11:32:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,72,Pit Bull Mix,Neutered Male,72,0.0,599,AM,2015-11-28,1.5384615384615385,0.9,Quarter 3,0.6162708705495806
+05/10/2017 02:08:00 PM,Mustang Ridge (TX),Stray,Normal,Dog,Intact Female,48,others,Spayed Female,48,0.0,600,PM,2017-05-10,0.21691973969631237,0.54,Quarter 2,-2.3185207016665275
+04/25/2014 11:00:00 AM,Austin (TX),Stray,Normal,Cat,Neutered Male,48,others,Neutered Male,48,0.0,601,AM,2014-04-25,0.21691973969631237,0.9,Quarter 1,-0.28952095759191065
+09/29/2015 11:36:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,10,others,Neutered Male,11,0.0,602,PM,2015-09-29,0.21691973969631237,0.54,Quarter 3,-1.2377087929209096
+02/03/2014 04:35:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,1,others,Spayed Female,1,0.0,603,PM,2014-02-03,0.21691973969631237,0.9,Quarter 1,0.16522432048469612
+04/06/2017 11:37:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,9,Chihuahua Shorthair Mix,Neutered Male,9,0.0,604,AM,2017-04-06,1.694915254237288,0.54,Quarter 1,0.9775642153970944
+06/04/2014 04:48:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,4,others,Spayed Female,5,0.0,605,PM,2014-06-04,0.21691973969631237,0.54,Quarter 2,-2.0319104429759234
+05/11/2017 06:21:00 PM,Manor (TX),Stray,Normal,Dog,Intact Male,1,Miniature Poodle Mix,Neutered Male,1,0.0,606,PM,2017-05-11,7.6923076923076925,0.54,Quarter 2,-0.012580920435449462
+10/01/2017 12:23:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Intact Female,2,0.0,607,PM,2017-10-01,0.38461538461538464,0.6,Quarter 3,-1.0628853952768844
+12/03/2013 11:05:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Intact Male,2,0.0,608,AM,2013-12-03,0.38461538461538464,0.54,Quarter 3,-0.8161152412495881
+09/13/2017 11:39:00 AM,Cedar Park (TX),Owner Surrender,Normal,Dog,Spayed Female,1,others,Spayed Female,4,0.0,609,AM,2017-09-13,0.21691973969631237,1.0,Quarter 3,1.3694682951878403
+05/21/2014 12:01:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,48,Domestic Medium Hair Mix,Neutered Male,48,0.0,610,PM,2014-05-21,2.857142857142857,1.0,Quarter 2,-1.873113769272767
+05/02/2014 10:18:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,611,PM,2014-05-02,6.666666666666667,0.0,Quarter 2,0.7231149021597176
+07/19/2017 03:45:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,Chihuahua Shorthair Mix,Spayed Female,3,0.0,612,PM,2017-07-19,1.694915254237288,0.54,Quarter 2,-1.1044487861021928
+11/22/2019 12:07:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,613,PM,2019-11-22,0.21691973969631237,0.54,Quarter 3,-0.7967299618549193
+04/20/2016 11:18:00 AM,Del Valle (TX),Stray,Normal,Dog,Intact Male,48,others,Neutered Male,48,0.0,614,AM,2016-04-20,0.21691973969631237,0.54,Quarter 1,0.7177785866682214
+05/27/2019 05:29:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,615,PM,2019-05-27,6.666666666666667,0.0,Quarter 2,-0.5592987171437142
+09/27/2017 04:30:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,9,German Shepherd Mix,Neutered Male,10,0.0,616,PM,2017-09-27,4.166666666666666,0.54,Quarter 3,-0.14488693487367924
+05/04/2019 03:14:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,617,PM,2019-05-04,0.38461538461538464,0.54,Quarter 2,0.9893006977706823
+06/12/2015 06:36:00 PM,Austin (TX),Wildlife,Injured,Other,Unknown,1,others,Unknown,1,1.0,618,PM,2015-06-12,0.21691973969631237,0.0,Quarter 2,-0.15630883596669273
+04/22/2017 09:46:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,619,AM,2017-04-22,0.21691973969631237,1.0,Quarter 1,1.2690034968952668
+04/16/2019 06:55:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,620,PM,2019-04-16,0.38461538461538464,0.36000000000000004,Quarter 1,0.45773464856027596
+08/20/2017 01:02:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,192,Domestic Shorthair Mix,Spayed Female,192,1.0,621,PM,2017-08-20,0.38461538461538464,1.0,Quarter 2,-0.08976724982036924
+10/05/2019 04:20:00 PM,Travis (TX),Stray,Normal,Dog,Spayed Female,48,others,Spayed Female,48,0.0,622,PM,2019-10-05,0.21691973969631237,0.9,Quarter 3,1.625321926825021
+08/16/2019 04:49:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,1,others,Spayed Female,2,0.0,623,PM,2019-08-16,0.21691973969631237,0.6,Quarter 2,-2.0510881078960566
+06/29/2015 03:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,624,PM,2015-06-29,0.21691973969631237,0.54,Quarter 2,-0.003841871687937824
+08/04/2015 04:24:00 PM,Travis (TX),Owner Surrender,Normal,Cat,Intact Male,5,others,Neutered Male,5,0.0,625,PM,2015-08-04,0.21691973969631237,0.6,Quarter 2,0.016573528315280774
+07/20/2014 11:51:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,626,AM,2014-07-20,0.21691973969631237,0.54,Quarter 2,0.2511399346612876
+10/23/2016 11:52:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,168,Miniature Poodle Mix,Spayed Female,180,0.0,627,AM,2016-10-23,7.6923076923076925,0.9,Quarter 3,-0.050912649783109144
+05/05/2018 12:07:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,36,others,Intact Male,36,1.0,628,PM,2018-05-05,0.21691973969631237,0.6,Quarter 2,-0.37068542792443027
+12/23/2013 05:26:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,7,others,Intact Male,7,0.0,629,PM,2013-12-23,0.21691973969631237,0.6,Quarter 3,1.10317631632361
+05/08/2019 10:31:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Intact Female,1,0.0,630,AM,2019-05-08,0.21691973969631237,0.54,Quarter 2,0.6884697096998861
+04/22/2015 01:45:00 PM,Travis (TX),Stray,Normal,Dog,Spayed Female,36,Pit Bull Mix,Spayed Female,36,0.0,631,PM,2015-04-22,1.5384615384615385,0.9,Quarter 1,0.9161729013805484
+12/25/2019 12:05:00 AM,Travis (TX),Wildlife,Normal,Other,Unknown,24,Bat,Unknown,24,1.0,632,AM,2019-12-25,6.666666666666667,0.0,Quarter 3,-0.016612633432839422
+09/28/2016 01:55:00 PM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,228,others,Spayed Female,228,0.0,633,PM,2016-09-28,0.21691973969631237,0.8,Quarter 3,-0.9821495281272685
+10/31/2014 12:39:00 AM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,634,AM,2014-10-31,6.666666666666667,0.0,Quarter 3,-1.2846181809120227
+12/14/2019 11:36:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,635,AM,2019-12-14,0.21691973969631237,1.0,Quarter 3,0.826658427464912
+08/23/2019 11:07:00 AM,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,1,others,Neutered Male,1,0.0,636,AM,2019-08-23,0.21691973969631237,0.2,Quarter 2,0.14110859299488335
+09/15/2019 06:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,637,PM,2019-09-15,0.21691973969631237,0.54,Quarter 3,1.7892839359901798
+07/03/2016 02:48:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Pit Bull Mix,Spayed Female,1,0.0,638,PM,2016-07-03,1.5384615384615385,0.54,Quarter 2,1.0832126337890375
+09/28/2016 12:05:00 PM,Austin (TX),Public Assist,Aged,Dog,Neutered Male,204,others,Neutered Male,204,0.0,639,PM,2016-09-28,0.21691973969631237,0.5599999999999999,Quarter 3,0.7222330980402537
+05/23/2016 12:51:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,640,PM,2016-05-23,2.0,0.54,Quarter 2,-0.3358989195153256
+02/13/2019 02:59:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,60,others,Neutered Male,60,0.0,641,PM,2019-02-13,0.21691973969631237,0.6,Quarter 1,-0.8508704279064498
+08/30/2014 12:56:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,642,PM,2014-08-30,0.38461538461538464,0.54,Quarter 2,2.0456891614619384
+06/05/2016 04:10:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,3,0.0,643,PM,2016-06-05,0.38461538461538464,0.54,Quarter 2,0.6267841334126012
+09/20/2019 12:27:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,36,others,Neutered Male,36,0.0,644,PM,2019-09-20,0.21691973969631237,1.0,Quarter 3,-0.38117584180348196
+06/07/2017 03:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Neutered Male,2,0.0,645,PM,2017-06-07,2.0,0.54,Quarter 2,0.5332609639350012
+06/16/2016 11:03:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,72,Chihuahua Shorthair Mix,Spayed Female,72,0.0,646,AM,2016-06-16,1.694915254237288,1.0,Quarter 2,1.4204799233687553
+06/24/2015 02:43:00 PM,Pflugerville (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,647,PM,2015-06-24,0.38461538461538464,0.36000000000000004,Quarter 2,-2.0733329904603854
+09/08/2017 05:33:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,84,others,Neutered Male,84,0.0,648,PM,2017-09-08,0.21691973969631237,0.9,Quarter 3,-0.6213074307050344
+05/18/2016 05:10:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,German Shepherd Mix,Spayed Female,5,0.0,649,PM,2016-05-18,4.166666666666666,0.54,Quarter 2,0.3073885889997577
+11/30/2019 01:37:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Pit Bull,Neutered Male,24,0.0,650,PM,2019-11-30,14.285714285714285,0.54,Quarter 3,-0.025455095850646824
+08/22/2015 11:27:00 AM,Leander (TX),Owner Surrender,Normal,Cat,Intact Female,4,Domestic Shorthair Mix,Spayed Female,4,0.0,651,AM,2015-08-22,0.38461538461538464,0.6,Quarter 2,0.6865162035501997
+03/14/2016 04:05:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,652,PM,2016-03-14,6.666666666666667,0.0,Quarter 1,0.9576685199422784
+07/09/2018 12:20:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,48,others,Spayed Female,48,0.0,653,PM,2018-07-09,0.21691973969631237,0.54,Quarter 2,0.6596410491677577
+11/05/2013 08:30:00 AM,Austin (TX),Stray,Injured,Cat,Intact Male,6,Domestic Medium Hair Mix,Neutered Male,6,0.0,654,AM,2013-11-05,2.857142857142857,0.10800000000000001,Quarter 3,-0.25862294059038815
+06/11/2015 11:53:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Pit Bull Mix,Intact Male,24,0.0,655,AM,2015-06-11,1.5384615384615385,0.54,Quarter 2,-0.3075782694321143
+11/15/2016 08:53:00 AM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,656,AM,2016-11-15,0.21691973969631237,0.8,Quarter 3,-2.195483395108168
+01/04/2014 12:39:00 PM,Manor (TX),Stray,Normal,Dog,Intact Female,8,others,Intact Female,8,0.0,657,PM,2014-01-04,0.21691973969631237,0.54,Quarter 1,0.4582786030691414
+03/20/2014 12:59:00 PM,Austin (TX),Owner Surrender,Sick,Cat,Neutered Male,36,Domestic Shorthair Mix,Neutered Male,36,0.0,658,PM,2014-03-20,0.38461538461538464,0.2,Quarter 1,-0.14064561073993834
+05/11/2016 01:59:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,659,PM,2016-05-11,2.857142857142857,0.6,Quarter 2,-0.8312481959125825
+09/01/2017 02:47:00 PM,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Male,24,Labrador Retriever Mix,Intact Male,24,0.0,660,PM,2017-09-01,2.0,0.48,Quarter 3,-2.111388366724509
+12/02/2019 06:52:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,4,0.0,661,PM,2019-12-02,0.21691973969631237,0.54,Quarter 3,-0.3101676458355169
+06/09/2014 03:00:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,24,others,Unknown,24,1.0,662,PM,2014-06-09,0.21691973969631237,0.0,Quarter 2,1.2261230388103115
+06/13/2015 11:12:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,663,AM,2015-06-13,0.38461538461538464,0.54,Quarter 2,0.4156277659460645
+02/13/2018 04:52:00 PM,Austin (TX),Stray,Nursing,Dog,Intact Female,1,others,Spayed Female,1,0.0,664,PM,2018-02-13,0.21691973969631237,0.43200000000000005,Quarter 1,-0.24718379028540977
+09/11/2019 11:06:00 AM,Williamson (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,665,AM,2019-09-11,0.21691973969631237,0.54,Quarter 3,-1.021677120192968
+09/13/2017 12:43:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,6,Labrador Retriever Mix,Intact Male,6,0.0,666,PM,2017-09-13,2.0,0.48,Quarter 3,-0.981726261594713
+11/20/2018 04:34:00 PM,Manor (TX),Public Assist,Normal,Dog,Neutered Male,24,German Shepherd Mix,Neutered Male,24,0.0,667,PM,2018-11-20,4.166666666666666,0.8,Quarter 3,0.4301777440612612
+03/26/2019 11:57:00 AM,Travis (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,668,AM,2019-03-26,0.38461538461538464,0.54,Quarter 1,0.03257354804997049
+06/07/2019 08:52:00 AM,Austin (TX),Wildlife,Injured,Other,Unknown,24,others,Unknown,24,1.0,669,AM,2019-06-07,0.21691973969631237,0.0,Quarter 2,-0.7291297142277721
+11/05/2017 06:50:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,3,others,Neutered Male,3,0.0,670,PM,2017-11-05,0.21691973969631237,0.54,Quarter 3,-0.14716623684621877
+07/13/2016 06:03:00 PM,Travis (TX),Stray,Sick,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,5,0.0,671,PM,2016-07-13,0.38461538461538464,0.10800000000000001,Quarter 2,0.314792146641372
+09/18/2018 02:07:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,24,others,Unknown,24,1.0,672,PM,2018-09-18,0.21691973969631237,0.0,Quarter 3,0.47182462312407336
+05/05/2016 05:31:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,673,PM,2016-05-05,0.21691973969631237,0.0,Quarter 2,-1.8539175347904369
+05/28/2015 01:31:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,36,Domestic Shorthair Mix,Intact Male,36,0.0,674,PM,2015-05-28,0.38461538461538464,0.54,Quarter 2,0.6090803884175827
+10/30/2013 12:33:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,96,others,Spayed Female,96,1.0,675,PM,2013-10-30,0.21691973969631237,0.9,Quarter 3,-0.4610181561927731
+05/21/2015 11:04:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,3,0.0,676,AM,2015-05-21,0.38461538461538464,0.54,Quarter 2,0.26847356625543134
+03/02/2015 05:49:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,6,Pit Bull Mix,Spayed Female,7,0.0,677,PM,2015-03-02,1.5384615384615385,0.54,Quarter 1,-1.9970111554574603
+11/02/2017 06:28:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,2,others,Intact Female,3,0.0,678,PM,2017-11-02,0.21691973969631237,0.54,Quarter 3,-1.8064399783914338
+05/22/2015 01:44:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,679,PM,2015-05-22,0.38461538461538464,0.54,Quarter 2,0.024862915731367716
+08/03/2016 11:26:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Medium Hair Mix,Unknown,1,0.0,680,AM,2016-08-03,2.857142857142857,0.36000000000000004,Quarter 2,-3.088874610048311
+12/15/2013 01:44:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,24,Labrador Retriever Mix,Neutered Male,24,0.0,681,PM,2013-12-15,2.0,0.9,Quarter 3,-0.7308035153124238
+04/14/2017 12:00:00 PM,Manor (TX),Stray,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,682,PM,2017-04-14,0.21691973969631237,0.9,Quarter 1,0.600318724773772
+05/24/2017 03:10:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,683,PM,2017-05-24,0.38461538461538464,0.9,Quarter 2,1.749510956049364
+07/18/2014 05:25:00 PM,Pflugerville (TX),Stray,Normal,Dog,Intact Male,48,others,Intact Male,48,0.0,684,PM,2014-07-18,0.21691973969631237,0.54,Quarter 2,-1.4202135351663827
+05/03/2014 05:38:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Medium Hair Mix,Neutered Male,2,0.0,685,PM,2014-05-03,2.857142857142857,0.54,Quarter 2,0.825576234977059
+03/26/2014 02:35:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,96,Pit Bull Mix,Intact Male,96,1.0,686,PM,2014-03-26,1.5384615384615385,0.54,Quarter 1,0.6762834837057662
+10/15/2016 01:37:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,6,others,Neutered Male,6,0.0,687,PM,2016-10-15,0.21691973969631237,0.9,Quarter 3,0.2844025269742475
+07/29/2017 11:04:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Chihuahua Shorthair Mix,Intact Male,24,0.0,688,AM,2017-07-29,1.694915254237288,0.54,Quarter 2,0.5155659508569713
+04/12/2014 05:46:00 PM,Austin (TX),Stray,Sick,Cat,Intact Female,5,Domestic Shorthair Mix,Intact Female,6,0.0,689,PM,2014-04-12,0.38461538461538464,0.10800000000000001,Quarter 1,0.9913551471122433
+08/22/2016 03:16:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,690,PM,2016-08-22,0.38461538461538464,0.54,Quarter 2,1.420996949533354
+07/30/2015 10:14:00 AM,Austin (TX),Public Assist,Feral,Cat,Neutered Male,48,Domestic Shorthair Mix,Neutered Male,48,0.0,691,AM,2015-07-30,0.38461538461538464,0.24,Quarter 2,-0.5225485370834072
+10/06/2014 09:57:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,108,Domestic Shorthair Mix,Spayed Female,108,0.0,692,PM,2014-10-06,0.38461538461538464,0.9,Quarter 3,0.4290874621765373
+08/01/2015 01:55:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Bruss Griffon Mix,Neutered Male,1,0.0,693,PM,2015-08-01,50.0,0.54,Quarter 2,0.29410753858931765
+06/09/2014 01:02:00 PM,Travis (TX),Stray,Normal,Cat,Intact Male,36,others,Intact Male,36,0.0,694,PM,2014-06-09,0.21691973969631237,0.54,Quarter 2,0.6859958754280479
+03/26/2019 06:53:00 AM,Austin (TX),Public Assist,Normal,Other,Unknown,1,others,Unknown,1,1.0,695,AM,2019-03-26,0.21691973969631237,0.09600000000000002,Quarter 1,0.5672765257542712
+01/06/2015 12:37:00 PM,Austin (TX),Owner Surrender,Sick,Dog,Spayed Female,120,Chihuahua Shorthair Mix,Spayed Female,120,1.0,696,PM,2015-01-06,1.694915254237288,0.2,Quarter 1,-1.0191705199823353
+01/06/2018 11:01:00 AM,Austin (TX),Stray,Injured,Cat,Neutered Male,48,Domestic Medium Hair Mix,Neutered Male,48,0.0,697,AM,2018-01-06,2.857142857142857,0.18000000000000002,Quarter 1,1.2364398515958945
+09/29/2014 06:01:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,698,PM,2014-09-29,0.38461538461538464,0.54,Quarter 3,0.6162914529951276
+04/04/2019 06:38:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,0.0,699,PM,2019-04-04,0.38461538461538464,0.54,Quarter 1,-0.9720770644065314
+05/30/2018 03:17:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,108,Domestic Medium Hair Mix,Spayed Female,108,0.0,700,PM,2018-05-30,2.857142857142857,1.0,Quarter 2,-0.595134136275917
+09/29/2017 10:15:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,2,Chihuahua Shorthair Mix,Intact Female,2,0.0,701,AM,2017-09-29,1.694915254237288,0.54,Quarter 3,-0.7148709610233192
+08/19/2016 01:19:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,4,Domestic Shorthair Mix,Neutered Male,4,0.0,702,PM,2016-08-19,0.38461538461538464,0.54,Quarter 2,0.17232019732906306
+01/21/2017 03:30:00 PM,Austin (TX),Stray,Injured,Dog,Neutered Male,72,Labrador Retriever Mix,Neutered Male,72,0.0,703,PM,2017-01-21,2.0,0.18000000000000002,Quarter 1,1.455113910946741
+04/05/2014 06:23:00 AM,Austin (TX),Stray,Normal,Cat,Neutered Male,1,Domestic Shorthair Mix,Neutered Male,24,0.0,704,AM,2014-04-05,0.38461538461538464,0.9,Quarter 1,-0.4899818488378822
+10/12/2016 12:58:00 PM,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,705,PM,2016-10-12,0.21691973969631237,0.6,Quarter 3,-0.9704725943583227
+04/03/2019 05:18:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,706,PM,2019-04-03,0.21691973969631237,0.54,Quarter 1,0.7685092059876725
+04/20/2019 02:10:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,707,PM,2019-04-20,0.38461538461538464,0.36000000000000004,Quarter 1,-0.11334241642582757
+08/31/2015 01:16:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,96,others,Neutered Male,96,0.0,708,PM,2015-08-31,0.21691973969631237,0.9,Quarter 2,-0.005851850568310886
+11/04/2015 11:44:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,709,AM,2015-11-04,0.21691973969631237,0.54,Quarter 3,0.8563916195176879
+01/14/2017 11:35:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,710,AM,2017-01-14,2.0,0.54,Quarter 1,-1.8002687813445255
+06/12/2019 10:44:00 AM,Travis (TX),Stray,Sick,Cat,Intact Female,1,others,Intact Female,1,0.0,711,AM,2019-06-12,0.21691973969631237,0.10800000000000001,Quarter 2,0.6703335552987247
+06/13/2015 12:24:00 PM,Travis (TX),Stray,Nursing,Dog,Intact Male,8,German Shepherd Mix,Intact Male,9,0.0,712,PM,2015-06-13,4.166666666666666,0.43200000000000005,Quarter 2,0.5270398982800154
+12/13/2015 04:02:00 PM,Austin (TX),Stray,Injured,Cat,Intact Male,4,others,Neutered Male,4,0.0,713,PM,2015-12-13,0.21691973969631237,0.10800000000000001,Quarter 3,0.5796712552326594
+11/27/2018 02:56:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,72,others,Neutered Male,72,0.0,714,PM,2018-11-27,0.21691973969631237,1.0,Quarter 3,-0.4315129162831842
+06/09/2015 11:34:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,715,AM,2015-06-09,0.21691973969631237,0.54,Quarter 2,-0.027041583560405376
+09/20/2019 06:48:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,others,Unknown,1,0.0,716,PM,2019-09-20,0.21691973969631237,0.36000000000000004,Quarter 3,1.069366920146665
+01/05/2018 11:32:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Intact Female,1,0.0,717,AM,2018-01-05,2.857142857142857,0.54,Quarter 1,-0.4876637326503816
+07/22/2014 06:08:00 PM,Travis (TX),Stray,Nursing,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,718,PM,2014-07-22,0.38461538461538464,0.43200000000000005,Quarter 2,-0.3741559204345649
+09/23/2016 12:00:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,10,Domestic Shorthair Mix,Neutered Male,1,0.0,719,PM,2016-09-23,0.38461538461538464,0.6,Quarter 3,-1.2137295484463284
+11/02/2013 02:13:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,720,PM,2013-11-02,0.21691973969631237,0.54,Quarter 3,1.4903953314411291
+12/20/2013 01:17:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Spayed Female,2,0.0,721,PM,2013-12-20,1.694915254237288,0.54,Quarter 3,1.1013285784697378
+08/23/2016 02:35:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,2,0.0,722,PM,2016-08-23,0.38461538461538464,0.54,Quarter 2,0.1713441980988564
+04/27/2015 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,723,PM,2015-04-27,0.21691973969631237,0.6,Quarter 1,1.160851488863502
+02/13/2019 01:10:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,2,others,Spayed Female,2,0.0,724,PM,2019-02-13,0.21691973969631237,0.54,Quarter 1,-0.8704913386117368
+12/28/2017 11:41:00 AM,Austin (TX),Stray,Normal,Cat,Spayed Female,4,Domestic Shorthair Mix,Spayed Female,4,0.0,725,AM,2017-12-28,0.38461538461538464,0.9,Quarter 3,0.3781996923826687
+12/06/2013 11:50:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,726,AM,2013-12-06,0.21691973969631237,0.54,Quarter 3,-0.6922198154478227
+05/22/2018 05:47:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,9,others,Spayed Female,10,0.0,727,PM,2018-05-22,0.21691973969631237,0.54,Quarter 2,0.5616719163126505
+03/15/2017 03:02:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,4,others,Intact Male,4,0.0,728,PM,2017-03-15,0.21691973969631237,0.48,Quarter 1,1.3879511216854143
+12/13/2014 11:30:00 AM,Pflugerville (TX),Owner Surrender,Normal,Dog,Spayed Female,72,others,Spayed Female,72,0.0,729,AM,2014-12-13,0.21691973969631237,1.0,Quarter 3,1.9251714929903123
+03/18/2018 12:47:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,60,Domestic Shorthair Mix,Spayed Female,60,0.0,730,PM,2018-03-18,0.38461538461538464,1.0,Quarter 1,1.0575151751423906
+07/03/2018 09:42:00 AM,Del Valle (TX),Stray,Nursing,Dog,Intact Female,0,others,Spayed Female,2,0.0,731,AM,2018-07-03,0.21691973969631237,0.43200000000000005,Quarter 2,-0.6407678109929487
+05/12/2016 12:43:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,1,0.0,732,PM,2016-05-12,0.21691973969631237,0.54,Quarter 2,0.6074483787148115
+03/27/2016 02:54:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,733,PM,2016-03-27,0.38461538461538464,0.54,Quarter 1,-0.5047171272903261
+06/01/2019 12:11:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Neutered Male,1,0.0,734,PM,2019-06-01,2.857142857142857,0.6,Quarter 2,0.10956837236933316
+05/26/2014 12:25:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,24,others,Spayed Female,24,0.0,735,AM,2014-05-26,0.21691973969631237,0.9,Quarter 2,-0.5037928996068126
+11/22/2015 01:50:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,6,German Shepherd Mix,Spayed Female,6,0.0,736,PM,2015-11-22,4.166666666666666,0.9,Quarter 3,-0.6219898684888701
+10/18/2016 11:52:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,737,AM,2016-10-18,0.38461538461538464,0.36000000000000004,Quarter 3,-2.1327449057002665
+02/05/2017 11:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,96,others,Intact Female,96,0.0,738,PM,2017-02-05,0.21691973969631237,0.54,Quarter 1,0.5983078263686673
+06/13/2015 11:30:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,739,AM,2015-06-13,0.38461538461538464,0.54,Quarter 2,0.5393493270568749
+07/17/2016 09:28:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Spayed Female,2,0.0,740,AM,2016-07-17,0.38461538461538464,0.6,Quarter 2,-0.7157418020999706
+11/10/2018 11:01:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,741,AM,2018-11-10,0.21691973969631237,1.0,Quarter 3,0.7050088969407079
+08/24/2015 11:30:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,84,others,Neutered Male,84,0.0,742,AM,2015-08-24,0.21691973969631237,0.9,Quarter 2,0.0045096265287218685
+05/19/2015 12:31:00 PM,Manor (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,743,PM,2015-05-19,0.21691973969631237,0.54,Quarter 2,-0.2325651230317574
+10/13/2017 11:15:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,24,Chihuahua Shorthair Mix,Intact Female,24,0.0,744,AM,2017-10-13,1.694915254237288,0.54,Quarter 3,-1.1170846507357381
+10/14/2019 04:29:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,Pit Bull,Spayed Female,24,0.0,745,PM,2019-10-14,14.285714285714285,1.0,Quarter 3,-1.607547550870636
+03/31/2016 06:02:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,36,Domestic Shorthair Mix,Spayed Female,36,0.0,746,PM,2016-03-31,0.38461538461538464,1.0,Quarter 1,-0.7870886938007132
+05/13/2017 06:02:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,747,PM,2017-05-13,0.38461538461538464,0.54,Quarter 2,0.24384875990389776
+02/23/2017 04:42:00 PM,Austin (TX),Stray,Normal,Other,Unknown,24,others,Unknown,24,1.0,748,PM,2017-02-23,0.21691973969631237,0.10800000000000001,Quarter 1,0.2679752721524937
+04/20/2018 12:04:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,749,PM,2018-04-20,0.38461538461538464,0.54,Quarter 1,-0.28949327864572383
+04/03/2015 04:09:00 PM,Travis (TX),Stray,Injured,Cat,Unknown,24,Domestic Shorthair Mix,Unknown,24,1.0,750,PM,2015-04-03,0.38461538461538464,0.07200000000000001,Quarter 1,1.0230248789341094
+01/04/2014 08:38:00 AM,Austin (TX),Stray,Nursing,Dog,Intact Female,0,Pit Bull Mix,Intact Female,0,0.0,751,AM,2014-01-04,1.5384615384615385,0.43200000000000005,Quarter 1,0.6110894493614237
+10/08/2013 10:48:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,36,others,Neutered Male,36,1.0,752,AM,2013-10-08,0.21691973969631237,0.9,Quarter 3,0.346042009026332
+03/30/2016 06:55:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,Bat,Unknown,1,1.0,753,PM,2016-03-30,6.666666666666667,0.0,Quarter 1,1.054844941027747
+02/10/2015 12:02:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,144,Miniature Poodle Mix,Intact Male,144,0.0,754,PM,2015-02-10,7.6923076923076925,0.54,Quarter 1,1.6340609341246957
+07/01/2016 09:31:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,5,German Shepherd Mix,Intact Male,5,0.0,755,AM,2016-07-01,4.166666666666666,0.54,Quarter 2,-0.23215437069397857
+07/28/2019 08:10:00 AM,Austin (TX),Stray,Sick,Cat,Intact Male,1,others,Intact Male,1,0.0,756,AM,2019-07-28,0.21691973969631237,0.10800000000000001,Quarter 2,-0.5920800224122634
+12/23/2018 02:30:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,1,others,Unknown,1,1.0,757,PM,2018-12-23,0.21691973969631237,0.0,Quarter 3,-1.3917016735892433
+06/16/2017 11:56:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Neutered Male,2,0.0,758,AM,2017-06-16,0.21691973969631237,0.54,Quarter 2,-0.07772446375854129
+11/06/2017 01:37:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,48,others,Neutered Male,48,0.0,759,PM,2017-11-06,0.21691973969631237,0.18,Quarter 3,-0.7322655586850675
+01/25/2020 12:28:00 PM,Austin (TX),Stray,Normal,Other,Neutered Male,96,others,Neutered Male,96,0.0,760,PM,2020-01-25,0.21691973969631237,0.27,Quarter 1,0.7957203935001205
+02/18/2019 12:54:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,0.0,761,PM,2019-02-18,0.21691973969631237,0.54,Quarter 1,1.3132471456425254
+07/29/2014 03:01:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,24,others,Unknown,24,0.0,762,PM,2014-07-29,0.21691973969631237,0.36000000000000004,Quarter 2,-0.12786125621487823
+02/19/2018 05:31:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Intact Female,2,0.0,763,PM,2018-02-19,0.38461538461538464,0.6,Quarter 1,-0.08479575224338062
+08/04/2014 03:42:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,24,others,Spayed Female,24,0.0,764,PM,2014-08-04,0.21691973969631237,0.9,Quarter 2,-1.340992842146821
+06/18/2016 05:19:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,48,Miniature Poodle Mix,Spayed Female,48,0.0,765,PM,2016-06-18,7.6923076923076925,0.54,Quarter 2,0.2697842725056564
+04/20/2015 01:45:00 PM,Travis (TX),Stray,Sick,Dog,Intact Male,2,Labrador Retriever Mix,Neutered Male,2,0.0,766,PM,2015-04-20,2.0,0.10800000000000001,Quarter 1,-0.24790425651223452
+10/30/2016 11:01:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,767,AM,2016-10-30,2.857142857142857,0.54,Quarter 3,0.29129887709807195
+01/25/2020 11:41:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,others,Unknown,1,0.0,768,AM,2020-01-25,0.21691973969631237,0.36000000000000004,Quarter 1,1.1764708875831367
+04/04/2014 12:32:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,769,PM,2014-04-04,0.21691973969631237,0.54,Quarter 1,-0.2116068108599235
+04/07/2016 06:44:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,180,Domestic Shorthair Mix,Neutered Male,180,0.0,770,PM,2016-04-07,0.38461538461538464,1.0,Quarter 1,0.26239915642584266
+02/13/2016 02:59:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,60,Miniature Poodle Mix,Spayed Female,60,0.0,771,PM,2016-02-13,7.6923076923076925,0.9,Quarter 1,-0.2981203776192478
+04/05/2017 10:05:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,72,Chihuahua Shorthair Mix,Neutered Male,72,0.0,772,AM,2017-04-05,1.694915254237288,1.0,Quarter 1,-1.8106862498274645
+08/05/2014 11:53:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,36,others,Intact Female,36,0.0,773,AM,2014-08-05,0.21691973969631237,0.18,Quarter 2,-1.624547117520141
+04/11/2015 11:25:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1,German Shepherd Mix,Spayed Female,1,0.0,774,AM,2015-04-11,4.166666666666666,1.0,Quarter 1,1.242690247143614
+02/11/2018 03:33:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,10,others,Spayed Female,10,0.0,775,PM,2018-02-11,0.21691973969631237,0.54,Quarter 1,2.641054399165407
+11/04/2016 11:42:00 AM,Travis (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Intact Male,1,0.0,776,AM,2016-11-04,2.0,0.54,Quarter 3,-0.8236345660941385
+06/15/2016 04:33:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,108,Domestic Shorthair Mix,Spayed Female,108,0.0,777,PM,2016-06-15,0.38461538461538464,1.0,Quarter 2,-0.17876956740860023
+01/28/2018 02:13:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,132,others,Neutered Male,132,0.0,778,PM,2018-01-28,0.21691973969631237,0.9,Quarter 1,0.19367415213295613
+09/29/2015 11:57:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,96,others,Neutered Male,96,0.0,779,AM,2015-09-29,0.21691973969631237,0.54,Quarter 3,1.0456362751051826
+03/21/2018 11:42:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,0,Pit Bull Mix,Intact Female,1,0.0,780,AM,2018-03-21,1.5384615384615385,0.54,Quarter 1,0.8515006148608028
+08/01/2016 11:42:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,781,AM,2016-08-01,0.38461538461538464,0.54,Quarter 2,-0.07026312073537884
+11/20/2019 10:19:00 AM,Manor (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,2,0.0,782,AM,2019-11-20,0.21691973969631237,0.54,Quarter 3,0.8754026467712667
+09/15/2014 01:52:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Intact Male,24,1.0,783,PM,2014-09-15,0.21691973969631237,0.54,Quarter 3,-0.195720707141699
+07/07/2017 04:01:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,1,others,Neutered Male,1,0.0,784,PM,2017-07-07,0.21691973969631237,0.162,Quarter 2,0.3628849287030527
+06/27/2015 03:17:00 PM,Manor (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,785,PM,2015-06-27,0.21691973969631237,0.54,Quarter 2,-1.3944361471614366
+02/09/2014 02:01:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,24,Pit Bull Mix,Neutered Male,24,0.0,786,PM,2014-02-09,1.5384615384615385,0.10800000000000001,Quarter 1,-0.715322141150299
+06/10/2019 03:57:00 PM,Travis (TX),Owner Surrender,Normal,Cat,Intact Male,1,others,Intact Male,2,0.0,787,PM,2019-06-10,0.21691973969631237,0.6,Quarter 2,-0.5325278960911368
+05/21/2016 01:23:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,788,PM,2016-05-21,0.21691973969631237,0.9,Quarter 2,-0.4720225190146429
+07/25/2015 11:04:00 AM,Travis (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Neutered Male,2,0.0,789,AM,2015-07-25,0.38461538461538464,0.54,Quarter 2,0.7500567378131213
+05/26/2019 12:36:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,790,PM,2019-05-26,0.38461538461538464,0.54,Quarter 2,-0.765805020536751
+01/18/2018 12:03:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,Miniature Poodle Mix,Intact Male,24,0.0,791,PM,2018-01-18,7.6923076923076925,0.54,Quarter 1,0.6002708256162119
+03/09/2018 01:32:00 PM,Travis (TX),Stray,Nursing,Dog,Unknown,1,Chihuahua Shorthair Mix,Unknown,1,0.0,792,PM,2018-03-09,1.694915254237288,0.28800000000000003,Quarter 1,0.00610116323463072
+09/03/2017 12:25:00 PM,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,6,Labrador Retriever Mix,Intact Female,7,0.0,793,PM,2017-09-03,2.0,0.48,Quarter 3,-0.02160190469028897
+12/29/2019 04:28:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,794,PM,2019-12-29,0.21691973969631237,0.48,Quarter 3,-0.028617414330759698
+09/21/2014 01:45:00 PM,Austin (TX),Stray,Sick,Dog,Intact Female,24,Chihuahua Shorthair Mix,Spayed Female,24,0.0,795,PM,2014-09-21,1.694915254237288,0.10800000000000001,Quarter 3,-0.7377546682116441
+09/14/2019 11:13:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,5,Domestic Shorthair Mix,Intact Male,5,1.0,796,AM,2019-09-14,0.38461538461538464,0.6,Quarter 3,-0.6808120168246916
+02/06/2019 01:12:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,6,Domestic Shorthair Mix,Unknown,6,0.0,797,PM,2019-02-06,0.38461538461538464,0.36000000000000004,Quarter 1,-0.7840566236179359
+09/15/2016 04:39:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,798,PM,2016-09-15,0.21691973969631237,0.6,Quarter 3,-0.0402006244198572
+12/28/2013 10:34:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,Pit Bull Mix,Spayed Female,24,0.0,799,AM,2013-12-28,1.5384615384615385,1.0,Quarter 3,-0.27568589623580875
+06/22/2015 12:56:00 PM,Manor (TX),Owner Surrender,Normal,Cat,Intact Female,3,Domestic Shorthair Mix,Spayed Female,3,0.0,800,PM,2015-06-22,0.38461538461538464,0.6,Quarter 2,-0.5254959857330787
+11/18/2013 11:26:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,2,0.0,801,AM,2013-11-18,0.21691973969631237,0.54,Quarter 3,-0.9086344647869709
+08/21/2019 04:33:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,802,PM,2019-08-21,0.21691973969631237,0.54,Quarter 2,2.0765676336476147
+01/18/2016 12:38:00 PM,Austin (TX),Stray,Aged,Dog,Intact Male,60,Chihuahua Shorthair Mix,Intact Male,60,0.0,803,PM,2016-01-18,1.694915254237288,0.378,Quarter 1,-0.17842293341457025
+10/11/2013 01:02:00 PM,Del Valle (TX),Stray,Other,Dog,Intact Male,120,others,Intact Male,120,1.0,804,PM,2013-10-11,0.21691973969631237,0.21600000000000003,Quarter 3,-0.6398510366789139
+04/21/2016 03:31:00 PM,Travis (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,805,PM,2016-04-21,0.38461538461538464,0.54,Quarter 1,-0.6818013812067533
+03/02/2018 03:41:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,24,others,Intact Female,24,0.0,806,PM,2018-03-02,0.21691973969631237,0.6,Quarter 1,-1.2492972051669895
+12/06/2013 02:30:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,2,0.0,807,PM,2013-12-06,0.38461538461538464,0.54,Quarter 3,-0.16229995245353943
+04/06/2018 02:34:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,808,PM,2018-04-06,0.38461538461538464,0.43200000000000005,Quarter 1,0.07127776686109467
+08/06/2019 04:50:00 PM,Travis (TX),Stray,Normal,Dog,Neutered Male,120,others,Neutered Male,120,0.0,809,PM,2019-08-06,0.21691973969631237,0.9,Quarter 2,-0.37115161426758464
+05/11/2017 12:14:00 PM,Travis (TX),Owner Surrender,Injured,Dog,Intact Male,24,others,Neutered Male,24,0.0,810,PM,2017-05-11,0.21691973969631237,0.12,Quarter 2,-1.4921784665142568
+08/24/2017 11:06:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,811,AM,2017-08-24,0.38461538461538464,1.0,Quarter 2,-1.173130126225781
+10/23/2016 12:59:00 PM,Austin (TX),Stray,Injured,Cat,Intact Female,1,others,Spayed Female,1,0.0,812,PM,2016-10-23,0.21691973969631237,0.10800000000000001,Quarter 3,1.501769519167301
+09/21/2019 12:39:00 PM,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,813,PM,2019-09-21,0.21691973969631237,1.0,Quarter 3,1.2317099338187363
+10/13/2016 01:49:00 PM,Lago Vista (TX),Stray,Normal,Dog,Intact Male,1,Labrador Retriever Mix,Neutered Male,1,0.0,814,PM,2016-10-13,2.0,0.54,Quarter 3,-0.1725076725044173
+10/25/2014 10:29:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,48,others,Spayed Female,48,0.0,815,AM,2014-10-25,0.21691973969631237,0.9,Quarter 3,0.3688646233666325
+09/06/2015 12:50:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,816,PM,2015-09-06,0.38461538461538464,0.54,Quarter 3,0.18883115309496096
+07/28/2016 11:00:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,3,Domestic Shorthair Mix,Spayed Female,3,0.0,817,AM,2016-07-28,0.38461538461538464,0.54,Quarter 2,-0.4217722860266445
+11/22/2016 03:55:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,11,Pit Bull Mix,Neutered Male,11,0.0,818,PM,2016-11-22,1.5384615384615385,1.0,Quarter 3,0.7071950835435128
+08/07/2017 02:18:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,132,others,Spayed Female,132,0.0,819,PM,2017-08-07,0.21691973969631237,0.9,Quarter 2,0.00334625646166802
+06/11/2016 11:10:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,820,AM,2016-06-11,0.21691973969631237,0.54,Quarter 2,-0.1705223524771164
+05/06/2015 12:05:00 PM,Bee Cave (TX),Stray,Normal,Dog,Intact Male,48,others,Neutered Male,48,0.0,821,PM,2015-05-06,0.21691973969631237,0.54,Quarter 2,-2.2046191294070665
+09/10/2015 10:52:00 AM,Austin (TX),Stray,Normal,Cat,Spayed Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,822,AM,2015-09-10,0.38461538461538464,0.9,Quarter 3,0.056343290465077765
+01/02/2018 04:29:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Intact Female,1,0.0,823,PM,2018-01-02,0.21691973969631237,0.54,Quarter 1,-0.7206694740167245
+07/03/2014 03:35:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,824,PM,2014-07-03,0.38461538461538464,0.54,Quarter 2,-0.5516992199482487
+01/25/2014 11:31:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,72,Pit Bull Mix,Spayed Female,72,1.0,825,AM,2014-01-25,1.5384615384615385,1.0,Quarter 1,0.9213478603832613
+05/11/2019 11:43:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,4,others,Intact Female,5,0.0,826,AM,2019-05-11,0.21691973969631237,0.6,Quarter 2,-0.9692261633020562
+01/09/2019 01:06:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,24,0.0,827,PM,2019-01-09,0.38461538461538464,0.54,Quarter 1,1.2527983834028225
+05/21/2016 09:14:00 AM,Travis (TX),Stray,Nursing,Dog,Intact Female,24,Pit Bull,Spayed Female,24,0.0,828,AM,2016-05-21,14.285714285714285,0.43200000000000005,Quarter 2,0.19856418823472544
+01/18/2019 01:05:00 PM,Austin (TX),Owner Surrender,Sick,Cat,Spayed Female,7,Domestic Shorthair Mix,Spayed Female,7,0.0,829,PM,2019-01-18,0.38461538461538464,0.2,Quarter 1,-2.4302268689018467
+08/02/2017 02:16:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,60,Chihuahua Shorthair Mix,Neutered Male,60,0.0,830,PM,2017-08-02,1.694915254237288,0.9,Quarter 2,-0.09345162326497287
+12/11/2016 11:57:00 AM,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,1,Pit Bull Mix,Neutered Male,1,0.0,831,AM,2016-12-11,1.5384615384615385,0.2,Quarter 3,0.5998644363103672
+07/06/2019 02:11:00 PM,Austin (TX),Public Assist,Nursing,Dog,Intact Female,1,others,Intact Female,1,0.0,832,PM,2019-07-06,0.21691973969631237,0.384,Quarter 2,0.592448407018778
+08/13/2016 11:42:00 AM,Austin (TX),Public Assist,Sick,Cat,Intact Male,1,others,Intact Male,1,0.0,833,AM,2016-08-13,0.21691973969631237,0.096,Quarter 2,0.5934099090737355
+08/24/2017 05:34:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,48,Pit Bull Mix,Spayed Female,48,0.0,834,PM,2017-08-24,1.5384615384615385,1.0,Quarter 2,0.9934870800031841
+09/10/2015 11:08:00 AM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,835,AM,2015-09-10,0.38461538461538464,0.36000000000000004,Quarter 3,-1.0652385871158911
+05/11/2019 12:59:00 PM,Austin (TX),Stray,Injured,Cat,Intact Female,2,others,Spayed Female,6,0.0,836,PM,2019-05-11,0.21691973969631237,0.10800000000000001,Quarter 2,1.8702967815165785
+12/09/2019 10:35:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,837,AM,2019-12-09,0.21691973969631237,0.54,Quarter 3,1.2614197112776404
+04/25/2017 09:04:00 AM,Travis (TX),Owner Surrender,Normal,Cat,Neutered Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,838,AM,2017-04-25,0.38461538461538464,1.0,Quarter 1,-0.5791604869210921
+07/10/2018 01:50:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,2,others,Spayed Female,2,0.0,839,PM,2018-07-10,0.21691973969631237,0.6,Quarter 2,0.00034166290026511865
+07/15/2014 03:38:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Neutered Male,1,0.0,840,PM,2014-07-15,2.857142857142857,0.6,Quarter 2,0.5410046859561882
+05/01/2019 11:44:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Neutered Male,2,0.0,841,AM,2019-05-01,1.694915254237288,0.6,Quarter 2,-0.8200275079320695
+10/25/2017 04:22:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,842,PM,2017-10-25,0.38461538461538464,0.54,Quarter 3,1.7697891764690916
+04/27/2016 01:03:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,108,others,Neutered Male,108,0.0,843,PM,2016-04-27,0.21691973969631237,0.9,Quarter 1,0.5556145476955917
+02/19/2014 11:07:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,844,AM,2014-02-19,0.21691973969631237,1.0,Quarter 1,-0.45941334334776446
+11/08/2013 06:18:00 PM,Pflugerville (TX),Stray,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,845,PM,2013-11-08,0.21691973969631237,0.9,Quarter 3,-0.5241084571359418
+03/26/2016 11:33:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,60,German Shepherd Mix,Neutered Male,60,0.0,846,AM,2016-03-26,4.166666666666666,1.0,Quarter 1,-0.028213243928759235
+01/19/2020 02:33:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,72,others,Neutered Male,72,0.0,847,PM,2020-01-19,0.21691973969631237,0.9,Quarter 1,0.04921010778553604
+01/15/2017 11:18:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Labrador Retriever Mix,Intact Female,1,0.0,848,AM,2017-01-15,2.0,0.54,Quarter 1,-0.9370234803750465
+04/28/2016 11:58:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,0,Domestic Shorthair Mix,Intact Male,0,0.0,849,AM,2016-04-28,0.38461538461538464,0.54,Quarter 1,-0.15494695967725222
+12/24/2017 12:33:00 PM,Austin (TX),Public Assist,Normal,Dog,Neutered Male,60,Chihuahua Shorthair Mix,Neutered Male,72,0.0,850,PM,2017-12-24,1.694915254237288,0.8,Quarter 3,0.4688026930274769
+07/16/2017 04:01:00 PM,Austin (TX),Stray,Normal,Cat,Spayed Female,48,Domestic Shorthair Mix,Spayed Female,48,0.0,851,PM,2017-07-16,0.38461538461538464,0.9,Quarter 2,0.050593660851362146
+02/10/2014 05:30:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,852,PM,2014-02-10,0.38461538461538464,0.54,Quarter 1,0.11564983488172424
+07/22/2015 05:41:00 PM,Pflugerville (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,853,PM,2015-07-22,0.21691973969631237,1.0,Quarter 2,-0.28292822271140267
+04/19/2016 11:07:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,7,Labrador Retriever Mix,Spayed Female,7,0.0,854,AM,2016-04-19,2.0,1.0,Quarter 1,-0.954273689738424
+06/13/2018 03:22:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,11,Domestic Shorthair Mix,Intact Female,11,0.0,855,PM,2018-06-13,0.38461538461538464,0.54,Quarter 2,1.188407652551383
+05/18/2017 11:55:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,856,AM,2017-05-18,0.21691973969631237,0.54,Quarter 2,0.9719371171898566
+04/08/2019 01:02:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,168,others,Spayed Female,168,0.0,857,PM,2019-04-08,0.21691973969631237,0.9,Quarter 1,1.4343642809302695
+07/06/2015 09:42:00 AM,Manor (TX),Public Assist,Sick,Dog,Neutered Male,96,others,Neutered Male,96,0.0,858,AM,2015-07-06,0.21691973969631237,0.16000000000000003,Quarter 2,0.8691028687858751
+10/09/2018 11:01:00 AM,Austin (TX),Stray,Normal,Cat,Neutered Male,7,Domestic Shorthair Mix,Neutered Male,8,0.0,859,AM,2018-10-09,0.38461538461538464,0.9,Quarter 3,0.2178451174990471
+02/21/2019 02:39:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,1,0.0,860,PM,2019-02-21,0.21691973969631237,0.54,Quarter 1,0.2595917178695975
+03/20/2019 11:24:00 AM,Austin (TX),Stray,Nursing,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,861,AM,2019-03-20,0.38461538461538464,0.28800000000000003,Quarter 1,0.16650467023782986
+06/29/2017 11:39:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,6,Pit Bull Mix,Intact Female,7,0.0,862,AM,2017-06-29,1.5384615384615385,0.6,Quarter 2,1.0275042237769754
+05/26/2017 02:27:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,24,0.0,863,PM,2017-05-26,0.21691973969631237,0.54,Quarter 2,-0.4795326041298707
+06/01/2014 03:01:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,2,0.0,864,PM,2014-06-01,0.38461538461538464,0.54,Quarter 2,-0.5279007109435839
+11/30/2017 06:49:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,865,PM,2017-11-30,0.38461538461538464,0.54,Quarter 3,0.2212670995315157
+10/14/2013 12:40:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,1,Chihuahua Shorthair Mix,Intact Female,1,1.0,866,PM,2013-10-14,1.694915254237288,0.54,Quarter 3,-0.5378723493508147
+08/07/2015 02:01:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,867,PM,2015-08-07,0.38461538461538464,0.54,Quarter 2,-1.4300442391786445
+05/31/2016 03:13:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,3,0.0,868,PM,2016-05-31,0.38461538461538464,0.54,Quarter 2,-0.17437778929486916
+01/05/2016 12:59:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,96,German Shepherd Mix,Neutered Male,96,0.0,869,PM,2016-01-05,4.166666666666666,0.54,Quarter 1,1.3803102288239686
+07/04/2014 04:21:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,0,others,Spayed Female,3,0.0,870,PM,2014-07-04,0.21691973969631237,0.54,Quarter 2,1.7619918808487418
+03/17/2014 05:05:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,0,Domestic Shorthair Mix,Intact Male,2,0.0,871,PM,2014-03-17,0.38461538461538464,0.54,Quarter 1,1.337017902544986
+06/15/2014 01:20:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,872,PM,2014-06-15,2.857142857142857,0.54,Quarter 2,-0.789082073799457
+02/02/2017 03:01:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,7,others,Spayed Female,8,0.0,873,PM,2017-02-02,0.21691973969631237,1.0,Quarter 1,0.15096932692072365
+06/01/2015 04:31:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,1.0,874,PM,2015-06-01,0.38461538461538464,0.54,Quarter 2,-0.3409471570134584
+04/07/2018 02:06:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,144,others,Spayed Female,144,0.0,875,PM,2018-04-07,0.21691973969631237,1.0,Quarter 1,1.6073570613530541
+03/22/2015 01:34:00 PM,Austin (TX),Wildlife,Injured,Other,Intact Female,1,others,Intact Female,1,1.0,876,PM,2015-03-22,0.21691973969631237,0.0,Quarter 1,-1.4274926906726566
+11/29/2014 04:12:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,1,others,Unknown,1,1.0,877,PM,2014-11-29,0.21691973969631237,0.0,Quarter 3,1.657430855869777
+04/23/2016 04:48:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,0,Domestic Shorthair Mix,Unknown,0,0.0,878,PM,2016-04-23,0.38461538461538464,0.36000000000000004,Quarter 1,0.5417570690402661
+09/18/2017 09:36:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,36,Chihuahua Shorthair Mix,Neutered Male,36,0.0,879,AM,2017-09-18,1.694915254237288,0.9,Quarter 3,0.15094520324063887
+03/28/2019 04:21:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,24,Pit Bull Mix,Neutered Male,24,0.0,880,PM,2019-03-28,1.5384615384615385,0.48,Quarter 1,0.2568225933522379
+11/25/2018 11:26:00 AM,Austin (TX),Stray,Normal,Dog,Intact Male,4,others,Intact Male,5,0.0,881,AM,2018-11-25,0.21691973969631237,0.54,Quarter 3,0.21705594585131266
+10/30/2015 03:38:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,2,others,Neutered Male,2,0.0,882,PM,2015-10-30,0.21691973969631237,1.0,Quarter 3,1.5763446636504528
+05/11/2018 08:28:00 AM,Austin (TX),Stray,Other,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,883,AM,2018-05-11,0.38461538461538464,0.14400000000000002,Quarter 2,0.2369676701398571
+01/16/2017 06:00:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Intact Female,2,0.0,884,PM,2017-01-16,0.38461538461538464,0.6,Quarter 1,-0.26373884183278146
+10/13/2019 04:54:00 PM,Austin (TX),Stray,Injured,Cat,Intact Female,1,others,Intact Female,2,0.0,885,PM,2019-10-13,0.21691973969631237,0.10800000000000001,Quarter 3,-0.3421173356557681
+09/19/2014 05:04:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,3,others,Spayed Female,3,0.0,886,PM,2014-09-19,0.21691973969631237,0.54,Quarter 3,-0.874617434473423
+06/15/2015 04:54:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,2,0.0,887,PM,2015-06-15,0.21691973969631237,0.54,Quarter 2,-0.751436710847335
+02/11/2014 11:18:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,156,others,Spayed Female,168,0.0,888,AM,2014-02-11,0.21691973969631237,1.0,Quarter 1,-1.2234479947182992
+04/20/2019 12:18:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,36,Pit Bull Mix,Neutered Male,36,0.0,889,PM,2019-04-20,1.5384615384615385,0.9,Quarter 1,0.8872676149367973
+08/03/2014 11:02:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,5,others,Unknown,5,1.0,890,PM,2014-08-03,0.21691973969631237,0.0,Quarter 2,-0.8008306264347795
+09/03/2019 07:06:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,others,Spayed Female,1,0.0,891,PM,2019-09-03,0.21691973969631237,0.54,Quarter 3,0.02375064171501433
+04/27/2014 03:00:00 PM,Lago Vista (TX),Stray,Nursing,Dog,Intact Female,1,others,Intact Female,1,0.0,892,PM,2014-04-27,0.21691973969631237,0.43200000000000005,Quarter 1,0.27287719105703356
+08/26/2015 03:31:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,2,Domestic Shorthair Mix,Intact Female,2,0.0,893,PM,2015-08-26,0.38461538461538464,0.54,Quarter 2,1.841623234697376
+07/09/2016 12:11:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,1,Labrador Retriever Mix,Spayed Female,1,0.0,894,PM,2016-07-09,2.0,0.54,Quarter 2,-0.24951848823162917
+10/20/2016 11:51:00 AM,Travis (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,2,0.0,895,AM,2016-10-20,0.38461538461538464,0.54,Quarter 3,-0.036097653802776304
+05/30/2019 03:42:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Neutered Male,2,0.0,896,PM,2019-05-30,0.21691973969631237,0.54,Quarter 2,-0.8219111393891627
+06/08/2018 10:47:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Spayed Female,1,0.0,897,AM,2018-06-08,0.21691973969631237,0.54,Quarter 2,-0.8579472888771053
+02/16/2015 01:44:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,36,others,Spayed Female,36,0.0,898,PM,2015-02-16,0.21691973969631237,0.54,Quarter 1,-0.6113560368425002
+10/23/2014 06:59:00 PM,Austin (TX),Stray,Nursing,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,899,PM,2014-10-23,0.38461538461538464,0.43200000000000005,Quarter 3,-0.13195557347442546
+09/08/2014 01:23:00 PM,Leander (TX),Owner Surrender,Normal,Dog,Intact Female,2,Pit Bull Mix,Spayed Female,2,0.0,900,PM,2014-09-08,1.5384615384615385,0.6,Quarter 3,-0.1905257989407432
+05/26/2018 12:49:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,901,PM,2018-05-26,0.38461538461538464,0.54,Quarter 2,-0.04439934496624435
+11/04/2017 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1,others,Neutered Male,1,0.0,902,PM,2017-11-04,0.21691973969631237,1.0,Quarter 3,0.6214046944258974
+04/07/2017 04:07:00 PM,Pflugerville (TX),Stray,Normal,Dog,Intact Female,3,Labrador Retriever Mix,Spayed Female,4,0.0,903,PM,2017-04-07,2.0,0.54,Quarter 1,-0.8635014483448478
+10/01/2016 05:14:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,60,others,Neutered Male,60,0.0,904,PM,2016-10-01,0.21691973969631237,0.9,Quarter 3,-1.2645525966501532
+12/07/2017 01:41:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,24,German Shepherd Mix,Spayed Female,24,0.0,905,PM,2017-12-07,4.166666666666666,0.54,Quarter 3,-0.5820899440523529
+07/21/2014 12:26:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,24,Labrador Retriever Mix,Spayed Female,24,0.0,906,PM,2014-07-21,2.0,1.0,Quarter 2,0.17730514962800406
+05/25/2016 11:29:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,36,others,Neutered Male,36,0.0,907,AM,2016-05-25,0.21691973969631237,1.0,Quarter 2,0.5250348152111485
+05/21/2015 01:51:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,8,0.0,908,PM,2015-05-21,0.38461538461538464,0.54,Quarter 2,-0.08253065033976548
+05/01/2016 04:46:00 PM,Austin (TX),Stray,Nursing,Cat,Unknown,0,Domestic Shorthair Mix,Unknown,0,0.0,909,PM,2016-05-01,0.38461538461538464,0.28800000000000003,Quarter 2,0.6250373876891544
+03/22/2014 04:04:00 PM,Austin (TX),Wildlife,Sick,Other,Unknown,1,others,Unknown,1,1.0,910,PM,2014-03-22,0.21691973969631237,0.0,Quarter 1,0.69407667989667
+12/31/2019 09:52:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,24,others,Neutered Male,24,0.0,911,AM,2019-12-31,0.21691973969631237,0.9,Quarter 3,-0.06530656426815692
+08/06/2014 09:13:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,24,Pit Bull Mix,Intact Male,24,0.0,912,PM,2014-08-06,1.5384615384615385,0.48,Quarter 2,0.4063334925288382
+07/11/2016 09:17:00 AM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,3,Domestic Shorthair Mix,Spayed Female,5,0.0,913,AM,2016-07-11,0.38461538461538464,0.6,Quarter 2,0.7671201519450306
+11/08/2015 11:27:00 AM,Austin (TX),Stray,Injured,Cat,Intact Female,24,Domestic Shorthair Mix,Intact Female,24,1.0,914,AM,2015-11-08,0.38461538461538464,0.10800000000000001,Quarter 3,-0.3054085197198854
+06/03/2017 02:26:00 PM,Austin (TX),Stray,Injured,Dog,Intact Male,4,others,Neutered Male,5,0.0,915,PM,2017-06-03,0.21691973969631237,0.10800000000000001,Quarter 2,0.4067651334766788
+10/08/2013 02:33:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,36,Pit Bull Mix,Neutered Male,36,0.0,916,PM,2013-10-08,1.5384615384615385,0.54,Quarter 3,0.2557492997369831
+02/25/2019 03:26:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,917,PM,2019-02-25,0.21691973969631237,0.54,Quarter 1,2.0061794374861956
+08/04/2019 11:56:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1,others,Spayed Female,1,0.0,918,AM,2019-08-04,0.21691973969631237,1.0,Quarter 2,-0.883421344181442
+12/02/2015 04:31:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,11,others,Intact Female,1,0.0,919,PM,2015-12-02,0.21691973969631237,0.54,Quarter 3,0.538186096562195
+08/18/2018 06:15:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,108,others,Neutered Male,108,0.0,920,PM,2018-08-18,0.21691973969631237,1.0,Quarter 2,-0.3167784911575101
+03/16/2017 12:12:00 PM,Austin (TX),Wildlife,Normal,Other,Unknown,24,others,Unknown,24,1.0,921,PM,2017-03-16,0.21691973969631237,0.0,Quarter 1,0.06305854489117392
+10/22/2017 11:29:00 AM,Austin (TX),Stray,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,922,AM,2017-10-22,0.21691973969631237,0.9,Quarter 3,1.498160691900268
+12/02/2019 03:55:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,4,others,Spayed Female,4,0.0,923,PM,2019-12-02,0.21691973969631237,0.6,Quarter 3,1.2159181109564934
+07/24/2014 03:42:00 PM,Travis (TX),Stray,Sick,Cat,Intact Male,2,Domestic Shorthair Mix,Intact Male,3,0.0,924,PM,2014-07-24,0.38461538461538464,0.10800000000000001,Quarter 2,1.178236040277278
+08/31/2016 06:43:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,925,PM,2016-08-31,0.38461538461538464,0.54,Quarter 2,1.3489233966547
+09/11/2017 11:11:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,926,AM,2017-09-11,0.38461538461538464,0.54,Quarter 3,1.0607622322813115
+05/11/2016 01:25:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,10,Chihuahua Shorthair Mix,Intact Male,10,0.0,927,PM,2016-05-11,1.694915254237288,0.54,Quarter 2,0.9033748796678691
+04/18/2018 11:55:00 AM,Austin (TX),Stray,Sick,Cat,Spayed Female,60,Domestic Shorthair Mix,Spayed Female,60,1.0,928,AM,2018-04-18,0.38461538461538464,0.18000000000000002,Quarter 1,-0.018296274970291924
+06/17/2019 08:03:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Intact Female,1,0.0,929,AM,2019-06-17,0.21691973969631237,0.54,Quarter 2,-1.814566960668825
+08/08/2015 11:20:00 AM,Austin (TX),Euthanasia Request,Sick,Dog,Intact Male,48,Pit Bull Mix,Intact Male,48,1.0,930,AM,2015-08-08,1.5384615384615385,0.0,Quarter 2,-0.28551186834736014
+04/01/2019 03:56:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,10,Chihuahua Shorthair Mix,Neutered Male,10,0.0,931,PM,2019-04-01,1.694915254237288,1.0,Quarter 1,-1.8598866183999836
+11/06/2014 05:18:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,36,Pit Bull Mix,Spayed Female,36,0.0,932,PM,2014-11-06,1.5384615384615385,1.0,Quarter 3,1.1884141834204074
+05/29/2015 03:34:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Male,0,others,Intact Male,0,0.0,933,PM,2015-05-29,0.21691973969631237,0.48,Quarter 2,-0.731705253110326
+06/02/2019 02:47:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,German Shepherd,Neutered Male,2,0.0,934,PM,2019-06-02,20.0,0.54,Quarter 2,-0.9566315404153066
+09/14/2016 12:19:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Medium Hair Mix,Intact Male,1,0.0,935,PM,2016-09-14,2.857142857142857,0.6,Quarter 3,0.686453296757996
+08/16/2017 04:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,1,0.0,936,PM,2017-08-16,0.21691973969631237,0.54,Quarter 2,-0.2653772810459887
+07/27/2017 06:42:00 PM,Travis (TX),Public Assist,Normal,Dog,Spayed Female,36,others,Spayed Female,36,0.0,937,PM,2017-07-27,0.21691973969631237,0.8,Quarter 2,0.6741409244598005
+09/19/2019 11:34:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,9,others,Spayed Female,10,0.0,938,AM,2019-09-19,0.21691973969631237,0.54,Quarter 3,2.8414111303604805
+10/03/2015 01:48:00 PM,Manor (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,939,PM,2015-10-03,0.21691973969631237,0.54,Quarter 3,0.32374127104722955
+10/11/2016 09:42:00 AM,Austin (TX),Owner Surrender,Aged,Cat,Neutered Male,144,Domestic Shorthair Mix,Neutered Male,144,0.0,940,AM,2016-10-11,0.38461538461538464,0.7,Quarter 3,-0.1872298137613706
+04/30/2018 07:28:00 AM,Austin (TX),Stray,Injured,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,1,0.0,941,AM,2018-04-30,0.38461538461538464,0.10800000000000001,Quarter 1,-0.7853949237936286
+11/04/2017 03:41:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,24,Pit Bull Mix,Neutered Male,36,0.0,942,PM,2017-11-04,1.5384615384615385,0.6,Quarter 3,0.0378206965135468
+06/03/2018 02:30:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,943,PM,2018-06-03,0.38461538461538464,0.54,Quarter 2,0.4703906361592393
+12/08/2013 04:54:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,72,others,Neutered Male,72,0.0,944,PM,2013-12-08,0.21691973969631237,1.0,Quarter 3,0.7891949540376684
+04/20/2017 05:20:00 PM,Austin (TX),Stray,Injured,Cat,Spayed Female,180,others,Spayed Female,180,0.0,945,PM,2017-04-20,0.21691973969631237,0.18000000000000002,Quarter 1,0.061731884361424114
+03/23/2017 04:15:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,84,others,Spayed Female,84,0.0,946,PM,2017-03-23,0.21691973969631237,0.9,Quarter 1,-0.6174747632617903
+08/29/2017 01:15:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,947,PM,2017-08-29,0.38461538461538464,0.54,Quarter 2,-0.8824787181916001
+07/27/2018 06:20:00 PM,Austin (TX),Public Assist,Normal,Dog,Spayed Female,48,others,Spayed Female,48,0.0,948,PM,2018-07-27,0.21691973969631237,0.8,Quarter 2,-0.5797590556071502
+01/07/2015 11:12:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,60,others,Neutered Male,60,0.0,949,AM,2015-01-07,0.21691973969631237,1.0,Quarter 1,0.7711267189992158
+12/23/2016 11:15:00 AM,Travis (TX),Stray,Injured,Dog,Intact Female,9,others,Spayed Female,10,0.0,950,AM,2016-12-23,0.21691973969631237,0.10800000000000001,Quarter 3,1.454855606059778
+11/29/2013 12:55:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,60,Domestic Shorthair Mix,Neutered Male,60,0.0,951,PM,2013-11-29,0.38461538461538464,0.9,Quarter 3,0.7978470862918615
+09/19/2019 12:47:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,0,others,Unknown,0,0.0,952,PM,2019-09-19,0.21691973969631237,0.36000000000000004,Quarter 3,0.916479923646748
+07/13/2019 06:02:00 PM,Austin (TX),Stray,Injured,Cat,Intact Female,2,others,Spayed Female,4,0.0,953,PM,2019-07-13,0.21691973969631237,0.10800000000000001,Quarter 2,0.038468754255781425
+09/04/2016 01:24:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,7,others,Neutered Male,7,0.0,954,PM,2016-09-04,0.21691973969631237,0.9,Quarter 3,0.20809644937081015
+07/06/2014 04:41:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,2,Domestic Shorthair Mix,Intact Male,2,0.0,955,PM,2014-07-06,0.38461538461538464,0.54,Quarter 2,-1.8555426528700392
+03/05/2019 09:25:00 PM,Travis (TX),Stray,Injured,Bird,Unknown,1,others,Unknown,1,1.0,956,PM,2019-03-05,0.21691973969631237,0.036000000000000004,Quarter 1,1.3226024930587388
+09/07/2019 12:20:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,2,others,Neutered Male,2,0.0,957,PM,2019-09-07,0.21691973969631237,0.54,Quarter 3,-0.08380479269259423
+02/11/2017 02:43:00 PM,Manor (TX),Stray,Normal,Cat,Spayed Female,24,Domestic Shorthair Mix,Spayed Female,24,0.0,958,PM,2017-02-11,0.38461538461538464,0.9,Quarter 1,-0.7295035297501787
+06/01/2015 06:30:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,others,Neutered Male,2,0.0,959,PM,2015-06-01,0.21691973969631237,0.54,Quarter 2,-0.16784849990617529
+08/02/2014 08:38:00 AM,Austin (TX),Stray,Sick,Dog,Intact Female,2,others,Spayed Female,2,0.0,960,AM,2014-08-02,0.21691973969631237,0.10800000000000001,Quarter 2,-2.4917574569348115
+09/13/2019 12:32:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,others,Intact Female,1,0.0,961,PM,2019-09-13,0.21691973969631237,0.54,Quarter 3,-0.09402538229178414
+06/23/2014 11:38:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,962,AM,2014-06-23,0.38461538461538464,0.54,Quarter 2,-1.1665292492583577
+10/24/2016 11:56:00 AM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,963,AM,2016-10-24,0.38461538461538464,0.54,Quarter 3,0.3001943641693153
+05/19/2015 04:49:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,24,others,Neutered Male,36,0.0,964,PM,2015-05-19,0.21691973969631237,0.54,Quarter 2,-0.4850492335687534
+05/18/2016 12:02:00 PM,Austin (TX),Public Assist,Normal,Dog,Intact Female,1,Pit Bull Mix,Intact Female,1,0.0,965,PM,2016-05-18,1.5384615384615385,0.48,Quarter 2,0.40748038053190294
+08/20/2015 03:05:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,966,PM,2015-08-20,0.21691973969631237,0.9,Quarter 2,-0.798033700035761
+04/17/2014 05:12:00 PM,Austin (TX),Stray,Normal,Cat,Neutered Male,24,others,Neutered Male,24,0.0,967,PM,2014-04-17,0.21691973969631237,0.9,Quarter 1,1.1508648590626025
+05/03/2019 04:28:00 PM,Austin (TX),Stray,Normal,Cat,Unknown,1,Domestic Shorthair Mix,Unknown,1,0.0,968,PM,2019-05-03,0.38461538461538464,0.36000000000000004,Quarter 2,-0.31835413572823407
+12/15/2014 10:47:00 AM,Austin (TX),Stray,Normal,Dog,Neutered Male,48,others,Neutered Male,48,0.0,969,AM,2014-12-15,0.21691973969631237,0.9,Quarter 3,1.184605935894577
+05/14/2016 01:29:00 PM,Austin (TX),Stray,Normal,Dog,Neutered Male,11,Labrador Retriever Mix,Neutered Male,11,0.0,970,PM,2016-05-14,2.0,0.9,Quarter 2,1.0428821284346772
+12/01/2019 03:30:00 PM,Austin (TX),Owner Surrender,Medical,Cat,Spayed Female,3,others,Spayed Female,2,0.0,971,PM,2019-12-01,0.21691973969631237,0.8,Quarter 3,-1.9206199721443704
+10/30/2014 05:48:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,9,others,Intact Female,10,0.0,972,PM,2014-10-30,0.21691973969631237,0.54,Quarter 3,0.5086656289232391
+07/23/2018 08:34:00 AM,Travis (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,973,AM,2018-07-23,0.21691973969631237,0.54,Quarter 2,-2.0548125849393655
+03/06/2019 09:57:00 AM,Austin (TX),Stray,Normal,Dog,Intact Female,7,others,Spayed Female,8,0.0,974,AM,2019-03-06,0.21691973969631237,0.54,Quarter 1,-0.6764535421188754
+06/22/2016 04:38:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Intact Male,1,0.0,975,PM,2016-06-22,0.21691973969631237,0.54,Quarter 2,-1.4177013821919429
+05/25/2016 05:11:00 PM,Austin (TX),Euthanasia Request,Sick,Dog,Neutered Male,120,Miniature Poodle Mix,Neutered Male,120,1.0,976,PM,2016-05-25,7.6923076923076925,0.0,Quarter 2,-1.924420256494214
+12/31/2015 03:44:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,1,Pit Bull Mix,Spayed Female,1,0.0,977,PM,2015-12-31,1.5384615384615385,1.0,Quarter 3,-1.1374307126443175
+05/23/2015 04:13:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,978,PM,2015-05-23,0.38461538461538464,0.54,Quarter 2,-0.9849935220011482
+05/23/2017 12:11:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1,others,Unknown,1,0.0,979,PM,2017-05-23,0.21691973969631237,0.12,Quarter 2,1.0303250448411145
+06/18/2014 11:41:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Intact Female,1,0.0,980,AM,2014-06-18,0.38461538461538464,0.54,Quarter 2,0.3522976027718785
+04/10/2015 12:59:00 PM,Austin (TX),Stray,Nursing,Dog,Intact Male,0,Pit Bull Mix,Intact Male,0,0.0,981,PM,2015-04-10,1.5384615384615385,0.43200000000000005,Quarter 1,-1.4938731026669865
+01/07/2014 04:34:00 PM,Travis (TX),Stray,Normal,Dog,Intact Male,4,Labrador Retriever Mix,Neutered Male,4,0.0,982,PM,2014-01-07,2.0,0.54,Quarter 1,1.0832693860625617
+11/04/2013 01:40:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0,others,Intact Male,0,0.0,983,PM,2013-11-04,0.21691973969631237,0.6,Quarter 3,1.2652373247366346
+05/04/2019 12:12:00 PM,Austin (TX),Stray,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Neutered Male,2,0.0,984,PM,2019-05-04,0.38461538461538464,0.54,Quarter 2,1.4318884713334235
+01/20/2015 11:32:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,5,Domestic Shorthair Mix,Intact Female,5,0.0,985,AM,2015-01-20,0.38461538461538464,0.54,Quarter 1,0.36611559133524463
+05/05/2016 12:04:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Shorthair Mix,Spayed Female,1,0.0,986,PM,2016-05-05,0.38461538461538464,0.54,Quarter 2,-0.01025129375184776
+04/03/2017 06:52:00 PM,Austin (TX),Stray,Normal,Cat,Intact Female,24,others,Spayed Female,24,0.0,987,PM,2017-04-03,0.21691973969631237,0.54,Quarter 1,-2.2460087929705588
+01/27/2015 02:47:00 PM,Austin (TX),Stray,Normal,Dog,Intact Female,5,others,Spayed Female,5,0.0,988,PM,2015-01-27,0.21691973969631237,0.54,Quarter 1,-0.08169741532155898
+02/13/2015 01:24:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,24,others,Spayed Female,24,0.0,989,PM,2015-02-13,0.21691973969631237,0.54,Quarter 1,0.11540865911155997
+09/29/2016 11:52:00 AM,Austin (TX),Stray,Normal,Cat,Intact Female,1,Domestic Medium Hair Mix,Spayed Female,5,0.0,990,AM,2016-09-29,2.857142857142857,0.54,Quarter 3,0.16511379597656833
+03/08/2019 01:14:00 PM,Austin (TX),Stray,Normal,Dog,Intact Male,1,others,Neutered Male,1,0.0,991,PM,2019-03-08,0.21691973969631237,0.54,Quarter 1,-0.485276812729699
+10/22/2017 12:44:00 PM,Pflugerville (TX),Stray,Normal,Cat,Spayed Female,156,Domestic Medium Hair Mix,Spayed Female,156,0.0,992,PM,2017-10-22,2.857142857142857,0.9,Quarter 3,-1.3680834792372563
+11/10/2015 01:22:00 AM,Austin (TX),Stray,Normal,Other,Unknown,0,others,Unknown,0,0.0,993,AM,2015-11-10,0.21691973969631237,0.10800000000000001,Quarter 3,0.3899767700291761
+03/28/2018 12:36:00 PM,Austin (TX),Stray,Normal,Dog,Spayed Female,1,Pit Bull Mix,Spayed Female,1,0.0,994,PM,2018-03-28,1.5384615384615385,0.9,Quarter 1,-0.004719950277661293
+11/25/2019 03:33:00 PM,Travis (TX),Stray,Normal,Dog,Intact Female,8,others,Spayed Female,8,0.0,995,PM,2019-11-25,0.21691973969631237,0.54,Quarter 3,-0.1399666822227295
+08/06/2015 04:45:00 PM,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1,Domestic Shorthair Mix,Intact Male,1,0.0,996,PM,2015-08-06,0.38461538461538464,0.6,Quarter 2,-1.3721831505850033
+10/11/2017 05:50:00 PM,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,84,Labrador Retriever Mix,Spayed Female,96,0.0,997,PM,2017-10-11,2.0,1.0,Quarter 3,-2.0753586113961435
+12/27/2013 01:14:00 PM,Pflugerville (TX),Stray,Normal,Dog,Intact Male,24,Labrador Retriever Mix,Neutered Male,24,0.0,998,PM,2013-12-27,2.0,0.54,Quarter 3,-1.0197886229131257
+12/31/2013 10:49:00 AM,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1,Chihuahua Shorthair Mix,Intact Male,1,0.0,999,AM,2013-12-31,1.694915254237288,0.6,Quarter 3,-0.20173702660773643
