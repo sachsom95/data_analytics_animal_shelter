@@ -1,0 +1,1001 @@
+Found Location,Intake Type,Intake Condition,Sex upon Intake,Age upon Intake,Animal Type_Outcome,Sex upon Outcome,Age upon Outcome,Breed_Outcome,binary_outcome,intake_am_pm,intake_time
+Austin (TX),Stray,Normal,Neutered Male,5,Cat,Neutered Male,5,Domestic Shorthair,0.0,PM,2016-11-05
+Austin (TX),Public Assist,Normal,Intact Male,60,Dog,Intact Male,60,Pit Bull,0.0,AM,2016-09-28
+Travis (TX),Stray,Nursing,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2015-06-05
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2015-05-29
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,2,Labrador Retriever,0.0,PM,2015-12-29
+Austin (TX),Public Assist,Normal,Spayed Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2014-06-10
+Austin (TX),Owner Surrender,Injured,Spayed Female,120,Dog,Spayed Female,120,Pit Bull,1.0,AM,2016-07-12
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Miniature Poodle,0.0,AM,2017-07-07
+Del Valle (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,rare_dog,0.0,AM,2018-01-13
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2015-06-13
+Austin (TX),Stray,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2016-02-17
+Austin (TX),Owner Surrender,Normal,Intact Male,11,Dog,Neutered Male,11,Chihuahua Shorthair,0.0,PM,2014-09-22
+Austin (TX),Public Assist,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Medium Hair,0.0,PM,2016-08-31
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,AM,2013-10-16
+Austin (TX),Stray,Normal,Neutered Male,2,Dog,Neutered Male,2,Pit Bull,0.0,PM,2015-05-14
+Austin (TX),Stray,Normal,Spayed Female,9,Dog,Spayed Female,9,German Shepherd,0.0,AM,2015-04-13
+Austin (TX),Owner Surrender,Normal,Intact Female,8,Dog,Spayed Female,8,German Shepherd,0.0,AM,2016-09-21
+Austin (TX),Public Assist,Normal,Spayed Female,1,Dog,Spayed Female,10,Pit Bull,0.0,PM,2016-12-29
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2017-02-15
+Austin (TX),Stray,Normal,Intact Male,2,Dog,Neutered Male,2,rare_dog,0.0,PM,2014-01-04
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,9,Domestic Shorthair,0.0,AM,2015-12-19
+Travis (TX),Stray,Normal,Intact Male,9,Dog,Neutered Male,10,Australian Cattle Dog,0.0,PM,2015-09-11
+Austin (TX),Public Assist,Normal,Intact Female,24,Dog,Intact Female,24,Dachshund,0.0,PM,2019-11-14
+Austin (TX),Owner Surrender,Nursing,Intact Female,1,Dog,Intact Female,1,Chihuahua Shorthair,0.0,PM,2016-12-16
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,2,rare_dog,0.0,PM,2019-07-31
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2013-10-02
+Austin (TX),Public Assist,Normal,Spayed Female,84,Dog,Spayed Female,84,rare_dog,0.0,AM,2015-03-15
+Austin (TX),Stray,Normal,Intact Female,60,Dog,Intact Female,60,rare_dog,0.0,AM,2019-12-28
+Pflugerville (TX),Public Assist,Normal,Intact Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,PM,2014-07-09
+Austin (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2017-08-14
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,6,Pointer,0.0,AM,2014-04-13
+Austin (TX),Stray,Normal,Intact Male,5,Dog,Neutered Male,5,Rat Terrier,0.0,PM,2016-02-25
+Travis (TX),Owner Surrender,Normal,Spayed Female,72,Dog,Spayed Female,72,Pit Bull,0.0,PM,2018-12-30
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,2,Domestic Medium Hair,0.0,PM,2019-05-01
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2019-03-30
+Travis (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2016-01-17
+Sunset Valley (TX),Stray,Normal,Spayed Female,72,Dog,Spayed Female,72,Pit Bull,0.0,PM,2014-01-31
+Austin (TX),Stray,Normal,Intact Male,24,Cat,Intact Male,24,Domestic Shorthair,0.0,PM,2014-02-08
+Austin (TX),Stray,Nursing,Intact Female,0,Cat,Intact Female,0,Domestic Shorthair,0.0,AM,2014-03-26
+Austin (TX),Stray,Normal,Intact Male,5,Dog,Neutered Male,7,Pointer,0.0,AM,2015-07-28
+Austin (TX),Owner Surrender,Normal,Intact Male,36,Dog,Intact Male,36,Chihuahua Shorthair,0.0,PM,2014-01-07
+Austin (TX),Owner Surrender,Normal,Spayed Female,84,Cat,Spayed Female,84,Domestic Shorthair,0.0,PM,2016-06-25
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Chihuahua Shorthair,0.0,PM,2016-09-09
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2015-08-20
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,AM,2019-07-01
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Intact Female,3,rare_dog,0.0,PM,2017-03-02
+Austin (TX),Stray,Normal,Intact Male,6,Cat,Intact Male,6,Domestic Shorthair,0.0,PM,2017-02-01
+Travis (TX),Stray,Nursing,Intact Female,1,Dog,Intact Female,1,Pit Bull,0.0,AM,2015-07-29
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,2,Australian Cattle Dog,0.0,PM,2019-06-10
+Austin (TX),Stray,Normal,Neutered Male,1,Dog,Neutered Male,1,Boxer,0.0,PM,2016-02-25
+Austin (TX),Stray,Normal,Unknown,24,Other,Unknown,24,Raccoon,1.0,AM,2015-01-24
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2018-01-06
+Austin (TX),Stray,Normal,Spayed Female,60,Dog,Spayed Female,60,rare_dog,0.0,PM,2018-02-08
+Pflugerville (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2018-12-09
+Pflugerville (TX),Stray,Normal,Spayed Female,48,Dog,Spayed Female,48,rare_dog,0.0,PM,2019-01-20
+Pflugerville (TX),Owner Surrender,Normal,Spayed Female,120,Dog,Spayed Female,120,German Shepherd,0.0,PM,2016-01-05
+Austin (TX),Stray,Injured,Intact Male,2,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2014-08-05
+Austin (TX),Stray,Normal,Unknown,3,Cat,Unknown,3,rare_cat,0.0,AM,2014-08-03
+Outside Jurisdiction,Public Assist,Normal,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,PM,2017-09-01
+Austin (TX),Owner Surrender,Nursing,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2019-09-18
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2016-08-02
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,Cairn Terrier,0.0,PM,2014-11-08
+Austin (TX),Stray,Normal,Intact Female,0,Dog,Spayed Female,1,Jack Russell Terrier,0.0,PM,2018-03-06
+Austin (TX),Stray,Injured,Spayed Female,156,Dog,Spayed Female,156,Chihuahua Shorthair,0.0,PM,2017-09-28
+Austin (TX),Stray,Normal,Intact Male,96,Dog,Neutered Male,96,Labrador Retriever,0.0,AM,2015-04-24
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2016-05-19
+Del Valle (TX),Stray,Normal,Intact Female,6,Dog,Spayed Female,6,Cairn Terrier,0.0,PM,2016-11-18
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Pit Bull,0.0,PM,2016-12-19
+Austin (TX),Owner Surrender,Normal,Spayed Female,84,Dog,Spayed Female,84,Pit Bull,0.0,PM,2015-01-18
+Austin (TX),Stray,Normal,Intact Male,24,Cat,Neutered Male,24,Domestic Shorthair,0.0,PM,2019-02-01
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,AM,2018-07-12
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Australian Cattle Dog,0.0,PM,2019-02-08
+Austin (TX),Owner Surrender,Normal,Intact Female,24,Cat,Intact Female,24,rare_cat,0.0,PM,2014-05-15
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Chihuahua Shorthair,0.0,PM,2014-07-05
+Austin (TX),Stray,Normal,Intact Male,9,Dog,Neutered Male,1,rare_dog,0.0,AM,2015-07-22
+Lakeway (TX),Owner Surrender,Normal,Intact Female,36,Cat,Spayed Female,36,Domestic Shorthair,0.0,PM,2015-02-24
+Pflugerville (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2018-09-17
+Outside Jurisdiction,Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,Pit Bull,0.0,PM,2018-12-31
+Travis (TX),Stray,Injured,Neutered Male,96,Dog,Neutered Male,96,Pit Bull,0.0,AM,2014-04-08
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,Labrador Retriever,0.0,AM,2014-08-13
+Austin (TX),Owner Surrender,Normal,Spayed Female,96,Cat,Spayed Female,96,Domestic Shorthair,0.0,PM,2015-02-24
+Austin (TX),Owner Surrender,Normal,Intact Male,0,Dog,Intact Male,0,rare_dog,0.0,AM,2016-12-18
+Austin (TX),Owner Surrender,Normal,Neutered Male,36,Cat,Neutered Male,36,Domestic Shorthair,0.0,AM,2018-10-06
+Austin (TX),Stray,Nursing,Intact Male,1,Dog,Intact Male,1,Pit Bull,0.0,AM,2019-12-09
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Spayed Female,4,Domestic Shorthair,0.0,PM,2019-07-19
+Austin (TX),Stray,Sick,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2018-04-30
+Austin (TX),Stray,Normal,Intact Male,36,Dog,Intact Male,36,Dachshund,0.0,PM,2017-03-20
+Austin (TX),Stray,Injured,Intact Male,24,Dog,Neutered Male,24,Pit Bull,0.0,AM,2018-12-03
+Austin (TX),Stray,Normal,Intact Male,60,Dog,Neutered Male,60,Pit Bull,0.0,PM,2016-06-21
+Austin (TX),Stray,Normal,Intact Female,4,Cat,Intact Female,4,Domestic Shorthair,0.0,AM,2014-03-20
+Austin (TX),Owner Surrender,Sick,Intact Female,1,Dog,Intact Female,1,Labrador Retriever,0.0,AM,2014-06-20
+Travis (TX),Stray,Nursing,Intact Male,0,Dog,Intact Male,0,Chihuahua Shorthair,0.0,AM,2016-12-11
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2015-06-03
+Austin (TX),Stray,Normal,Intact Male,9,Dog,Intact Male,10,Boxer,0.0,AM,2013-10-14
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,AM,2015-03-28
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2018-05-18
+Travis (TX),Owner Surrender,Injured,Intact Female,24,Other,Intact Female,24,rare,0.0,PM,2014-08-13
+Austin (TX),Stray,Nursing,Intact Female,0,Cat,Spayed Female,5,Domestic Shorthair,0.0,AM,2014-02-25
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,AM,2019-07-15
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Dog,Neutered Male,1,Rat Terrier,0.0,PM,2014-10-25
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2017-08-31
+Austin (TX),Owner Surrender,Other,Neutered Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2019-01-16
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,AM,2019-05-02
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Labrador Retriever,0.0,PM,2017-11-01
+Austin (TX),Owner Surrender,Normal,Intact Female,36,Cat,Spayed Female,36,Domestic Medium Hair,0.0,AM,2018-01-22
+Austin (TX),Owner Surrender,Normal,Spayed Female,2,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2017-11-13
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2014-05-13
+Austin (TX),Owner Surrender,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2015-10-25
+Austin (TX),Stray,Sick,Spayed Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2016-05-07
+Austin (TX),Owner Surrender,Normal,Neutered Male,84,Cat,Neutered Male,84,Domestic Shorthair,0.0,PM,2018-06-20
+Travis (TX),Stray,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2016-09-19
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2014-09-21
+Austin (TX),Stray,Normal,Intact Male,6,Dog,Neutered Male,7,rare_dog,0.0,PM,2017-05-17
+Austin (TX),Owner Surrender,Normal,Spayed Female,72,Cat,Spayed Female,72,Domestic Longhair,0.0,PM,2014-10-03
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Dachshund,0.0,PM,2019-06-22
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2019-09-15
+Austin (TX),Stray,Normal,Intact Male,6,Dog,Neutered Male,6,rare_dog,0.0,PM,2015-02-17
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Catahoula,0.0,PM,2019-02-03
+Travis (TX),Public Assist,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2014-02-19
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,Catahoula,0.0,PM,2018-09-01
+Austin (TX),Stray,Normal,Intact Female,4,Cat,Intact Female,4,Domestic Shorthair,0.0,AM,2017-08-04
+Austin (TX),Stray,Injured,Intact Female,36,Dog,Spayed Female,36,Chihuahua Shorthair,0.0,PM,2014-04-11
+Manor (TX),Public Assist,Normal,Intact Female,1,Bird,Intact Female,1,Chicken,0.0,PM,2018-09-04
+Travis (TX),Stray,Injured,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,AM,2016-07-23
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Dachshund,0.0,PM,2020-01-17
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Chihuahua Shorthair,0.0,PM,2013-10-01
+Austin (TX),Stray,Normal,Intact Female,5,Cat,Intact Female,5,Domestic Shorthair,0.0,PM,2019-12-13
+Austin (TX),Owner Surrender,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2018-09-30
+Pflugerville (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2018-10-14
+Austin (TX),Stray,Normal,Neutered Male,60,Dog,Neutered Male,60,Miniature Poodle,0.0,PM,2017-04-12
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2014-10-04
+Austin (TX),Stray,Normal,Intact Male,36,Dog,Neutered Male,36,German Shepherd,0.0,PM,2014-11-29
+Austin (TX),Public Assist,Normal,Intact Female,48,Dog,Spayed Female,48,rare_dog,0.0,PM,2019-02-02
+Austin (TX),Stray,Nursing,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2014-05-17
+Austin (TX),Owner Surrender,Normal,Neutered Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,PM,2016-08-09
+Austin (TX),Owner Surrender,Normal,Spayed Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2014-08-16
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-11-11
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Medium Hair,0.0,AM,2019-10-26
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Intact Male,36,Pit Bull,0.0,PM,2019-08-11
+Travis (TX),Owner Surrender,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2019-10-07
+Austin (TX),Stray,Normal,Intact Female,10,Cat,Intact Female,11,Domestic Shorthair,0.0,AM,2017-08-04
+Austin (TX),Stray,Sick,Intact Male,7,Dog,Intact Male,7,rare_dog,0.0,AM,2016-05-14
+Del Valle (TX),Public Assist,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,1.0,PM,2013-12-24
+Travis (TX),Stray,Normal,Spayed Female,24,Dog,Spayed Female,36,Pit Bull,0.0,PM,2014-05-21
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-05-11
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2018-04-04
+Travis (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Labrador Retriever,0.0,AM,2017-02-09
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2018-05-19
+Austin (TX),Stray,Normal,Neutered Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,PM,2017-06-24
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,2,Catahoula,0.0,PM,2013-11-21
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2015-01-23
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-04-07
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Pit Bull,0.0,PM,2018-03-15
+Austin (TX),Owner Surrender,Normal,Neutered Male,36,Dog,Neutered Male,36,Miniature Poodle,0.0,PM,2015-07-02
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2019-06-07
+Austin (TX),Owner Surrender,Normal,Intact Male,3,Dog,Neutered Male,4,rare_dog,0.0,AM,2019-10-19
+Austin (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2014-11-14
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2018-11-21
+Austin (TX),Stray,Normal,Unknown,1,Bird,Unknown,1,Parakeet,0.0,AM,2015-04-22
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2018-04-29
+Austin (TX),Stray,Injured,Spayed Female,156,Dog,Spayed Female,156,rare_dog,1.0,PM,2014-01-29
+Austin (TX),Stray,Injured,Intact Male,36,Dog,Intact Male,36,rare_dog,1.0,PM,2014-11-17
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2015-09-12
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2017-11-20
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2015-10-27
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2017-12-16
+Lago Vista (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2015-05-24
+Outside Jurisdiction,Owner Surrender,Normal,Spayed Female,120,Cat,Spayed Female,120,Domestic Shorthair,0.0,PM,2019-07-13
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,PM,2014-07-29
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,Labrador Retriever,0.0,PM,2016-11-16
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,German Shepherd,0.0,PM,2014-02-09
+Austin (TX),Stray,Normal,Spayed Female,132,Cat,Spayed Female,132,Domestic Shorthair,1.0,PM,2014-07-13
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,American Staffordshire Terrier,0.0,PM,2014-09-21
+Travis (TX),Owner Surrender,Normal,Intact Female,6,Dog,Intact Female,7,rare_dog,0.0,PM,2019-09-15
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Raccoon,1.0,AM,2014-04-11
+Austin (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,Jack Russell Terrier,0.0,AM,2014-12-20
+Austin (TX),Stray,Normal,Intact Male,3,Cat,Neutered Male,4,Domestic Shorthair,0.0,PM,2014-07-24
+Austin (TX),Public Assist,Normal,Neutered Male,1,Dog,Neutered Male,1,American Staffordshire Terrier,0.0,PM,2014-12-13
+Austin (TX),Public Assist,Normal,Intact Male,24,Dog,Intact Male,24,Rat Terrier,0.0,PM,2017-06-04
+Pflugerville (TX),Public Assist,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2014-07-09
+Austin (TX),Stray,Normal,Spayed Female,96,Dog,Spayed Female,96,rare_dog,0.0,PM,2013-10-20
+Austin (TX),Stray,Normal,Intact Male,5,Dog,Intact Male,5,Pit Bull,0.0,PM,2015-06-30
+Jonestown (TX),Stray,Normal,Spayed Female,96,Cat,Spayed Female,96,Domestic Medium Hair,1.0,PM,2015-12-17
+Austin (TX),Public Assist,Normal,Intact Male,1,Dog,Intact Male,2,Chihuahua Shorthair,0.0,PM,2015-05-17
+Outside Jurisdiction,Owner Surrender,Normal,Neutered Male,6,Dog,Neutered Male,6,rare_dog,0.0,PM,2017-06-02
+Bee Cave (TX),Stray,Normal,Intact Male,36,Dog,Intact Male,36,rare_dog,0.0,PM,2017-01-10
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Chihuahua Shorthair,0.0,AM,2015-01-08
+Austin (TX),Stray,Injured,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,1.0,PM,2018-05-07
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,German Shepherd,0.0,PM,2018-07-20
+Austin (TX),Public Assist,Normal,Neutered Male,48,Dog,Neutered Male,48,Dachshund,0.0,AM,2013-12-21
+Del Valle (TX),Stray,Nursing,Intact Male,0,Dog,Neutered Male,1,Labrador Retriever,0.0,AM,2017-09-13
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2015-07-25
+Travis (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2017-05-15
+Austin (TX),Owner Surrender,Normal,Intact Male,4,Dog,Neutered Male,4,rare_dog,0.0,PM,2014-08-10
+Austin (TX),Stray,Normal,Intact Female,96,Dog,Intact Female,96,rare_dog,0.0,AM,2014-06-26
+Austin (TX),Owner Surrender,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2017-12-05
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,1.0,PM,2015-05-10
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Chihuahua Shorthair,0.0,AM,2017-11-13
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Chihuahua Shorthair,0.0,PM,2016-05-16
+Austin (TX),Owner Surrender,Normal,Neutered Male,120,Cat,Neutered Male,120,Domestic Longhair,0.0,PM,2019-04-11
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2013-11-12
+Del Valle (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,Miniature Poodle,0.0,PM,2014-01-28
+Austin (TX),Stray,Injured,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2015-05-30
+Austin (TX),Stray,Normal,Spayed Female,84,Dog,Spayed Female,84,German Shepherd,0.0,PM,2013-10-01
+Austin (TX),Owner Surrender,Normal,Spayed Female,60,Dog,Spayed Female,60,Labrador Retriever,0.0,PM,2014-10-02
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2019-06-09
+Travis (TX),Stray,Injured,Intact Female,24,Dog,Intact Female,24,Pit Bull,0.0,AM,2018-06-23
+Austin (TX),Owner Surrender,Normal,Intact Female,3,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2018-08-20
+Austin (TX),Stray,Normal,Neutered Male,132,Dog,Neutered Male,132,rare_dog,0.0,AM,2016-11-21
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2015-12-18
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,0.0,PM,2013-11-12
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Chihuahua Shorthair,0.0,PM,2017-03-07
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2014-08-15
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,PM,2013-10-16
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2015-09-02
+Leander (TX),Owner Surrender,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2018-02-20
+Austin (TX),Stray,Nursing,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2016-06-24
+Austin (TX),Stray,Normal,Neutered Male,96,Dog,Neutered Male,96,rare_dog,0.0,AM,2014-05-19
+Austin (TX),Stray,Injured,Intact Male,24,Dog,Intact Male,24,Jack Russell Terrier,0.0,PM,2017-03-01
+Austin (TX),Stray,Normal,Intact Male,0,Dog,Neutered Male,1,Cairn Terrier,0.0,PM,2014-09-17
+Austin (TX),Stray,Normal,Neutered Male,60,Dog,Neutered Male,60,rare_dog,0.0,PM,2013-10-18
+Austin (TX),Stray,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,AM,2015-06-12
+Austin (TX),Owner Surrender,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2016-05-12
+Travis (TX),Stray,Normal,Unknown,0,Cat,Unknown,0,Domestic Shorthair,0.0,PM,2017-07-27
+Travis (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,German Shepherd,0.0,AM,2018-08-17
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Chihuahua Shorthair,0.0,PM,2019-04-27
+Austin (TX),Stray,Normal,Intact Male,84,Dog,Intact Male,84,Labrador Retriever,0.0,PM,2016-01-13
+Austin (TX),Wildlife,Sick,Unknown,1,Other,Unknown,0,Bat,1.0,AM,2019-09-03
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2017-08-04
+Pflugerville (TX),Owner Surrender,Normal,Spayed Female,48,Dog,Spayed Female,48,Chihuahua Shorthair,0.0,PM,2015-12-05
+Travis (TX),Stray,Normal,Spayed Female,132,Dog,Spayed Female,132,Chihuahua Shorthair,0.0,PM,2018-11-17
+Travis (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,24,rare_dog,0.0,PM,2015-08-25
+Austin (TX),Owner Surrender,Normal,Neutered Male,84,Dog,Neutered Male,84,rare_dog,0.0,AM,2017-03-16
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,7,Domestic Shorthair,0.0,PM,2014-05-31
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Labrador Retriever,0.0,PM,2017-03-28
+Del Valle (TX),Stray,Sick,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2018-05-12
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Chihuahua Shorthair,0.0,AM,2014-01-18
+Austin (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,PM,2019-10-19
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-08-23
+Austin (TX),Owner Surrender,Normal,Spayed Female,96,Cat,Spayed Female,96,Domestic Longhair,0.0,AM,2015-08-26
+Austin (TX),Stray,Normal,Spayed Female,132,Dog,Spayed Female,132,Labrador Retriever,0.0,PM,2017-03-16
+Austin (TX),Owner Surrender,Normal,Intact Male,2,Other,Intact Male,3,rare,0.0,PM,2019-07-29
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2015-06-28
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-02-06
+Austin (TX),Stray,Normal,Intact Male,96,Dog,Neutered Male,96,rare_dog,0.0,PM,2018-05-28
+Austin (TX),Stray,Normal,Unknown,1,Other,Unknown,1,rare,0.0,PM,2019-07-09
+Austin (TX),Stray,Normal,Intact Male,3,Cat,Neutered Male,4,Domestic Shorthair,0.0,AM,2018-03-16
+Austin (TX),Stray,Injured,Intact Female,5,Dog,Intact Female,5,Pit Bull,0.0,AM,2018-03-09
+Austin (TX),Stray,Normal,Neutered Male,9,Dog,Neutered Male,9,rare_dog,0.0,PM,2016-03-15
+Austin (TX),Stray,Normal,Intact Male,84,Dog,Intact Male,84,rare_dog,0.0,PM,2014-12-29
+Austin (TX),Stray,Normal,Intact Female,48,Dog,Intact Female,48,Rat Terrier,0.0,PM,2018-11-05
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2018-07-04
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,Boxer,0.0,PM,2014-07-06
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2017-04-11
+Austin (TX),Stray,Injured,Intact Male,60,Cat,Intact Male,60,Domestic Longhair,1.0,PM,2015-02-03
+Austin (TX),Public Assist,Normal,Neutered Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2018-08-20
+Austin (TX),Public Assist,Normal,Neutered Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2013-11-26
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,rare_dog,0.0,PM,2019-02-20
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-05-17
+Austin (TX),Stray,Normal,Intact Female,60,Cat,Intact Female,60,Domestic Medium Hair,0.0,PM,2017-03-21
+Austin (TX),Stray,Normal,Neutered Male,36,Cat,Neutered Male,36,rare_cat,0.0,PM,2019-11-03
+Austin (TX),Stray,Normal,Neutered Male,36,Dog,Neutered Male,36,Chihuahua Shorthair,0.0,PM,2017-05-30
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Intact Female,24,Chihuahua Longhair,0.0,AM,2017-10-04
+Austin (TX),Wildlife,Injured,Unknown,1,Other,Unknown,1,Bat,1.0,AM,2019-03-16
+Austin (TX),Stray,Normal,Unknown,6,Cat,Unknown,6,Domestic Medium Hair,0.0,AM,2014-01-11
+Austin (TX),Stray,Normal,Intact Male,84,Dog,Intact Male,84,Labrador Retriever,0.0,AM,2014-08-31
+Travis (TX),Stray,Normal,Intact Female,3,Cat,Intact Female,3,Domestic Shorthair,0.0,AM,2019-09-16
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Miniature Schnauzer,0.0,AM,2015-02-26
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Medium Hair,0.0,AM,2017-05-21
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,4,Domestic Shorthair,0.0,PM,2018-11-15
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,0.0,PM,2019-04-20
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2019-06-08
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2019-06-24
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2014-03-18
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2016-06-20
+Austin (TX),Stray,Normal,Intact Male,4,Dog,Neutered Male,5,Chihuahua Shorthair,0.0,PM,2019-06-19
+Manor (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,PM,2017-08-17
+Austin (TX),Public Assist,Normal,Intact Male,120,Dog,Intact Male,120,rare_dog,0.0,PM,2020-01-22
+Austin (TX),Owner Surrender,Normal,Intact Female,36,Dog,Spayed Female,36,Chihuahua Shorthair,0.0,PM,2015-07-30
+Austin (TX),Stray,Injured,Neutered Male,48,Cat,Neutered Male,48,Domestic Shorthair,0.0,AM,2018-07-03
+Austin (TX),Wildlife,Normal,Unknown,6,Other,Unknown,6,Bat,1.0,PM,2015-02-23
+Austin (TX),Stray,Normal,Intact Male,60,Dog,Neutered Male,60,rare_dog,0.0,PM,2014-02-09
+Austin (TX),Stray,Injured,Neutered Male,48,Cat,Neutered Male,48,Domestic Medium Hair,1.0,AM,2015-05-06
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,AM,2018-10-27
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,3,Australian Shepherd,0.0,PM,2019-01-30
+Austin (TX),Stray,Nursing,Intact Male,0,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2018-04-22
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Miniature Poodle,0.0,AM,2018-03-17
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,5,rare_dog,0.0,AM,2018-11-29
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Labrador Retriever,0.0,AM,2017-08-06
+Austin (TX),Stray,Normal,Neutered Male,84,Dog,Neutered Male,84,rare_dog,0.0,PM,2018-07-09
+Austin (TX),Stray,Normal,Spayed Female,6,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2014-02-22
+Austin (TX),Stray,Normal,Intact Female,6,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2014-11-08
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,AM,2015-06-22
+Outside Jurisdiction,Public Assist,Normal,Unknown,2,Dog,Unknown,3,Labrador Retriever,0.0,PM,2017-09-07
+Travis (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2019-10-11
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Intact Male,3,Domestic Shorthair,0.0,AM,2015-07-04
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2016-05-02
+Austin (TX),Stray,Injured,Intact Male,1,Dog,Intact Male,1,Chihuahua Shorthair,0.0,PM,2015-10-30
+Austin (TX),Owner Surrender,Sick,Intact Female,144,Dog,Intact Female,144,Chihuahua Shorthair,1.0,AM,2019-05-03
+Travis (TX),Stray,Normal,Spayed Female,6,Dog,Spayed Female,6,rare_dog,0.0,PM,2014-10-14
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,AM,2018-02-22
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2018-10-22
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2014-03-31
+Outside Jurisdiction,Owner Surrender,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,AM,2019-10-29
+Lago Vista (TX),Stray,Normal,Intact Male,6,Cat,Neutered Male,8,Domestic Shorthair,0.0,PM,2018-06-13
+Austin (TX),Stray,Normal,Spayed Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2016-11-30
+Austin (TX),Stray,Sick,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,AM,2015-08-12
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2015-02-25
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2019-12-27
+Austin (TX),Owner Surrender,Normal,Spayed Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2018-01-23
+Austin (TX),Stray,Aged,Neutered Male,120,Dog,Neutered Male,120,rare_dog,0.0,AM,2018-05-30
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Chihuahua Shorthair,0.0,PM,2019-03-18
+Austin (TX),Wildlife,Normal,Unknown,36,Other,Unknown,36,Bat,1.0,PM,2014-12-02
+Del Valle (TX),Owner Surrender,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2014-05-31
+Travis (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2017-12-01
+Austin (TX),Stray,Normal,Unknown,5,Other,Unknown,5,rare,0.0,PM,2014-06-27
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Pit Bull,0.0,PM,2016-04-21
+Austin (TX),Public Assist,Normal,Neutered Male,36,Cat,Neutered Male,36,Domestic Shorthair,0.0,PM,2016-10-03
+Austin (TX),Public Assist,Normal,Intact Male,24,Dog,Intact Male,24,Dachshund,0.0,PM,2016-03-14
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Pit Bull,0.0,AM,2019-12-14
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,PM,2014-12-28
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2016-04-06
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2016-08-04
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Australian Shepherd,0.0,PM,2018-02-16
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Medium Hair,0.0,PM,2015-06-22
+Austin (TX),Stray,Sick,Intact Female,4,Dog,Intact Female,4,Chihuahua Shorthair,1.0,AM,2018-09-23
+Travis (TX),Stray,Normal,Intact Male,5,Dog,Neutered Male,6,Labrador Retriever,0.0,PM,2017-03-18
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,3,rare_dog,0.0,PM,2019-08-15
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,2,Australian Cattle Dog,0.0,PM,2013-11-19
+Austin (TX),Owner Surrender,Normal,Neutered Male,108,Dog,Neutered Male,108,rare_dog,0.0,AM,2016-12-31
+Austin (TX),Stray,Nursing,Intact Female,0,Dog,Intact Female,1,rare_dog,0.0,PM,2016-07-23
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Pointer,0.0,AM,2014-03-13
+Austin (TX),Stray,Normal,Spayed Female,24,Dog,Spayed Female,24,German Shepherd,0.0,PM,2016-09-24
+Austin (TX),Stray,Normal,Intact Female,6,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2018-11-10
+Austin (TX),Owner Surrender,Normal,Intact Female,4,Cat,Spayed Female,4,Domestic Shorthair,0.0,PM,2019-08-27
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Australian Cattle Dog,0.0,AM,2015-11-07
+Austin (TX),Public Assist,Normal,Neutered Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,AM,2016-06-17
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,Pit Bull,0.0,PM,2014-08-05
+Austin (TX),Owner Surrender,Normal,Intact Male,3,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2017-12-22
+Austin (TX),Public Assist,Normal,Spayed Female,48,Cat,Spayed Female,48,Domestic Longhair,0.0,PM,2018-07-20
+Austin (TX),Stray,Normal,Intact Male,1,Other,Neutered Male,1,rare,0.0,PM,2019-12-23
+Austin (TX),Owner Surrender,Normal,Intact Female,11,Dog,Spayed Female,11,American Staffordshire Terrier,0.0,PM,2014-12-16
+Austin (TX),Owner Surrender,Normal,Spayed Female,72,Dog,Spayed Female,72,rare_dog,0.0,PM,2016-01-02
+Jonestown (TX),Public Assist,Normal,Unknown,60,Dog,Unknown,60,rare_dog,0.0,PM,2017-08-14
+Austin (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,Pit Bull,0.0,PM,2014-06-26
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2017-03-27
+Austin (TX),Stray,Normal,Intact Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2015-06-14
+Austin (TX),Stray,Normal,Spayed Female,96,Dog,Spayed Female,96,rare_dog,0.0,AM,2015-05-27
+Austin (TX),Stray,Normal,Intact Female,120,Dog,Intact Female,120,rare_dog,0.0,AM,2018-11-04
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Labrador Retriever,0.0,PM,2018-07-16
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,AM,2016-03-10
+Austin (TX),Public Assist,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2014-06-26
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,Chihuahua Shorthair,0.0,PM,2015-02-22
+Austin (TX),Owner Surrender,Normal,Intact Female,24,Dog,Intact Female,24,Pit Bull,1.0,PM,2016-06-29
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2019-09-30
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,German Shepherd,0.0,PM,2017-12-14
+Austin (TX),Stray,Normal,Intact Female,108,Dog,Intact Female,120,Dachshund,0.0,PM,2015-04-10
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Siamese,0.0,AM,2015-06-08
+Austin (TX),Stray,Injured,Neutered Male,48,Dog,Neutered Male,48,Rat Terrier,0.0,PM,2014-07-10
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2019-07-07
+Austin (TX),Stray,Normal,Spayed Female,108,Cat,Spayed Female,108,Domestic Shorthair,0.0,PM,2015-10-11
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Pit Bull,0.0,PM,2016-02-04
+Austin (TX),Owner Surrender,Normal,Spayed Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2016-11-26
+Austin (TX),Stray,Normal,Spayed Female,144,Dog,Spayed Female,144,Australian Cattle Dog,0.0,PM,2014-02-10
+Austin (TX),Stray,Normal,Intact Male,3,Dog,Neutered Male,4,German Shepherd,0.0,PM,2019-06-17
+Manor (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Medium Hair,0.0,PM,2014-11-21
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-11-11
+Travis (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2018-09-24
+Austin (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,rare_cat,0.0,PM,2014-01-04
+Austin (TX),Stray,Normal,Intact Male,11,Dog,Intact Male,1,rare_dog,0.0,PM,2017-04-21
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,2,rare_dog,0.0,PM,2013-12-16
+Pflugerville (TX),Stray,Normal,Neutered Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2017-02-10
+Austin (TX),Public Assist,Normal,Neutered Male,10,Dog,Neutered Male,10,Australian Shepherd,0.0,PM,2016-11-14
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2017-06-27
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2016-04-07
+Austin (TX),Owner Surrender,Injured,Spayed Female,84,Cat,Spayed Female,84,Domestic Shorthair,1.0,AM,2014-08-21
+Austin (TX),Stray,Injured,Neutered Male,24,Dog,Neutered Male,24,Chihuahua Shorthair,1.0,PM,2015-06-28
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2013-10-01
+Manor (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Medium Hair,0.0,PM,2017-08-15
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2016-08-01
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2018-07-19
+Travis (TX),Public Assist,Normal,Intact Male,8,Dog,Neutered Male,8,Labrador Retriever,1.0,PM,2013-12-06
+Austin (TX),Stray,Nursing,Intact Female,0,Cat,Intact Female,0,Domestic Shorthair,0.0,PM,2014-04-01
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2017-05-23
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2014-05-14
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2017-05-10
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,0.0,PM,2013-10-23
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2014-12-15
+Del Valle (TX),Stray,Normal,Intact Male,5,Dog,Neutered Male,5,Labrador Retriever,0.0,PM,2014-11-25
+Austin (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2014-06-11
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2017-06-23
+Manor (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Medium Hair,0.0,PM,2015-04-18
+Del Valle (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,German Shepherd,0.0,PM,2018-03-24
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Intact Male,36,rare_dog,0.0,PM,2016-06-23
+Austin (TX),Owner Surrender,Sick,Intact Female,60,Dog,Intact Female,60,Chihuahua Shorthair,0.0,AM,2014-04-19
+Austin (TX),Stray,Aged,Neutered Male,156,Dog,Neutered Male,156,rare_dog,0.0,PM,2014-09-06
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,rare_dog,0.0,PM,2013-11-30
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,German Shepherd,0.0,PM,2016-06-13
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,AM,2019-04-05
+Bastrop (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,Australian Cattle Dog,0.0,PM,2016-06-29
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,1,rare_cat,0.0,PM,2017-06-23
+Manor (TX),Stray,Normal,Spayed Female,1,Dog,Spayed Female,1,Labrador Retriever,0.0,PM,2015-10-02
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2015-05-22
+Austin (TX),Public Assist,Normal,Neutered Male,96,Dog,Neutered Male,96,rare_dog,0.0,PM,2018-07-15
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,AM,2018-03-15
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2017-08-03
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,3,Jack Russell Terrier,0.0,AM,2015-08-27
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2017-11-06
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2019-02-23
+Austin (TX),Stray,Normal,Spayed Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2016-04-09
+Travis (TX),Stray,Normal,Intact Male,2,Dog,Intact Male,3,Labrador Retriever,0.0,AM,2016-06-28
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2019-05-25
+Austin (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,PM,2014-11-14
+Manor (TX),Owner Surrender,Normal,Intact Female,2,Dog,Spayed Female,2,rare_dog,0.0,PM,2019-11-03
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Chihuahua Shorthair,0.0,PM,2013-11-08
+Travis (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Rat Terrier,0.0,PM,2017-09-30
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Chihuahua Shorthair,0.0,PM,2015-01-23
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-07-19
+Travis (TX),Stray,Normal,Spayed Female,120,Dog,Spayed Female,120,Pit Bull,0.0,AM,2019-04-13
+Austin (TX),Wildlife,Injured,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2016-02-24
+Austin (TX),Stray,Normal,Intact Male,7,Dog,Neutered Male,8,Labrador Retriever,0.0,PM,2018-04-01
+Austin (TX),Stray,Normal,Intact Female,7,Cat,Intact Female,8,Domestic Shorthair,0.0,PM,2019-07-01
+Austin (TX),Stray,Normal,Spayed Female,6,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2018-09-10
+Austin (TX),Stray,Nursing,Intact Female,0,Dog,Spayed Female,2,Chihuahua Shorthair,0.0,PM,2019-08-03
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2018-09-22
+Austin (TX),Stray,Normal,Spayed Female,24,Dog,Spayed Female,24,Pointer,0.0,PM,2015-10-31
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2016-08-18
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,0.0,PM,2017-12-13
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2015-03-25
+Austin (TX),Owner Surrender,Normal,Neutered Male,48,Dog,Neutered Male,48,Boxer,0.0,PM,2016-11-13
+Austin (TX),Stray,Normal,Intact Male,60,Dog,Intact Male,60,rare_dog,0.0,PM,2018-08-31
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Chihuahua Shorthair,0.0,PM,2019-12-31
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2017-06-23
+Austin (TX),Stray,Normal,Intact Female,3,Cat,Intact Female,3,Domestic Shorthair,0.0,AM,2019-11-18
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2017-08-02
+Del Valle (TX),Public Assist,Sick,Intact Male,4,Dog,Intact Male,4,Pit Bull,0.0,PM,2018-08-12
+Austin (TX),Stray,Normal,Intact Male,36,Dog,Neutered Male,36,Chihuahua Shorthair,0.0,AM,2015-04-02
+Travis (TX),Stray,Normal,Neutered Male,96,Dog,Neutered Male,96,Labrador Retriever,0.0,PM,2017-08-28
+Austin (TX),Stray,Normal,Unknown,3,Cat,Unknown,3,Domestic Shorthair,0.0,PM,2018-01-23
+Austin (TX),Owner Surrender,Normal,Intact Male,2,Dog,Neutered Male,2,Jack Russell Terrier,0.0,PM,2015-09-10
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2017-08-15
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,4,Domestic Shorthair,0.0,AM,2017-09-01
+Manor (TX),Public Assist,Normal,Intact Female,6,Dog,Intact Female,6,rare_dog,0.0,PM,2016-10-07
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2017-06-08
+Austin (TX),Stray,Normal,Intact Male,8,Dog,Neutered Male,9,rare_dog,0.0,PM,2013-10-26
+Austin (TX),Public Assist,Normal,Intact Male,1,Dog,Intact Male,1,Pit Bull,0.0,PM,2019-07-22
+Austin (TX),Stray,Sick,Intact Male,1,Cat,Intact Male,1,Siamese,1.0,PM,2014-12-02
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,rare_dog,0.0,PM,2014-06-18
+Pflugerville (TX),Owner Surrender,Normal,Intact Female,1,Dog,Intact Female,2,Labrador Retriever,0.0,PM,2013-12-16
+Austin (TX),Public Assist,Normal,Intact Female,1,Cat,Intact Female,24,Domestic Medium Hair,0.0,PM,2014-06-17
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,AM,2018-10-27
+Austin (TX),Stray,Normal,Intact Male,48,Dog,Intact Male,48,Chihuahua Shorthair,0.0,PM,2018-03-28
+Travis (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2019-12-02
+Outside Jurisdiction,Owner Surrender,Sick,Neutered Male,3,Dog,Neutered Male,3,rare_dog,0.0,PM,2016-08-03
+Austin (TX),Stray,Normal,Intact Female,9,Dog,Spayed Female,10,Catahoula,0.0,PM,2018-06-04
+Austin (TX),Public Assist,Normal,Intact Male,84,Dog,Intact Male,84,Pit Bull,0.0,PM,2015-12-07
+Austin (TX),Stray,Sick,Intact Male,1,Cat,Intact Male,2,Siamese,0.0,PM,2018-06-20
+Travis (TX),Stray,Normal,Intact Male,4,Dog,Intact Male,5,rare_dog,0.0,AM,2019-07-13
+Austin (TX),Stray,Sick,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,AM,2019-05-10
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2015-09-22
+Austin (TX),Owner Surrender,Normal,Neutered Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2018-06-24
+Austin (TX),Owner Surrender,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2017-01-03
+Austin (TX),Owner Surrender,Normal,Intact Male,10,Other,Intact Male,10,rare,0.0,AM,2014-01-08
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2015-06-09
+Travis (TX),Stray,Feral,Intact Male,2,Cat,Neutered Male,2,Siamese,0.0,AM,2014-10-02
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Neutered Male,36,rare_dog,0.0,PM,2019-10-05
+Austin (TX),Stray,Normal,Neutered Male,144,Dog,Neutered Male,144,Chihuahua Shorthair,0.0,PM,2017-05-10
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Chihuahua Shorthair,0.0,AM,2014-03-06
+Austin (TX),Stray,Normal,Neutered Male,36,Dog,Neutered Male,36,Catahoula,0.0,AM,2018-08-11
+Austin (TX),Stray,Normal,Neutered Male,120,Dog,Neutered Male,120,Rat Terrier,0.0,AM,2018-09-24
+Austin (TX),Owner Surrender,Sick,Neutered Male,108,Dog,Neutered Male,108,rare_dog,0.0,PM,2018-05-21
+Austin (TX),Owner Surrender,Normal,Spayed Female,120,Dog,Spayed Female,120,rare_dog,0.0,PM,2014-09-02
+Travis (TX),Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,2,rare_dog,0.0,AM,2016-12-18
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2015-07-27
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2015-07-21
+Austin (TX),Owner Surrender,Normal,Neutered Male,72,Cat,Neutered Male,72,Domestic Shorthair,0.0,PM,2020-01-09
+Austin (TX),Owner Surrender,Normal,Neutered Male,72,Dog,Neutered Male,72,Chihuahua Shorthair,0.0,PM,2016-02-28
+Austin (TX),Stray,Nursing,Intact Male,0,Dog,Neutered Male,1,German Shepherd,0.0,AM,2019-12-02
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,AM,2015-06-19
+Austin (TX),Stray,Normal,Intact Male,4,Dog,Intact Male,4,rare_dog,0.0,PM,2017-10-26
+Pflugerville (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2019-07-30
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2014-08-26
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Cairn Terrier,0.0,PM,2014-12-16
+Pflugerville (TX),Owner Surrender,Normal,Neutered Male,24,Cat,Neutered Male,24,Domestic Shorthair,0.0,PM,2019-11-09
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2017-05-10
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,rare_dog,0.0,PM,2018-07-03
+Travis (TX),Stray,Normal,Intact Female,7,Dog,Spayed Female,8,rare_dog,0.0,PM,2019-04-03
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Longhair,0.0,PM,2019-05-14
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2015-10-11
+Jonestown (TX),Euthanasia Request,Sick,Neutered Male,192,Dog,Neutered Male,192,German Shepherd,1.0,PM,2015-10-04
+Manor (TX),Stray,Normal,Intact Female,2,Cat,Spayed Female,3,Domestic Medium Hair,0.0,AM,2018-07-30
+Manor (TX),Stray,Normal,Unknown,5,Cat,Unknown,5,Domestic Medium Hair,0.0,AM,2019-10-12
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2015-01-17
+Travis (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2016-11-17
+Austin (TX),Stray,Normal,Intact Male,0,Cat,Intact Male,0,Domestic Shorthair,0.0,PM,2014-08-28
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Pit Bull,0.0,PM,2014-11-16
+Del Valle (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2015-05-18
+Pflugerville (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Siamese,0.0,PM,2015-10-15
+Austin (TX),Owner Surrender,Normal,Intact Male,10,Dog,Neutered Male,11,Labrador Retriever,0.0,PM,2018-03-05
+Austin (TX),Stray,Normal,Unknown,1,Other,Unknown,1,rare,0.0,PM,2019-12-31
+Austin (TX),Wildlife,Normal,Unknown,36,Other,Unknown,36,Bat,1.0,PM,2014-10-27
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Intact Male,36,Jack Russell Terrier,0.0,PM,2017-11-27
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2015-10-05
+Travis (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,rare_dog,0.0,PM,2014-09-12
+Austin (TX),Stray,Injured,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2016-10-02
+Austin (TX),Euthanasia Request,Aged,Neutered Male,132,Dog,Neutered Male,132,Pit Bull,1.0,PM,2015-10-25
+Austin (TX),Stray,Normal,Intact Female,48,Dog,Spayed Female,48,Chihuahua Shorthair,0.0,PM,2014-07-09
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Medium Hair,0.0,PM,2017-12-02
+Austin (TX),Stray,Nursing,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2018-05-20
+Manor (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2015-09-29
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2019-10-02
+Austin (TX),Stray,Normal,Intact Male,36,Dog,Neutered Male,36,American Staffordshire Terrier,0.0,PM,2020-01-22
+Austin (TX),Public Assist,Normal,Intact Male,1,Dog,Intact Male,2,German Shepherd,0.0,AM,2020-01-16
+Austin (TX),Stray,Normal,Spayed Female,96,Dog,Spayed Female,96,Pit Bull,0.0,AM,2017-06-05
+Austin (TX),Public Assist,Normal,Intact Female,1,Dog,Spayed Female,1,Chihuahua Shorthair,0.0,PM,2015-04-29
+Austin (TX),Stray,Normal,Intact Female,3,Cat,Intact Female,3,Domestic Shorthair,0.0,PM,2017-06-09
+Austin (TX),Stray,Normal,Spayed Female,48,Cat,Spayed Female,48,Domestic Longhair,0.0,PM,2017-09-29
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Pointer,0.0,PM,2019-06-17
+Austin (TX),Stray,Normal,Intact Female,4,Dog,Spayed Female,5,Dachshund,0.0,PM,2014-01-08
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Raccoon,1.0,AM,2016-12-16
+Travis (TX),Stray,Normal,Spayed Female,5,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2019-08-29
+Travis (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2019-05-09
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Medium Hair,0.0,PM,2019-10-03
+Austin (TX),Stray,Injured,Spayed Female,36,Dog,Spayed Female,36,Chihuahua Shorthair,0.0,AM,2014-11-26
+Travis (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,rare_dog,0.0,PM,2018-09-24
+Austin (TX),Stray,Normal,Intact Male,4,Cat,Neutered Male,4,Domestic Shorthair,0.0,AM,2018-09-28
+Austin (TX),Stray,Other,Spayed Female,36,Cat,Spayed Female,36,Domestic Shorthair,0.0,AM,2017-05-02
+Travis (TX),Stray,Normal,Intact Female,36,Dog,Intact Female,36,rare_dog,0.0,AM,2019-07-12
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,PM,2017-03-02
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2018-10-24
+Austin (TX),Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,1,Pit Bull,0.0,AM,2018-04-02
+Travis (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2017-09-24
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,5,Domestic Shorthair,0.0,PM,2017-08-06
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Medium Hair,0.0,PM,2017-06-06
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2017-03-03
+Austin (TX),Stray,Normal,Spayed Female,84,Cat,Spayed Female,84,Domestic Shorthair,0.0,PM,2017-11-21
+Austin (TX),Owner Surrender,Normal,Intact Female,24,Dog,Spayed Female,24,Dachshund,0.0,PM,2019-06-07
+Austin (TX),Stray,Normal,Spayed Female,60,Dog,Spayed Female,60,Pit Bull,0.0,AM,2014-09-03
+Austin (TX),Stray,Normal,Neutered Male,36,Cat,Neutered Male,36,rare_cat,0.0,PM,2013-12-21
+Austin (TX),Owner Surrender,Normal,Neutered Male,60,Dog,Neutered Male,60,rare_dog,0.0,PM,2019-10-16
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2017-08-03
+Austin (TX),Stray,Normal,Neutered Male,48,Dog,Neutered Male,60,Miniature Poodle,0.0,PM,2015-03-11
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Intact Male,36,German Shepherd,0.0,PM,2016-02-26
+Austin (TX),Stray,Normal,Neutered Male,96,Dog,Neutered Male,96,rare_dog,0.0,PM,2013-12-29
+Austin (TX),Owner Surrender,Normal,Neutered Male,60,Dog,Neutered Male,60,Miniature Schnauzer,0.0,AM,2017-02-11
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Pit Bull,0.0,AM,2016-02-29
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2019-06-25
+Austin (TX),Stray,Normal,Intact Female,4,Dog,Intact Female,4,German Shepherd,0.0,PM,2013-10-14
+Austin (TX),Stray,Normal,Neutered Male,96,Dog,Neutered Male,96,Chihuahua Shorthair,0.0,PM,2016-10-15
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2016-09-05
+Austin (TX),Stray,Normal,Intact Male,9,Cat,Neutered Male,11,Domestic Shorthair,0.0,PM,2017-09-30
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,rare_dog,0.0,PM,2019-06-04
+Travis (TX),Stray,Injured,Intact Female,8,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2018-12-04
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Longhair,0.0,AM,2013-11-06
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,rare_dog,0.0,PM,2014-11-05
+Austin (TX),Public Assist,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2019-04-16
+Austin (TX),Wildlife,Sick,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2014-01-18
+Austin (TX),Stray,Sick,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2019-06-03
+Austin (TX),Stray,Normal,Intact Male,0,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2014-12-30
+Del Valle (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-04-28
+Austin (TX),Stray,Normal,Intact Female,60,Cat,Intact Female,60,Domestic Shorthair,0.0,PM,2017-11-07
+Austin (TX),Stray,Normal,Intact Female,36,Dog,Intact Female,36,rare_dog,0.0,PM,2019-04-12
+Austin (TX),Stray,Normal,Unknown,1,Other,Unknown,1,rare,0.0,AM,2018-05-06
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,AM,2014-05-04
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Pit Bull,0.0,PM,2019-12-01
+Austin (TX),Public Assist,Normal,Neutered Male,120,Dog,Neutered Male,120,rare_dog,0.0,AM,2016-02-11
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2016-10-17
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2018-05-05
+Austin (TX),Stray,Normal,Intact Female,48,Cat,Intact Female,48,Domestic Shorthair,0.0,PM,2014-02-11
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-05-21
+Austin (TX),Public Assist,Normal,Intact Male,36,Dog,Intact Male,36,American Staffordshire Terrier,0.0,PM,2017-04-28
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Raccoon,1.0,PM,2013-12-12
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,PM,2017-01-26
+Austin (TX),Stray,Normal,Intact Female,7,Dog,Spayed Female,8,rare_dog,0.0,PM,2019-03-26
+Austin (TX),Stray,Normal,Intact Female,6,Dog,Spayed Female,6,Chihuahua Shorthair,0.0,PM,2015-07-05
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Labrador Retriever,0.0,AM,2015-07-06
+Austin (TX),Owner Surrender,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2018-05-25
+Austin (TX),Stray,Normal,Neutered Male,60,Cat,Neutered Male,60,Siamese,0.0,PM,2014-03-02
+Del Valle (TX),Stray,Normal,Intact Male,0,Cat,Intact Male,0,Domestic Shorthair,0.0,AM,2014-04-29
+Pflugerville (TX),Stray,Nursing,Unknown,0,Cat,Unknown,0,Domestic Shorthair,0.0,AM,2016-03-18
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Intact Female,3,rare_dog,0.0,PM,2014-10-14
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Pit Bull,0.0,PM,2016-05-05
+Austin (TX),Public Assist,Normal,Spayed Female,132,Dog,Spayed Female,132,rare_dog,0.0,PM,2015-03-30
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2018-08-10
+Austin (TX),Stray,Normal,Intact Male,7,Dog,Intact Male,7,Pit Bull,0.0,AM,2017-05-15
+Austin (TX),Stray,Normal,Unknown,24,Cat,Unknown,24,Domestic Shorthair,0.0,AM,2014-06-29
+Austin (TX),Owner Surrender,Normal,Spayed Female,156,Dog,Spayed Female,156,Labrador Retriever,0.0,PM,2018-02-16
+Austin (TX),Stray,Injured,Unknown,3,Cat,Unknown,3,Domestic Shorthair,1.0,AM,2017-06-17
+Austin (TX),Stray,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2017-05-18
+Austin (TX),Stray,Normal,Unknown,24,Cat,Unknown,24,Domestic Shorthair,0.0,PM,2019-04-22
+Austin (TX),Owner Surrender,Normal,Neutered Male,144,Cat,Neutered Male,156,Domestic Shorthair,0.0,PM,2018-05-09
+Austin (TX),Stray,Sick,Intact Male,6,Dog,Intact Male,6,rare_dog,1.0,PM,2017-09-15
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2016-10-10
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Australian Cattle Dog,0.0,PM,2019-02-11
+Leander (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,rare_cat,0.0,PM,2014-05-13
+Austin (TX),Stray,Normal,Spayed Female,204,Cat,Spayed Female,204,Siamese,0.0,PM,2015-07-01
+Austin (TX),Stray,Nursing,Intact Female,0,Cat,Spayed Female,1,Domestic Shorthair,0.0,AM,2019-04-11
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Spayed Female,3,Domestic Shorthair,0.0,AM,2019-07-16
+Outside Jurisdiction,Owner Surrender,Normal,Spayed Female,48,Dog,Spayed Female,48,Labrador Retriever,0.0,AM,2017-03-12
+Austin (TX),Stray,Normal,Neutered Male,72,Dog,Neutered Male,72,Pit Bull,0.0,AM,2015-11-28
+Mustang Ridge (TX),Stray,Normal,Intact Female,48,Dog,Spayed Female,48,rare_dog,0.0,PM,2017-05-10
+Austin (TX),Stray,Normal,Neutered Male,48,Cat,Neutered Male,48,Domestic Longhair,0.0,AM,2014-04-25
+Austin (TX),Stray,Normal,Intact Male,10,Dog,Neutered Male,11,Australian Cattle Dog,0.0,PM,2015-09-29
+Austin (TX),Stray,Normal,Spayed Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2014-02-03
+Austin (TX),Stray,Normal,Intact Male,9,Dog,Neutered Male,9,Chihuahua Shorthair,0.0,AM,2017-04-06
+Travis (TX),Stray,Normal,Intact Female,4,Dog,Spayed Female,5,Pointer,0.0,PM,2014-06-04
+Manor (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Miniature Poodle,0.0,PM,2017-05-11
+Austin (TX),Owner Surrender,Normal,Intact Female,2,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2017-10-01
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Intact Male,2,Domestic Shorthair,0.0,AM,2013-12-03
+Cedar Park (TX),Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,4,Australian Cattle Dog,0.0,AM,2017-09-13
+Austin (TX),Owner Surrender,Normal,Neutered Male,48,Cat,Neutered Male,48,Domestic Medium Hair,0.0,PM,2014-05-21
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2014-05-02
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,3,Chihuahua Shorthair,0.0,PM,2017-07-19
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Labrador Retriever,0.0,PM,2019-11-22
+Del Valle (TX),Stray,Normal,Intact Male,48,Dog,Neutered Male,48,rare_dog,0.0,AM,2016-04-20
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2019-05-27
+Austin (TX),Stray,Normal,Intact Male,9,Dog,Neutered Male,10,German Shepherd,0.0,PM,2017-09-27
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2019-05-04
+Austin (TX),Wildlife,Injured,Unknown,1,Other,Unknown,1,rare,1.0,PM,2015-06-12
+Austin (TX),Owner Surrender,Normal,Neutered Male,48,Dog,Neutered Male,48,rare_dog,0.0,AM,2017-04-22
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2019-04-16
+Austin (TX),Owner Surrender,Normal,Spayed Female,192,Cat,Spayed Female,192,Domestic Shorthair,1.0,PM,2017-08-20
+Travis (TX),Stray,Normal,Spayed Female,48,Dog,Spayed Female,48,Australian Cattle Dog,0.0,PM,2019-10-05
+Austin (TX),Owner Surrender,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2019-08-16
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,Dachshund,0.0,PM,2015-06-29
+Travis (TX),Owner Surrender,Normal,Intact Male,5,Cat,Neutered Male,5,Domestic Shorthair,0.0,PM,2015-08-04
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,AM,2014-07-20
+Austin (TX),Stray,Normal,Spayed Female,168,Dog,Spayed Female,180,Miniature Poodle,0.0,AM,2016-10-23
+Austin (TX),Owner Surrender,Normal,Intact Male,36,Dog,Intact Male,36,rare_dog,1.0,PM,2018-05-05
+Austin (TX),Owner Surrender,Normal,Intact Male,7,Dog,Intact Male,7,rare_dog,0.0,PM,2013-12-23
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2019-05-08
+Travis (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,Pit Bull,0.0,PM,2015-04-22
+Travis (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,AM,2019-12-25
+Austin (TX),Public Assist,Normal,Spayed Female,228,Dog,Spayed Female,228,Labrador Retriever,0.0,PM,2016-09-28
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,AM,2014-10-31
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,Chihuahua Longhair,0.0,AM,2019-12-14
+Austin (TX),Owner Surrender,Sick,Neutered Male,1,Dog,Neutered Male,1,Cairn Terrier,0.0,AM,2019-08-23
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2019-09-15
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Pit Bull,0.0,PM,2016-07-03
+Austin (TX),Public Assist,Aged,Neutered Male,204,Dog,Neutered Male,204,Chihuahua Shorthair,0.0,PM,2016-09-28
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,PM,2016-05-23
+Austin (TX),Owner Surrender,Normal,Intact Male,60,Dog,Neutered Male,60,rare_dog,0.0,PM,2019-02-13
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-08-30
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2016-06-05
+Austin (TX),Owner Surrender,Normal,Neutered Male,36,Dog,Neutered Male,36,rare_dog,0.0,PM,2019-09-20
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,Labrador Retriever,0.0,PM,2017-06-07
+Austin (TX),Owner Surrender,Normal,Spayed Female,72,Dog,Spayed Female,72,Chihuahua Shorthair,0.0,AM,2016-06-16
+Pflugerville (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2015-06-24
+Austin (TX),Stray,Normal,Neutered Male,84,Dog,Neutered Male,84,rare_dog,0.0,PM,2017-09-08
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,5,German Shepherd,0.0,PM,2016-05-18
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2019-11-30
+Leander (TX),Owner Surrender,Normal,Intact Female,4,Cat,Spayed Female,4,Domestic Shorthair,0.0,AM,2015-08-22
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2016-03-14
+Austin (TX),Stray,Normal,Intact Female,48,Dog,Spayed Female,48,Australian Cattle Dog,0.0,PM,2018-07-09
+Austin (TX),Stray,Injured,Intact Male,6,Cat,Neutered Male,6,Domestic Medium Hair,0.0,AM,2013-11-05
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Pit Bull,0.0,AM,2015-06-11
+Austin (TX),Public Assist,Normal,Neutered Male,48,Dog,Neutered Male,48,rare_dog,0.0,AM,2016-11-15
+Manor (TX),Stray,Normal,Intact Female,8,Dog,Intact Female,8,Catahoula,0.0,PM,2014-01-04
+Austin (TX),Owner Surrender,Sick,Neutered Male,36,Cat,Neutered Male,36,Domestic Shorthair,0.0,PM,2014-03-20
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,PM,2016-05-11
+Outside Jurisdiction,Public Assist,Normal,Intact Male,24,Dog,Intact Male,24,Labrador Retriever,0.0,PM,2017-09-01
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,4,rare_dog,0.0,PM,2019-12-02
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Raccoon,1.0,PM,2014-06-09
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2015-06-13
+Austin (TX),Stray,Nursing,Intact Female,1,Dog,Spayed Female,1,Australian Cattle Dog,0.0,PM,2018-02-13
+Williamson (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Miniature Schnauzer,0.0,AM,2019-09-11
+Austin (TX),Public Assist,Normal,Intact Male,6,Dog,Intact Male,6,Labrador Retriever,0.0,PM,2017-09-13
+Manor (TX),Public Assist,Normal,Neutered Male,24,Dog,Neutered Male,24,German Shepherd,0.0,PM,2018-11-20
+Travis (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,AM,2019-03-26
+Austin (TX),Wildlife,Injured,Unknown,24,Other,Unknown,24,Raccoon,1.0,AM,2019-06-07
+Austin (TX),Stray,Normal,Intact Male,3,Cat,Neutered Male,3,Domestic Longhair,0.0,PM,2017-11-05
+Travis (TX),Stray,Sick,Intact Male,2,Cat,Neutered Male,5,Domestic Shorthair,0.0,PM,2016-07-13
+Austin (TX),Wildlife,Sick,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2018-09-18
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2016-05-05
+Austin (TX),Stray,Normal,Intact Male,36,Cat,Intact Male,36,Domestic Shorthair,0.0,PM,2015-05-28
+Austin (TX),Stray,Normal,Spayed Female,96,Cat,Spayed Female,96,rare_cat,1.0,PM,2013-10-30
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,3,Domestic Shorthair,0.0,AM,2015-05-21
+Travis (TX),Stray,Normal,Intact Female,6,Dog,Spayed Female,7,Pit Bull,0.0,PM,2015-03-02
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Intact Female,3,Domestic Longhair,0.0,PM,2017-11-02
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2015-05-22
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Medium Hair,0.0,AM,2016-08-03
+Austin (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,Labrador Retriever,0.0,PM,2013-12-15
+Manor (TX),Stray,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2017-04-14
+Austin (TX),Stray,Normal,Neutered Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,PM,2017-05-24
+Pflugerville (TX),Stray,Normal,Intact Male,48,Dog,Intact Male,48,rare_dog,0.0,PM,2014-07-18
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Medium Hair,0.0,PM,2014-05-03
+Austin (TX),Stray,Normal,Intact Male,96,Dog,Intact Male,96,Pit Bull,1.0,PM,2014-03-26
+Austin (TX),Stray,Normal,Neutered Male,6,Dog,Neutered Male,6,rare_dog,0.0,PM,2016-10-15
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Chihuahua Shorthair,0.0,AM,2017-07-29
+Austin (TX),Stray,Sick,Intact Female,5,Cat,Intact Female,6,Domestic Shorthair,0.0,PM,2014-04-12
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2016-08-22
+Austin (TX),Public Assist,Feral,Neutered Male,48,Cat,Neutered Male,48,Domestic Shorthair,0.0,AM,2015-07-30
+Austin (TX),Stray,Normal,Spayed Female,108,Cat,Spayed Female,108,Domestic Shorthair,0.0,PM,2014-10-06
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2015-08-01
+Travis (TX),Stray,Normal,Intact Male,36,Cat,Intact Male,36,Domestic Shorthair,0.0,PM,2014-06-09
+Austin (TX),Public Assist,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,AM,2019-03-26
+Austin (TX),Owner Surrender,Sick,Spayed Female,120,Dog,Spayed Female,120,Chihuahua Shorthair,1.0,PM,2015-01-06
+Austin (TX),Stray,Injured,Neutered Male,48,Cat,Neutered Male,48,Domestic Medium Hair,0.0,AM,2018-01-06
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2014-09-29
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,0.0,PM,2019-04-04
+Austin (TX),Owner Surrender,Normal,Spayed Female,108,Cat,Spayed Female,108,Domestic Medium Hair,0.0,PM,2018-05-30
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Intact Female,2,Chihuahua Shorthair,0.0,AM,2017-09-29
+Austin (TX),Stray,Normal,Intact Male,4,Cat,Neutered Male,4,Domestic Shorthair,0.0,PM,2016-08-19
+Austin (TX),Stray,Injured,Neutered Male,72,Dog,Neutered Male,72,Labrador Retriever,0.0,PM,2017-01-21
+Austin (TX),Stray,Normal,Neutered Male,1,Cat,Neutered Male,24,Domestic Shorthair,0.0,AM,2014-04-05
+Travis (TX),Owner Surrender,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2016-10-12
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-04-03
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2019-04-20
+Austin (TX),Stray,Normal,Neutered Male,96,Dog,Neutered Male,96,rare_dog,0.0,PM,2015-08-31
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,AM,2015-11-04
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,AM,2017-01-14
+Travis (TX),Stray,Sick,Intact Female,1,Cat,Intact Female,1,Siamese,0.0,AM,2019-06-12
+Travis (TX),Stray,Nursing,Intact Male,8,Dog,Intact Male,9,German Shepherd,0.0,PM,2015-06-13
+Austin (TX),Stray,Injured,Intact Male,4,Cat,Neutered Male,4,Siamese,0.0,PM,2015-12-13
+Austin (TX),Owner Surrender,Normal,Neutered Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2018-11-27
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,rare_dog,0.0,AM,2015-06-09
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2019-09-20
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Medium Hair,0.0,AM,2018-01-05
+Travis (TX),Stray,Nursing,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-07-22
+Austin (TX),Owner Surrender,Normal,Intact Male,10,Cat,Neutered Male,1,Domestic Shorthair,0.0,PM,2016-09-23
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,rare_dog,0.0,PM,2013-11-02
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,Chihuahua Shorthair,0.0,PM,2013-12-20
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,2,Domestic Shorthair,0.0,PM,2016-08-23
+Austin (TX),Owner Surrender,Normal,Intact Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2015-04-27
+Austin (TX),Stray,Normal,Intact Female,2,Dog,Spayed Female,2,rare_dog,0.0,PM,2019-02-13
+Austin (TX),Stray,Normal,Spayed Female,4,Cat,Spayed Female,4,Domestic Shorthair,0.0,AM,2017-12-28
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Miniature Schnauzer,0.0,AM,2013-12-06
+Austin (TX),Stray,Normal,Intact Female,9,Dog,Spayed Female,10,rare_dog,0.0,PM,2018-05-22
+Austin (TX),Public Assist,Normal,Intact Male,4,Dog,Intact Male,4,Dachshund,0.0,PM,2017-03-15
+Pflugerville (TX),Owner Surrender,Normal,Spayed Female,72,Dog,Spayed Female,72,rare_dog,0.0,AM,2014-12-13
+Austin (TX),Owner Surrender,Normal,Spayed Female,60,Cat,Spayed Female,60,Domestic Shorthair,0.0,PM,2018-03-18
+Del Valle (TX),Stray,Nursing,Intact Female,0,Dog,Spayed Female,2,Cairn Terrier,0.0,AM,2018-07-03
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2016-05-12
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2016-03-27
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Medium Hair,0.0,PM,2019-06-01
+Austin (TX),Stray,Normal,Spayed Female,24,Dog,Spayed Female,24,rare_dog,0.0,AM,2014-05-26
+Austin (TX),Stray,Normal,Spayed Female,6,Dog,Spayed Female,6,German Shepherd,0.0,PM,2015-11-22
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2016-10-18
+Austin (TX),Stray,Normal,Intact Female,96,Dog,Intact Female,96,rare_dog,0.0,PM,2017-02-05
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2015-06-13
+Austin (TX),Owner Surrender,Normal,Intact Female,2,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2016-07-17
+Austin (TX),Owner Surrender,Normal,Spayed Female,36,Dog,Spayed Female,36,Australian Shepherd,0.0,AM,2018-11-10
+Austin (TX),Stray,Normal,Neutered Male,84,Dog,Neutered Male,84,Dachshund,0.0,AM,2015-08-24
+Manor (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Pointer,0.0,PM,2015-05-19
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Intact Female,24,Chihuahua Shorthair,0.0,AM,2017-10-13
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,Pit Bull,0.0,PM,2019-10-14
+Austin (TX),Owner Surrender,Normal,Spayed Female,36,Cat,Spayed Female,36,Domestic Shorthair,0.0,PM,2016-03-31
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2017-05-13
+Austin (TX),Stray,Normal,Unknown,24,Other,Unknown,24,Raccoon,1.0,PM,2017-02-23
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2018-04-20
+Travis (TX),Stray,Injured,Unknown,24,Cat,Unknown,24,Domestic Shorthair,1.0,PM,2015-04-03
+Austin (TX),Stray,Nursing,Intact Female,0,Dog,Intact Female,0,Pit Bull,0.0,AM,2014-01-04
+Austin (TX),Stray,Normal,Neutered Male,36,Dog,Neutered Male,36,rare_dog,1.0,AM,2013-10-08
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Bat,1.0,PM,2016-03-30
+Austin (TX),Stray,Normal,Intact Male,144,Dog,Intact Male,144,Miniature Poodle,0.0,PM,2015-02-10
+Austin (TX),Stray,Normal,Intact Male,5,Dog,Intact Male,5,German Shepherd,0.0,AM,2016-07-01
+Austin (TX),Stray,Sick,Intact Male,1,Cat,Intact Male,1,Domestic Longhair,0.0,AM,2019-07-28
+Austin (TX),Wildlife,Sick,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2018-12-23
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Longhair,0.0,AM,2017-06-16
+Travis (TX),Owner Surrender,Normal,Intact Male,48,Other,Neutered Male,48,rare,0.0,PM,2017-11-06
+Austin (TX),Stray,Normal,Neutered Male,96,Other,Neutered Male,96,rare,0.0,PM,2020-01-25
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,rare_dog,0.0,PM,2019-02-18
+Austin (TX),Stray,Normal,Unknown,24,Cat,Unknown,24,Domestic Longhair,0.0,PM,2014-07-29
+Austin (TX),Owner Surrender,Normal,Intact Female,2,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2018-02-19
+Austin (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Longhair,0.0,PM,2014-08-04
+Austin (TX),Stray,Normal,Intact Female,48,Dog,Spayed Female,48,Miniature Poodle,0.0,PM,2016-06-18
+Travis (TX),Stray,Sick,Intact Male,2,Dog,Neutered Male,2,Labrador Retriever,0.0,PM,2015-04-20
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,AM,2016-10-30
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Medium Hair,0.0,AM,2020-01-25
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2014-04-04
+Austin (TX),Owner Surrender,Normal,Neutered Male,180,Cat,Neutered Male,180,Domestic Shorthair,0.0,PM,2016-04-07
+Austin (TX),Stray,Normal,Spayed Female,60,Dog,Spayed Female,60,Miniature Poodle,0.0,PM,2016-02-13
+Austin (TX),Owner Surrender,Normal,Neutered Male,72,Dog,Neutered Male,72,Chihuahua Shorthair,0.0,AM,2017-04-05
+Austin (TX),Owner Surrender,Normal,Intact Female,36,Other,Intact Female,36,rare,0.0,AM,2014-08-05
+Austin (TX),Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,1,German Shepherd,0.0,AM,2015-04-11
+Austin (TX),Stray,Normal,Intact Female,10,Dog,Spayed Female,10,Chihuahua Longhair,0.0,PM,2018-02-11
+Travis (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,Labrador Retriever,0.0,AM,2016-11-04
+Austin (TX),Owner Surrender,Normal,Spayed Female,108,Cat,Spayed Female,108,Domestic Shorthair,0.0,PM,2016-06-15
+Austin (TX),Stray,Normal,Neutered Male,132,Dog,Neutered Male,132,Australian Shepherd,0.0,PM,2018-01-28
+Austin (TX),Stray,Normal,Intact Male,96,Dog,Neutered Male,96,Dachshund,0.0,AM,2015-09-29
+Austin (TX),Stray,Normal,Intact Female,0,Dog,Intact Female,1,Pit Bull,0.0,AM,2018-03-21
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2016-08-01
+Manor (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,rare_dog,0.0,AM,2019-11-20
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,American Staffordshire Terrier,1.0,PM,2014-09-15
+Austin (TX),Stray,Normal,Intact Male,1,Other,Neutered Male,1,rare,0.0,PM,2017-07-07
+Manor (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Australian Cattle Dog,0.0,PM,2015-06-27
+Austin (TX),Stray,Injured,Intact Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2014-02-09
+Travis (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,2,Domestic Medium Hair,0.0,PM,2019-06-10
+Austin (TX),Stray,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2016-05-21
+Travis (TX),Stray,Normal,Intact Male,2,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2015-07-25
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2019-05-26
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Intact Male,24,Miniature Poodle,0.0,PM,2018-01-18
+Travis (TX),Stray,Nursing,Unknown,1,Dog,Unknown,1,Chihuahua Shorthair,0.0,PM,2018-03-09
+Outside Jurisdiction,Public Assist,Normal,Intact Female,6,Dog,Intact Female,7,Labrador Retriever,0.0,PM,2017-09-03
+Austin (TX),Public Assist,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2019-12-29
+Austin (TX),Stray,Sick,Intact Female,24,Dog,Spayed Female,24,Chihuahua Shorthair,0.0,PM,2014-09-21
+Austin (TX),Owner Surrender,Normal,Intact Male,5,Cat,Intact Male,5,Domestic Shorthair,1.0,AM,2019-09-14
+Austin (TX),Stray,Normal,Unknown,6,Cat,Unknown,6,Domestic Shorthair,0.0,PM,2019-02-06
+Austin (TX),Owner Surrender,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,PM,2016-09-15
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,Pit Bull,0.0,AM,2013-12-28
+Manor (TX),Owner Surrender,Normal,Intact Female,3,Cat,Spayed Female,3,Domestic Shorthair,0.0,PM,2015-06-22
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,2,Chihuahua Longhair,0.0,AM,2013-11-18
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Miniature Poodle,0.0,PM,2019-08-21
+Austin (TX),Stray,Aged,Intact Male,60,Dog,Intact Male,60,Chihuahua Shorthair,0.0,PM,2016-01-18
+Del Valle (TX),Stray,Other,Intact Male,120,Dog,Intact Male,120,rare_dog,1.0,PM,2013-10-11
+Travis (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2016-04-21
+Austin (TX),Owner Surrender,Normal,Intact Female,24,Dog,Intact Female,24,rare_dog,0.0,PM,2018-03-02
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2013-12-06
+Austin (TX),Stray,Nursing,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2018-04-06
+Travis (TX),Stray,Normal,Neutered Male,120,Dog,Neutered Male,120,Miniature Schnauzer,0.0,PM,2019-08-06
+Travis (TX),Owner Surrender,Injured,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2017-05-11
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,AM,2017-08-24
+Austin (TX),Stray,Injured,Intact Female,1,Cat,Spayed Female,1,Domestic Longhair,0.0,PM,2016-10-23
+Travis (TX),Owner Surrender,Normal,Spayed Female,36,Dog,Spayed Female,36,Chihuahua Shorthair,0.0,PM,2019-09-21
+Lago Vista (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,Labrador Retriever,0.0,PM,2016-10-13
+Austin (TX),Stray,Normal,Spayed Female,48,Dog,Spayed Female,48,rare_dog,0.0,AM,2014-10-25
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2015-09-06
+Austin (TX),Stray,Normal,Intact Female,3,Cat,Spayed Female,3,Domestic Shorthair,0.0,AM,2016-07-28
+Austin (TX),Owner Surrender,Normal,Neutered Male,11,Dog,Neutered Male,11,Pit Bull,0.0,PM,2016-11-22
+Austin (TX),Stray,Normal,Spayed Female,132,Dog,Spayed Female,132,rare_dog,0.0,PM,2017-08-07
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,rare_dog,0.0,AM,2016-06-11
+Bee Cave (TX),Stray,Normal,Intact Male,48,Dog,Neutered Male,48,Jack Russell Terrier,0.0,PM,2015-05-06
+Austin (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,AM,2015-09-10
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2018-01-02
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-07-03
+Austin (TX),Owner Surrender,Normal,Spayed Female,72,Dog,Spayed Female,72,Pit Bull,1.0,AM,2014-01-25
+Austin (TX),Owner Surrender,Normal,Intact Female,4,Dog,Intact Female,5,rare_dog,0.0,AM,2019-05-11
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,24,Domestic Shorthair,0.0,PM,2019-01-09
+Travis (TX),Stray,Nursing,Intact Female,24,Dog,Spayed Female,24,Pit Bull,0.0,AM,2016-05-21
+Austin (TX),Owner Surrender,Sick,Spayed Female,7,Cat,Spayed Female,7,Domestic Shorthair,0.0,PM,2019-01-18
+Austin (TX),Stray,Normal,Neutered Male,60,Dog,Neutered Male,60,Chihuahua Shorthair,0.0,PM,2017-08-02
+Austin (TX),Owner Surrender,Sick,Neutered Male,1,Dog,Neutered Male,1,Pit Bull,0.0,AM,2016-12-11
+Austin (TX),Public Assist,Nursing,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2019-07-06
+Austin (TX),Public Assist,Sick,Intact Male,1,Cat,Intact Male,1,Siamese,0.0,AM,2016-08-13
+Austin (TX),Owner Surrender,Normal,Spayed Female,48,Dog,Spayed Female,48,Pit Bull,0.0,PM,2017-08-24
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2015-09-10
+Austin (TX),Stray,Injured,Intact Female,2,Cat,Spayed Female,6,Domestic Shorthair,0.0,PM,2019-05-11
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,rare_dog,0.0,AM,2019-12-09
+Travis (TX),Owner Surrender,Normal,Neutered Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,AM,2017-04-25
+Austin (TX),Owner Surrender,Normal,Intact Female,2,Dog,Spayed Female,2,rare_dog,0.0,PM,2018-07-10
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Medium Hair,0.0,PM,2014-07-15
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Dog,Neutered Male,2,Chihuahua Shorthair,0.0,AM,2019-05-01
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2017-10-25
+Austin (TX),Stray,Normal,Neutered Male,108,Dog,Neutered Male,108,rare_dog,0.0,PM,2016-04-27
+Austin (TX),Owner Surrender,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,AM,2014-02-19
+Pflugerville (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2013-11-08
+Austin (TX),Owner Surrender,Normal,Neutered Male,60,Dog,Neutered Male,60,German Shepherd,0.0,AM,2016-03-26
+Austin (TX),Stray,Normal,Neutered Male,72,Dog,Neutered Male,72,rare_dog,0.0,PM,2020-01-19
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Labrador Retriever,0.0,AM,2017-01-15
+Austin (TX),Stray,Normal,Intact Male,0,Cat,Intact Male,0,Domestic Shorthair,0.0,AM,2016-04-28
+Austin (TX),Public Assist,Normal,Neutered Male,60,Dog,Neutered Male,72,Chihuahua Shorthair,0.0,PM,2017-12-24
+Austin (TX),Stray,Normal,Spayed Female,48,Cat,Spayed Female,48,Domestic Shorthair,0.0,PM,2017-07-16
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,PM,2014-02-10
+Pflugerville (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2015-07-22
+Austin (TX),Owner Surrender,Normal,Spayed Female,7,Dog,Spayed Female,7,Labrador Retriever,0.0,AM,2016-04-19
+Austin (TX),Stray,Normal,Intact Female,11,Cat,Intact Female,11,Domestic Shorthair,0.0,PM,2018-06-13
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,AM,2017-05-18
+Austin (TX),Stray,Normal,Spayed Female,168,Dog,Spayed Female,168,Miniature Schnauzer,0.0,PM,2019-04-08
+Manor (TX),Public Assist,Sick,Neutered Male,96,Dog,Neutered Male,96,Miniature Schnauzer,0.0,AM,2015-07-06
+Austin (TX),Stray,Normal,Neutered Male,7,Cat,Neutered Male,8,Domestic Shorthair,0.0,AM,2018-10-09
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,rare_dog,0.0,PM,2019-02-21
+Austin (TX),Stray,Nursing,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2019-03-20
+Austin (TX),Owner Surrender,Normal,Intact Female,6,Dog,Intact Female,7,Pit Bull,0.0,AM,2017-06-29
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,rare_dog,0.0,PM,2017-05-26
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,2,Domestic Shorthair,0.0,PM,2014-06-01
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2017-11-30
+Travis (TX),Stray,Normal,Intact Female,1,Dog,Intact Female,1,Chihuahua Shorthair,1.0,PM,2013-10-14
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2015-08-07
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,3,Domestic Shorthair,0.0,PM,2016-05-31
+Austin (TX),Stray,Normal,Intact Male,96,Dog,Neutered Male,96,German Shepherd,0.0,PM,2016-01-05
+Austin (TX),Stray,Normal,Intact Female,0,Cat,Spayed Female,3,rare_cat,0.0,PM,2014-07-04
+Austin (TX),Stray,Normal,Intact Male,0,Cat,Intact Male,2,Domestic Shorthair,0.0,PM,2014-03-17
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,PM,2014-06-15
+Austin (TX),Owner Surrender,Normal,Spayed Female,7,Dog,Spayed Female,8,rare_dog,0.0,PM,2017-02-02
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,1.0,PM,2015-06-01
+Austin (TX),Owner Surrender,Normal,Spayed Female,144,Dog,Spayed Female,144,rare_dog,0.0,PM,2018-04-07
+Austin (TX),Wildlife,Injured,Intact Female,1,Other,Intact Female,1,rare,1.0,PM,2015-03-22
+Austin (TX),Wildlife,Normal,Unknown,1,Other,Unknown,1,Raccoon,1.0,PM,2014-11-29
+Austin (TX),Stray,Normal,Unknown,0,Cat,Unknown,0,Domestic Shorthair,0.0,PM,2016-04-23
+Austin (TX),Stray,Normal,Neutered Male,36,Dog,Neutered Male,36,Chihuahua Shorthair,0.0,AM,2017-09-18
+Austin (TX),Public Assist,Normal,Intact Male,24,Dog,Neutered Male,24,Pit Bull,0.0,PM,2019-03-28
+Austin (TX),Stray,Normal,Intact Male,4,Dog,Intact Male,5,Catahoula,0.0,AM,2018-11-25
+Austin (TX),Owner Surrender,Normal,Neutered Male,2,Dog,Neutered Male,2,Australian Cattle Dog,0.0,PM,2015-10-30
+Austin (TX),Stray,Other,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,AM,2018-05-11
+Austin (TX),Owner Surrender,Normal,Intact Female,2,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2017-01-16
+Austin (TX),Stray,Injured,Intact Female,1,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2019-10-13
+Austin (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,3,Chihuahua Longhair,0.0,PM,2014-09-19
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,2,Boxer,0.0,PM,2015-06-15
+Austin (TX),Owner Surrender,Normal,Spayed Female,156,Cat,Spayed Female,168,Domestic Longhair,0.0,AM,2014-02-11
+Austin (TX),Stray,Normal,Neutered Male,36,Dog,Neutered Male,36,Pit Bull,0.0,PM,2019-04-20
+Austin (TX),Wildlife,Normal,Unknown,5,Other,Unknown,5,Bat,1.0,PM,2014-08-03
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Australian Cattle Dog,0.0,PM,2019-09-03
+Lago Vista (TX),Stray,Nursing,Intact Female,1,Dog,Intact Female,1,rare_dog,0.0,PM,2014-04-27
+Austin (TX),Stray,Normal,Intact Female,2,Cat,Intact Female,2,Domestic Shorthair,0.0,PM,2015-08-26
+Austin (TX),Stray,Normal,Intact Female,1,Dog,Spayed Female,1,Labrador Retriever,0.0,PM,2016-07-09
+Travis (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,2,Domestic Shorthair,0.0,AM,2016-10-20
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2019-05-30
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Longhair,0.0,AM,2018-06-08
+Austin (TX),Stray,Normal,Intact Female,36,Dog,Spayed Female,36,rare_dog,0.0,PM,2015-02-16
+Austin (TX),Stray,Nursing,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2014-10-23
+Leander (TX),Owner Surrender,Normal,Intact Female,2,Dog,Spayed Female,2,Pit Bull,0.0,PM,2014-09-08
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,PM,2018-05-26
+Austin (TX),Owner Surrender,Normal,Neutered Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2017-11-04
+Pflugerville (TX),Stray,Normal,Intact Female,3,Dog,Spayed Female,4,Labrador Retriever,0.0,PM,2017-04-07
+Austin (TX),Stray,Normal,Neutered Male,60,Dog,Neutered Male,60,Catahoula,0.0,PM,2016-10-01
+Austin (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,German Shepherd,0.0,PM,2017-12-07
+Austin (TX),Owner Surrender,Normal,Spayed Female,24,Dog,Spayed Female,24,Labrador Retriever,0.0,PM,2014-07-21
+Austin (TX),Owner Surrender,Normal,Neutered Male,36,Dog,Neutered Male,36,Chihuahua Longhair,0.0,AM,2016-05-25
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,8,Domestic Shorthair,0.0,PM,2015-05-21
+Austin (TX),Stray,Nursing,Unknown,0,Cat,Unknown,0,Domestic Shorthair,0.0,PM,2016-05-01
+Austin (TX),Wildlife,Sick,Unknown,1,Other,Unknown,1,rare,1.0,PM,2014-03-22
+Austin (TX),Stray,Normal,Neutered Male,24,Dog,Neutered Male,24,rare_dog,0.0,AM,2019-12-31
+Austin (TX),Public Assist,Normal,Intact Male,24,Dog,Intact Male,24,Pit Bull,0.0,PM,2014-08-06
+Austin (TX),Owner Surrender,Normal,Intact Female,3,Cat,Spayed Female,5,Domestic Shorthair,0.0,AM,2016-07-11
+Austin (TX),Stray,Injured,Intact Female,24,Cat,Intact Female,24,Domestic Shorthair,1.0,AM,2015-11-08
+Austin (TX),Stray,Injured,Intact Male,4,Dog,Neutered Male,5,Jack Russell Terrier,0.0,PM,2017-06-03
+Austin (TX),Stray,Normal,Intact Male,36,Dog,Neutered Male,36,Pit Bull,0.0,PM,2013-10-08
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-02-25
+Austin (TX),Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,1,rare_dog,0.0,AM,2019-08-04
+Travis (TX),Stray,Normal,Intact Female,11,Dog,Intact Female,1,Australian Shepherd,0.0,PM,2015-12-02
+Austin (TX),Owner Surrender,Normal,Neutered Male,108,Dog,Neutered Male,108,Dachshund,0.0,PM,2018-08-18
+Austin (TX),Wildlife,Normal,Unknown,24,Other,Unknown,24,Bat,1.0,PM,2017-03-16
+Austin (TX),Stray,Normal,Spayed Female,36,Dog,Spayed Female,36,rare_dog,0.0,AM,2017-10-22
+Austin (TX),Owner Surrender,Normal,Intact Female,4,Cat,Spayed Female,4,Domestic Shorthair,0.0,PM,2019-12-02
+Travis (TX),Stray,Sick,Intact Male,2,Cat,Intact Male,3,Domestic Shorthair,0.0,PM,2014-07-24
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2016-08-31
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2017-09-11
+Austin (TX),Stray,Normal,Intact Male,10,Dog,Intact Male,10,Chihuahua Shorthair,0.0,PM,2016-05-11
+Austin (TX),Stray,Sick,Spayed Female,60,Cat,Spayed Female,60,Domestic Shorthair,1.0,AM,2018-04-18
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2019-06-17
+Austin (TX),Euthanasia Request,Sick,Intact Male,48,Dog,Intact Male,48,Pit Bull,1.0,AM,2015-08-08
+Austin (TX),Owner Surrender,Normal,Neutered Male,10,Dog,Neutered Male,10,Chihuahua Shorthair,0.0,PM,2019-04-01
+Austin (TX),Owner Surrender,Normal,Spayed Female,36,Dog,Spayed Female,36,Pit Bull,0.0,PM,2014-11-06
+Austin (TX),Public Assist,Normal,Intact Male,0,Dog,Intact Male,0,rare_dog,0.0,PM,2015-05-29
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,2,German Shepherd,0.0,PM,2019-06-02
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Medium Hair,0.0,PM,2016-09-14
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,rare_dog,0.0,PM,2017-08-16
+Travis (TX),Public Assist,Normal,Spayed Female,36,Dog,Spayed Female,36,Australian Cattle Dog,0.0,PM,2017-07-27
+Austin (TX),Stray,Normal,Intact Female,9,Dog,Spayed Female,10,rare_dog,0.0,AM,2019-09-19
+Manor (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,Boxer,0.0,PM,2015-10-03
+Austin (TX),Owner Surrender,Aged,Neutered Male,144,Cat,Neutered Male,144,Domestic Shorthair,0.0,AM,2016-10-11
+Austin (TX),Stray,Injured,Intact Male,1,Cat,Neutered Male,1,Domestic Shorthair,0.0,AM,2018-04-30
+Austin (TX),Owner Surrender,Normal,Intact Male,24,Dog,Neutered Male,36,Pit Bull,0.0,PM,2017-11-04
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2018-06-03
+Austin (TX),Owner Surrender,Normal,Neutered Male,72,Dog,Neutered Male,72,Cairn Terrier,0.0,PM,2013-12-08
+Austin (TX),Stray,Injured,Spayed Female,180,Cat,Spayed Female,180,Domestic Shorthair,0.0,PM,2017-04-20
+Austin (TX),Stray,Normal,Spayed Female,84,Dog,Spayed Female,84,rare_dog,0.0,PM,2017-03-23
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2017-08-29
+Austin (TX),Public Assist,Normal,Spayed Female,48,Dog,Spayed Female,48,rare_dog,0.0,PM,2018-07-27
+Austin (TX),Owner Surrender,Normal,Neutered Male,60,Dog,Neutered Male,60,Cairn Terrier,0.0,AM,2015-01-07
+Travis (TX),Stray,Injured,Intact Female,9,Dog,Spayed Female,10,rare_dog,0.0,AM,2016-12-23
+Austin (TX),Stray,Normal,Neutered Male,60,Cat,Neutered Male,60,Domestic Shorthair,0.0,PM,2013-11-29
+Austin (TX),Stray,Normal,Unknown,0,Cat,Unknown,0,Domestic Shorthair,0.0,PM,2019-09-19
+Austin (TX),Stray,Injured,Intact Female,2,Cat,Spayed Female,4,Domestic Shorthair,0.0,PM,2019-07-13
+Austin (TX),Stray,Normal,Neutered Male,7,Dog,Neutered Male,7,rare_dog,0.0,PM,2016-09-04
+Austin (TX),Stray,Normal,Intact Male,2,Cat,Intact Male,2,Domestic Shorthair,0.0,PM,2014-07-06
+Travis (TX),Stray,Injured,Unknown,1,Bird,Unknown,1,Chicken,1.0,PM,2019-03-05
+Austin (TX),Stray,Normal,Intact Male,2,Dog,Neutered Male,2,rare_dog,0.0,PM,2019-09-07
+Manor (TX),Stray,Normal,Spayed Female,24,Cat,Spayed Female,24,Domestic Shorthair,0.0,PM,2017-02-11
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,rare_cat,0.0,PM,2015-06-01
+Austin (TX),Stray,Sick,Intact Female,2,Dog,Spayed Female,2,Boxer,0.0,AM,2014-08-02
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,PM,2019-09-13
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2014-06-23
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,AM,2016-10-24
+Austin (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,36,Boxer,0.0,PM,2015-05-19
+Austin (TX),Public Assist,Normal,Intact Female,1,Dog,Intact Female,1,Pit Bull,0.0,PM,2016-05-18
+Austin (TX),Stray,Normal,Neutered Male,48,Dog,Neutered Male,48,rare_dog,0.0,PM,2015-08-20
+Austin (TX),Stray,Normal,Neutered Male,24,Cat,Neutered Male,24,Domestic Longhair,0.0,PM,2014-04-17
+Austin (TX),Stray,Normal,Unknown,1,Cat,Unknown,1,Domestic Shorthair,0.0,PM,2019-05-03
+Austin (TX),Stray,Normal,Neutered Male,48,Dog,Neutered Male,48,rare_dog,0.0,AM,2014-12-15
+Austin (TX),Stray,Normal,Neutered Male,11,Dog,Neutered Male,11,Labrador Retriever,0.0,PM,2016-05-14
+Austin (TX),Owner Surrender,Medical,Spayed Female,3,Cat,Spayed Female,2,Domestic Shorthair,0.0,PM,2019-12-01
+Austin (TX),Stray,Normal,Intact Female,9,Cat,Intact Female,10,Domestic Longhair,0.0,PM,2014-10-30
+Travis (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,AM,2018-07-23
+Austin (TX),Stray,Normal,Intact Female,7,Dog,Spayed Female,8,Pointer,0.0,AM,2019-03-06
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Intact Male,1,rare_dog,0.0,PM,2016-06-22
+Austin (TX),Euthanasia Request,Sick,Neutered Male,120,Dog,Neutered Male,120,Miniature Poodle,1.0,PM,2016-05-25
+Outside Jurisdiction,Owner Surrender,Normal,Spayed Female,1,Dog,Spayed Female,1,Pit Bull,0.0,PM,2015-12-31
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2015-05-23
+Austin (TX),Owner Surrender,Normal,Unknown,1,Other,Unknown,1,rare,0.0,PM,2017-05-23
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Intact Female,1,Domestic Shorthair,0.0,AM,2014-06-18
+Austin (TX),Stray,Nursing,Intact Male,0,Dog,Intact Male,0,Pit Bull,0.0,PM,2015-04-10
+Travis (TX),Stray,Normal,Intact Male,4,Dog,Neutered Male,4,Labrador Retriever,0.0,PM,2014-01-07
+Austin (TX),Owner Surrender,Normal,Intact Male,0,Dog,Intact Male,0,rare_dog,0.0,PM,2013-11-04
+Austin (TX),Stray,Normal,Intact Male,1,Cat,Neutered Male,2,Domestic Shorthair,0.0,PM,2019-05-04
+Austin (TX),Stray,Normal,Intact Female,5,Cat,Intact Female,5,Domestic Shorthair,0.0,AM,2015-01-20
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,1,Domestic Shorthair,0.0,PM,2016-05-05
+Austin (TX),Stray,Normal,Intact Female,24,Cat,Spayed Female,24,Siamese,0.0,PM,2017-04-03
+Austin (TX),Stray,Normal,Intact Female,5,Dog,Spayed Female,5,rare_dog,0.0,PM,2015-01-27
+Travis (TX),Stray,Normal,Intact Female,24,Dog,Spayed Female,24,rare_dog,0.0,PM,2015-02-13
+Austin (TX),Stray,Normal,Intact Female,1,Cat,Spayed Female,5,Domestic Medium Hair,0.0,AM,2016-09-29
+Austin (TX),Stray,Normal,Intact Male,1,Dog,Neutered Male,1,rare_dog,0.0,PM,2019-03-08
+Pflugerville (TX),Stray,Normal,Spayed Female,156,Cat,Spayed Female,156,Domestic Medium Hair,0.0,PM,2017-10-22
+Austin (TX),Stray,Normal,Unknown,0,Other,Unknown,0,rare,0.0,AM,2015-11-10
+Austin (TX),Stray,Normal,Spayed Female,1,Dog,Spayed Female,1,Pit Bull,0.0,PM,2018-03-28
+Travis (TX),Stray,Normal,Intact Female,8,Dog,Spayed Female,8,rare_dog,0.0,PM,2019-11-25
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Cat,Intact Male,1,Domestic Shorthair,0.0,PM,2015-08-06
+Austin (TX),Owner Surrender,Normal,Spayed Female,84,Dog,Spayed Female,96,Labrador Retriever,0.0,PM,2017-10-11
+Pflugerville (TX),Stray,Normal,Intact Male,24,Dog,Neutered Male,24,Labrador Retriever,0.0,PM,2013-12-27
+Austin (TX),Owner Surrender,Normal,Intact Male,1,Dog,Intact Male,1,Chihuahua Shorthair,0.0,AM,2013-12-31
